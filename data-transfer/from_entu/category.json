@@ -1,0 +1,2157 @@
+[
+     {
+          "id": 4043,
+          "displaypicture": "https://secure.gravatar.com/avatar/8fb134f258b1f7865a6ab2d935a897c9?d=identicon&s=150",
+          "displayname": "Arvamus(Opinion)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-24 01:52:07",
+                              "db_value": "2016-01-24 01:52:07"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Arvamus",
+                              "db_value": "Arvamus"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:24:45",
+                              "db_value": "2016-01-23 11:24:45"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Arvamus(Opinion)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Opinion",
+                              "db_value": "Opinion"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 4036,
+          "displaypicture": "https://secure.gravatar.com/avatar/5b5e6cc50cefa5e9f1f5ca272b136475?d=identicon&s=150",
+          "displayname": "Etenduskunst(Performing Arts)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 09:43:02",
+                              "db_value": "2016-01-23 09:43:02"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Etenduskunst",
+                              "db_value": "Etenduskunst"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 09:42:50",
+                              "db_value": "2016-01-23 09:42:50"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Etenduskunst(Performing Arts)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Performing Arts",
+                              "db_value": "Performing Arts"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 4044,
+          "displaypicture": "https://secure.gravatar.com/avatar/df5354693177e83e8ba089e94b7b6b55?d=identicon&s=150",
+          "displayname": "Kogemus(Experience)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:24:57",
+                              "db_value": "2016-01-23 11:24:57"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kogemus",
+                              "db_value": "Kogemus"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:24:53",
+                              "db_value": "2016-01-23 11:24:53"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Kogemus(Experience)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Experience",
+                              "db_value": "Experience"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 4040,
+          "displaypicture": "https://secure.gravatar.com/avatar/ca4b33532855080dfa79cf8a925d146d?d=identicon&s=150",
+          "displayname": "Kriitika(Critics)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:25:21",
+                              "db_value": "2016-01-23 11:25:21"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kriitika",
+                              "db_value": "Kriitika"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:24:21",
+                              "db_value": "2016-01-23 11:24:21"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Kriitika(Critics)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Critics",
+                              "db_value": "Critics"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 623,
+          "displaypicture": "/api2/entity-623/picture",
+          "displayname": "Loeng(Lecture)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": []
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Loeng",
+                              "db_value": "Loeng"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": []
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "lecture.png",
+                              "db_value": 201
+                         }
+                    ]
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Loeng(Lecture)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Lecture",
+                              "db_value": "Lecture"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 626,
+          "displaypicture": "https://secure.gravatar.com/avatar/45645a27c4f1adc8a7a835976064a86d?d=identicon&s=150",
+          "displayname": "Diskussioon(Discussion)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": []
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Diskussioon",
+                              "db_value": "Diskussioon"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": []
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Loeng(Lecture)/Diskussioon(Discussion)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Discussion",
+                              "db_value": "Discussion"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 4045,
+          "displaypicture": "https://secure.gravatar.com/avatar/ee0e95249268b86ff2053bef214bfeda?d=identicon&s=150",
+          "displayname": "Maailm(World)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:25:04",
+                              "db_value": "2016-01-23 11:25:04"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Maailm",
+                              "db_value": "Maailm"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:25:03",
+                              "db_value": "2016-01-23 11:25:03"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Maailm(World)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "World",
+                              "db_value": "World"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3812,
+          "displaypicture": "/api2/entity-3812/picture",
+          "displayname": "Muusika(Music)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-24 13:44:10",
+                              "db_value": "2016-01-24 13:44:10"
+                         },
+                         {
+                              "value": "2016-01-24 13:44:10",
+                              "db_value": "2016-01-24 13:44:10"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Muusika",
+                              "db_value": "Muusika"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-28 10:11:37",
+                              "db_value": "2015-12-28 10:11:37"
+                         },
+                         {
+                              "value": "2014-05-28 06:18:46",
+                              "db_value": "2014-05-28 06:18:46"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "kratom-experiences.png",
+                              "db_value": 202
+                         }
+                    ]
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "koduleht, homepage, feature",
+                              "db_value": "koduleht, homepage, feature"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Muusika(Music)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Music",
+                              "db_value": "Music"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 1978,
+          "displaypicture": "https://secure.gravatar.com/avatar/405e28906322882c5be9b4b27f4c35fd?d=identicon&s=150",
+          "displayname": "Elektrooniline muusika(Electronic music)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-09-19 14:28:39",
+                              "db_value": "2015-09-19 14:28:39"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Elektrooniline muusika",
+                              "db_value": "Elektrooniline muusika"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-09-19 14:28:39",
+                              "db_value": "2015-09-19 14:28:39"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1207",
+                              "db_value": 1207
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Muusika(Music)/Elektrooniline muusika(Electronic music)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Electronic music",
+                              "db_value": "Electronic music"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 1979,
+          "displaypicture": "https://secure.gravatar.com/avatar/798cebccb32617ad94123450fd137104?d=identicon&s=150",
+          "displayname": "Mitmesugust(Other)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-10-05 11:52:13",
+                              "db_value": "2015-10-05 11:52:13"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Mitmesugust",
+                              "db_value": "Mitmesugust"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-09-19 14:28:39",
+                              "db_value": "2015-09-19 14:28:39"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1018",
+                              "db_value": 1018
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Muusika(Music)/Mitmesugust(Other)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Other",
+                              "db_value": "Other"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 5027,
+          "displaypicture": "https://secure.gravatar.com/avatar/853c68de7253cdd55dc37be410a45c60?d=identicon&s=150",
+          "displayname": "Näitus(Exhibition)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2017-08-22 11:46:23",
+                              "db_value": "2017-08-22 11:46:23"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Näitus",
+                              "db_value": "Näitus"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2017-08-22 11:46:06",
+                              "db_value": "2017-08-22 11:46:06"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Näitus(Exhibition)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Exhibition",
+                              "db_value": "Exhibition"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3810,
+          "displaypicture": "/api2/entity-3810/picture",
+          "displayname": "Performance(Performance)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-24 13:44:14",
+                              "db_value": "2016-01-24 13:44:14"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Performance",
+                              "db_value": "Performance"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-28 10:08:20",
+                              "db_value": "2015-12-28 10:08:20"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "performance_indicator.jpg",
+                              "db_value": 203
+                         }
+                    ]
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "koduleht, homepage, feature",
+                              "db_value": "koduleht, homepage, feature"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Performance(Performance)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Performance",
+                              "db_value": "Performance"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 622,
+          "displaypicture": "https://secure.gravatar.com/avatar/3871bd64012152bfb53fdf04b401193f?d=identicon&s=150",
+          "displayname": "Uus tsirkus(Circus)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": []
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Uus tsirkus",
+                              "db_value": "Uus tsirkus"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": []
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Performance(Performance)/Uus tsirkus(Circus)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Circus",
+                              "db_value": "Circus"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3809,
+          "displaypicture": "/api2/entity-3809/picture",
+          "displayname": "Tants(Dance)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-24 13:44:18",
+                              "db_value": "2016-01-24 13:44:18"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Tants",
+                              "db_value": "Tants"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-28 10:06:42",
+                              "db_value": "2015-12-28 10:06:42"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "Sports-Dancing-icon.png",
+                              "db_value": 204
+                         }
+                    ]
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "koduleht, homepage, feature",
+                              "db_value": "koduleht, homepage, feature"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Tants(Dance)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Dance",
+                              "db_value": "Dance"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3811,
+          "displaypicture": "/api2/entity-3811/picture",
+          "displayname": "Teater(Theatre)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-29 10:48:25",
+                              "db_value": "2015-12-29 10:48:25"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Teater",
+                              "db_value": "Teater"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-28 10:10:08",
+                              "db_value": "2015-12-28 10:10:08"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "arts-theatre_L.jpg",
+                              "db_value": 206
+                         }
+                    ]
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Teater(Theatre)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Theatre",
+                              "db_value": "Theatre"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 2056,
+          "displaypicture": "https://secure.gravatar.com/avatar/a96d3afec184766bfeca7a9f989fc7e7?d=identicon&s=150",
+          "displayname": "Komöödia(Comedy)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-06 23:05:16",
+                              "db_value": "2015-12-06 23:05:16"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Komöödia",
+                              "db_value": "Komöödia"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-09-23 11:23:42",
+                              "db_value": "2015-09-23 11:23:42"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1020",
+                              "db_value": 1020
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Teater(Theatre)/Komöödia(Comedy)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Comedy",
+                              "db_value": "Comedy"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 2721,
+          "displaypicture": "https://secure.gravatar.com/avatar/362387494f6be6613daea643a7706a42?d=identicon&s=150",
+          "displayname": "Laste - ja noorteteater(Children and Youth Theatre)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-28 09:47:44",
+                              "db_value": "2015-12-28 09:47:44"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Laste - ja noorteteater",
+                              "db_value": "Laste - ja noorteteater"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-10-13 13:21:47",
+                              "db_value": "2015-10-13 13:21:47"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1021",
+                              "db_value": 1021
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Teater(Theatre)/Laste - ja noorteteater(Children and Youth Theatre)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Children and Youth Theatre",
+                              "db_value": "Children and Youth Theatre"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3830,
+          "displaypicture": "https://secure.gravatar.com/avatar/fcde14913c766cf307c75059e0e89af5?d=identicon&s=150",
+          "displayname": "Loeng(Lecture)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-10 12:13:07",
+                              "db_value": "2016-01-10 12:13:07"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Loeng",
+                              "db_value": "Loeng"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-08 22:43:07",
+                              "db_value": "2016-01-08 22:43:07"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1339",
+                              "db_value": 1339
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Teater(Theatre)/Loeng(Lecture)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Lecture",
+                              "db_value": "Lecture"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 4042,
+          "displaypicture": "https://secure.gravatar.com/avatar/d3f5d4de09ea19461dab00590df91e4f?d=identicon&s=150",
+          "displayname": "Vastukaja(Reflections)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:24:40",
+                              "db_value": "2016-01-23 11:24:40"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Vastukaja",
+                              "db_value": "Vastukaja"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:24:35",
+                              "db_value": "2016-01-23 11:24:35"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Vastukaja(Reflections)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Reflections",
+                              "db_value": "Reflections"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3814,
+          "displaypicture": "/api2/entity-3814/picture",
+          "displayname": "Video(Video)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-09-29 12:01:18",
+                              "db_value": "2016-09-29 12:01:18"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Video",
+                              "db_value": "Video"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-28 10:12:06",
+                              "db_value": "2015-12-28 10:12:06"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Evelin Lõokene",
+                              "db_value": 614
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "timthumb.php",
+                              "db_value": 200
+                         }
+                    ]
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "koduleht, homepage, feature",
+                              "db_value": "koduleht, homepage, feature"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Video(Video)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Video",
+                              "db_value": "Video"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3736,
+          "displaypicture": "https://secure.gravatar.com/avatar/3e195b0793297114c668f772c6e2d9ba?d=identicon&s=150",
+          "displayname": "Animated Dreams(Animated Dreams)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-11-10 07:56:35",
+                              "db_value": "2015-11-10 07:56:35"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Animated Dreams",
+                              "db_value": "Animated Dreams"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-11-10 07:56:35",
+                              "db_value": "2015-11-10 07:56:35"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1159",
+                              "db_value": 1159
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Video(Video)/Animated Dreams(Animated Dreams)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Animated Dreams",
+                              "db_value": "Animated Dreams"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3726,
+          "displaypicture": "https://secure.gravatar.com/avatar/9fe77ac7060e716f2d42631d156825c0?d=identicon&s=150",
+          "displayname": "Film(Film)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-12-29 10:23:06",
+                              "db_value": "2015-12-29 10:23:06"
+                         },
+                         {
+                              "value": "2015-12-29 10:23:06",
+                              "db_value": "2015-12-29 10:23:06"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Film",
+                              "db_value": "Film"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-11-05 11:39:49",
+                              "db_value": "2015-11-05 11:39:49"
+                         },
+                         {
+                              "value": "2014-05-28 06:18:46",
+                              "db_value": "2014-05-28 06:18:46"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1298",
+                              "db_value": 1298
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Video(Video)/Film(Film)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Film",
+                              "db_value": "Film"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3719,
+          "displaypicture": "https://secure.gravatar.com/avatar/9e740b84bb48a64dde25061566299467?d=identicon&s=150",
+          "displayname": "PÖFF(PÖFF)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-11-05 11:39:48",
+                              "db_value": "2015-11-05 11:39:48"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "PÖFF",
+                              "db_value": "PÖFF"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-11-05 11:39:47",
+                              "db_value": "2015-11-05 11:39:47"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1056",
+                              "db_value": 1056
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Koduleht ",
+                              "db_value": 1927
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Video(Video)/PÖFF(PÖFF)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "PÖFF",
+                              "db_value": "PÖFF"
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 4039,
+          "displaypicture": "https://secure.gravatar.com/avatar/1cd73be1e256a7405516501e94e892ac?d=identicon&s=150",
+          "displayname": "Ühiskond(Society)",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-28 21:42:44",
+                              "db_value": "2016-01-28 21:42:44"
+                         }
+                    ]
+               },
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Ühiskond",
+                              "db_value": "Ühiskond"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-23 11:22:17",
+                              "db_value": "2016-01-23 11:22:17"
+                         }
+                    ]
+               },
+               "pl-id": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": []
+               },
+               "tag": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "magazine, kaja",
+                              "db_value": "magazine, kaja"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "path": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "/Ühiskond(Society)",
+                              "db_value": "{self.parent.category.path}/{self.et-name}({self.en-name})"
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Society",
+                              "db_value": "Society"
+                         }
+                    ]
+               }
+          }
+     }
+]
