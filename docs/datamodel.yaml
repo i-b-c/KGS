@@ -79,7 +79,7 @@ Town: &Town
 
 Organisation:
     _path: /organisations
-    slug: (UID)
+    slug: (UID, name_et)
     name_et: (text)
     name_en: (text)
     description_et: (text)
@@ -97,7 +97,8 @@ Hall: &Hall
 
 Location: &Location
     _path: /locations
-    slug: (UID, enter)
+    name: (text)
+    slug: (UID, name)
     hall: *Hall
     theater: *Organisation
     town: *Town
@@ -109,6 +110,7 @@ Person: &Person
     _path: /people
     first_name: (text)
     last_name: (text)
+    # first-name_last_name: (text, v6iks ise tekkida)
     picture: *StrapiMedia
     e_mail: (text)
     phone_number: (text)
@@ -129,21 +131,29 @@ Department: &Department
 BannerType: &BannerType
     _path: /banner-types
     name: (UID, enter)
+    slug: (UID, name)
     width: (number)
     height: (number)
+    remote_id: (UID)
 
 Banner: &Banner
     _path: /banners
     name: (text)
+    slug: (UID, name)
     image: *StrapiMedia # image
     url: (text)
-    order: (number)
+    order: (text)
     banner_type: *BannerType
+    remote_id: (UID)
+    start: (datetime)
+    end: (datetime)
 
-Tag: &Tag # loeng, tants, teater, prformance, video, n4itus
+Category: &Category # category loeng, tants, teater, prformance, video, n4itus
     slug: (UID, name_et)
     name_et: (text)
-    name_et: (text)
+    name_en: (text)
+    featured_on_front_page: (boolean)
+    remote_id: (UID)
 
 #Production
 Production: &Production
@@ -157,7 +167,7 @@ Production: &Production
     headline_et: (text)
     headline_en: (text)
     categories:
-        - *Tag
+        - *Category
     co_production: (boolean)
     co_production_importance: (number)
     artists:
@@ -189,7 +199,8 @@ Production: &Production
 #Event
 TicketInfo: &TicketInfo
     _path: /ticket-infos
-    slug: (UID, enter)
+    name: (text)
+    slug: (UID, name)
     price: (number)
     discount_price: (number)
     price_on_spot: (number)
@@ -254,7 +265,7 @@ Article: &Article
     publish_date: (datetime)
     first_page_promotion: (boolean)
     categories:
-        - *Tag
+        - *Category
     authors:
         - *Person
     original_images:
@@ -269,3 +280,18 @@ Article: &Article
     video: (text)
     content_et: (text rich)
     content_en: (text rich)
+
+Coverage: &Coverage
+    remote_id: (UID)
+    title: (text)
+    slug: (UID, title)
+    language: (enumeration)
+    production: *Production
+    source: (text)
+    url: (text)
+    media:
+        - *StrapiMedia
+    content: (text rich)
+    publish_date: (datetime)
+
+
