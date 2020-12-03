@@ -1,0 +1,825 @@
+[
+     {
+          "id": 615,
+          "displaypicture": "/api2/entity-615/picture",
+          "displayname": "Baltoscandal",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:29:07",
+                              "db_value": "2016-01-13 18:29:07"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2014-05-28 06:03:56",
+                              "db_value": "2014-05-28 06:03:56"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Baltoscandal",
+                              "db_value": "Baltoscandal"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.baltoscandal.ee/",
+                              "db_value": "http://www.baltoscandal.ee/"
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "Baltoscandal_2014_235x157.gif",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": []
+               }
+          }
+     },
+     {
+          "id": 616,
+          "displaypicture": "/api2/entity-616/picture",
+          "displayname": "Väike SAAL Biennaal 2015",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:28:49",
+                              "db_value": "2016-01-13 18:28:49"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2014-05-28 06:03:56",
+                              "db_value": "2014-05-28 06:03:56"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Väike SAAL Biennaal 2015",
+                              "db_value": "Väike SAAL Biennaal 2015"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "SAAL_B_235x157-uus.gif",
+                              "db_value": 141
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.saal.ee/event/828/",
+                              "db_value": "http://www.saal.ee/event/828/"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": []
+               }
+          }
+     },
+     {
+          "id": 617,
+          "displaypicture": "/api2/entity-617/picture",
+          "displayname": "Oli kord üks mets",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-10-15 13:28:22",
+                              "db_value": "2015-10-15 13:28:22"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2014-05-28 06:03:56",
+                              "db_value": "2014-05-28 06:03:56"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Oli kord üks mets",
+                              "db_value": "Oli kord üks mets"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.kinosoprus.ee/et/film/oli-kord-uks-mets",
+                              "db_value": "http://www.kinosoprus.ee/et/film/oli-kord-uks-mets"
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "hobused_235x157px.gif",
+                              "db_value": 6
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Karussell \"about\" lehel",
+                              "db_value": 2788
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3065,
+          "displaypicture": "/api2/entity-3065/picture",
+          "displayname": "Suur SAAL Biennaal 2015",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2015-10-15 15:55:24",
+                              "db_value": "2015-10-15 15:55:24"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2014-05-28 06:03:56",
+                              "db_value": "2014-05-28 06:03:56"
+                         },
+                         {
+                              "value": "2015-10-15 15:54:53",
+                              "db_value": "2015-10-15 15:54:53"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Suur SAAL Biennaal 2015",
+                              "db_value": "Suur SAAL Biennaal 2015"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "SAAL_B_235x157-uus.gif",
+                              "db_value": 141
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.saal.ee/event/828/",
+                              "db_value": "http://www.saal.ee/event/828/"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Karussell \"about\" lehel",
+                              "db_value": 2788
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3979,
+          "displaypicture": "/api2/entity-3979/picture",
+          "displayname": "Kultuurkapital",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-18 08:12:27",
+                              "db_value": "2016-01-18 08:12:27"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "1",
+                              "db_value": 1
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:32:22",
+                              "db_value": "2016-01-13 18:32:22"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kultuurkapital",
+                              "db_value": "Kultuurkapital"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "kulka.png",
+                              "db_value": 244
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://kulka.ee",
+                              "db_value": "http://kulka.ee"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Toetajad \"about\" lehel",
+                              "db_value": 2787
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3978,
+          "displaypicture": "/api2/entity-3978/picture",
+          "displayname": "Tallinn",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-18 08:11:48",
+                              "db_value": "2016-01-18 08:11:48"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "2",
+                              "db_value": 2
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:31:59",
+                              "db_value": "2016-01-13 18:31:59"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Tallinn",
+                              "db_value": "Tallinn"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "tallinn.png",
+                              "db_value": 243
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.tallinn.ee",
+                              "db_value": "http://www.tallinn.ee"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Toetajad \"about\" lehel",
+                              "db_value": 2787
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3977,
+          "displaypicture": "/api2/entity-3977/picture",
+          "displayname": "Kultuuriministeerium",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-18 08:18:37",
+                              "db_value": "2016-01-18 08:18:37"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "3",
+                              "db_value": 3
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:31:39",
+                              "db_value": "2016-01-13 18:31:39"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kultuuriministeerium",
+                              "db_value": "Kultuuriministeerium"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "kulmin.png",
+                              "db_value": 248
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.kul.ee/et",
+                              "db_value": "http://www.kul.ee/et"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Toetajad \"about\" lehel",
+                              "db_value": 2787
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3976,
+          "displaypicture": "/api2/entity-3976/picture",
+          "displayname": "Piletilevi",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-18 08:12:05",
+                              "db_value": "2016-01-18 08:12:05"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "4",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:31:07",
+                              "db_value": "2016-01-13 18:31:07"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Piletilevi",
+                              "db_value": "Piletilevi"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "piletilevi.png",
+                              "db_value": 245
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.piletilevi.ee",
+                              "db_value": "http://www.piletilevi.ee"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Toetajad \"about\" lehel",
+                              "db_value": 2787
+                         }
+                    ]
+               }
+          }
+     },
+     {
+          "id": 3975,
+          "displaypicture": "/api2/entity-3975/picture",
+          "displayname": "Eesti Etendusasutuste Liit",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-18 08:12:15",
+                              "db_value": "2016-01-18 08:12:15"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": [
+                         {
+                              "value": "5",
+                              "db_value": 5
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2016-01-13 18:30:16",
+                              "db_value": "2016-01-13 18:30:16"
+                         }
+                    ]
+               },
+               "name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Eesti Etendusasutuste Liit",
+                              "db_value": "Eesti Etendusasutuste Liit"
+                         }
+                    ]
+               },
+               "start": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "eeal.png",
+                              "db_value": 246
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.eeteal.ee",
+                              "db_value": "http://www.eeteal.ee"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Ranno Ait",
+                              "db_value": 1909
+                         }
+                    ]
+               },
+               "end": {
+                    "datatype": "date",
+                    "values": []
+               },
+               "type": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Toetajad \"about\" lehel",
+                              "db_value": 2787
+                         }
+                    ]
+               }
+          }
+     }
+]

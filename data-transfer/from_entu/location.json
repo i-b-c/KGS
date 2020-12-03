@@ -1,0 +1,252 @@
+[
+     {
+          "id": 5085,
+          "displaypicture": "https://secure.gravatar.com/avatar/9ce3c52fc54362e22053399d3181c638?d=identicon&s=150",
+          "displayname": "Projektiruum/Project room",
+          "properties": {
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Projektiruum",
+                              "db_value": "Projektiruum"
+                         }
+                    ]
+               },
+               "et-description": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "floorplan": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Project room",
+                              "db_value": "Project room"
+                         }
+                    ]
+               },
+               "en-description": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "geo": {
+                    "datatype": "string",
+                    "values": []
+               }
+          }
+     },
+     {
+          "id": 2162,
+          "displaypicture": "https://secure.gravatar.com/avatar/86e78499eeb33fb9cac16b7555b50767?d=identicon&s=150",
+          "displayname": "Stuudio/Studio",
+          "properties": {
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Stuudio",
+                              "db_value": "Stuudio"
+                         }
+                    ]
+               },
+               "et-description": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "floorplan": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Studio",
+                              "db_value": "Studio"
+                         }
+                    ]
+               },
+               "en-description": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "geo": {
+                    "datatype": "string",
+                    "values": []
+               }
+          }
+     },
+     {
+          "id": 2155,
+          "displaypicture": "https://secure.gravatar.com/avatar/a381c2c35c9157f6b67fd07d5a200ae1?d=identicon&s=150",
+          "displayname": "Keldrisaal/Keldrisaal",
+          "properties": {
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Keldrisaal",
+                              "db_value": "Keldrisaal"
+                         }
+                    ]
+               },
+               "et-description": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "8x6x3,5m - 30 kohta",
+                              "db_value": "8x6x3,5m - 30 kohta"
+                         }
+                    ]
+               },
+               "floorplan": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "kgs_cellar_plan.pdf",
+                              "db_value": 182
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Keldrisaal",
+                              "db_value": "Keldrisaal"
+                         }
+                    ]
+               },
+               "en-description": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "8x6x3,5m - 30 seats",
+                              "db_value": "8x6x3,5m - 30 seats"
+                         }
+                    ]
+               },
+               "geo": {
+                    "datatype": "string",
+                    "values": []
+               }
+          }
+     },
+     {
+          "id": 2111,
+          "displaypicture": "https://secure.gravatar.com/avatar/1a0a283bfe7c549dee6c638a05200e32?d=identicon&s=150",
+          "displayname": "Püha Vaimu SAAL/Püha Vaimu SAAL",
+          "properties": {
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Püha Vaimu SAAL",
+                              "db_value": "Püha Vaimu SAAL"
+                         }
+                    ]
+               },
+               "et-description": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "6x10x3,5m - 30-50 kohta",
+                              "db_value": "6x10x3,5m - 30-50 kohta"
+                         }
+                    ]
+               },
+               "floorplan": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "Püha Vaimu SAAL.pdf",
+                              "db_value": 265
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Püha Vaimu SAAL",
+                              "db_value": "Püha Vaimu SAAL"
+                         }
+                    ]
+               },
+               "en-description": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "6x10x3,5m - 30-50 seats",
+                              "db_value": "6x10x3,5m - 30-50 seats"
+                         }
+                    ]
+               },
+               "geo": {
+                    "datatype": "string",
+                    "values": []
+               }
+          }
+     },
+     {
+          "id": 2110,
+          "displaypicture": "https://secure.gravatar.com/avatar/c3535febaff29fcb7c0d20cbe94391c7?d=identicon&s=150",
+          "displayname": "Kanuti Gildi SAAL/Kanuti Gildi SAAL",
+          "properties": {
+               "et-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kanuti Gildi SAAL",
+                              "db_value": "Kanuti Gildi SAAL"
+                         }
+                    ]
+               },
+               "et-description": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "10x10x6,5m - 132 kohta",
+                              "db_value": "10x10x6,5m - 132 kohta"
+                         }
+                    ]
+               },
+               "floorplan": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "Kanuti Gildi SAAL Stage.pdf",
+                              "db_value": 266
+                         }
+                    ]
+               },
+               "en-name": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kanuti Gildi SAAL",
+                              "db_value": "Kanuti Gildi SAAL"
+                         }
+                    ]
+               },
+               "en-description": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "10x10x6,5m - 132 seats",
+                              "db_value": "10x10x6,5m - 132 seats"
+                         }
+                    ]
+               },
+               "geo": {
+                    "datatype": "string",
+                    "values": []
+               }
+          }
+     }
+]
