@@ -1,167 +1,95 @@
 -
-    id: 4
-    hall:
-        id: 3
-        name_et: Püha Vaimu SAAL
-        name_en: Püha Vaimu SAAL
-        hall_number: null
-        number_of_seats: 50
-        slug: pueha-vaimu-saal
-        published_at: '2020-12-04T10:14:04.983Z'
-        created_at: '2020-12-04T10:14:00.416Z'
-        updated_at: '2020-12-04T10:14:05.050Z'
-        description_et: '6x10x3,5m - 30-50 kohta'
-        description_en: '6x10x3,5m - 30-50 kohta'
+    id: 6
+    hall: null
     theater: null
     town: null
     country: null
     slug: null
-    published_at: '2020-12-04T10:38:02.994Z'
-    created_at: '2020-12-04T10:38:03.005Z'
-    updated_at: '2020-12-04T10:38:03.019Z'
-    name: null
-    name_et: Püha Vaimu SAAL
-    name_en: Püha Vaimu SAAL
-    remote_id: '2111'
--
-    id: 5
-    hall:
-        id: 2
-        name_et: Kanuti Gildi SAAL
-        name_en: Kanuti Gildi SAAL
-        hall_number: null
-        number_of_seats: 132
-        slug: kanuti-gildi-saal
-        published_at: '2020-12-04T10:12:23.664Z'
-        created_at: '2020-12-04T10:12:13.482Z'
-        updated_at: '2020-12-04T10:12:23.711Z'
-        description_et: '10x10x6,5m'
-        description_en: '10x10x6,5m'
-    theater: null
-    town: null
-    country: null
-    slug: null
-    published_at: '2020-12-04T10:38:03.213Z'
-    created_at: '2020-12-04T10:38:03.220Z'
-    updated_at: '2020-12-04T10:38:03.234Z'
-    name: null
-    name_et: Kanuti Gildi SAAL
-    name_en: Kanuti Gildi SAAL
-    remote_id: '2110'
--
-    id: 1
-    hall:
-        id: 6
-        name_et: Projektiruum
-        name_en: Project room
-        hall_number: null
-        number_of_seats: null
-        slug: projektiruum
-        published_at: '2020-12-04T10:17:12.726Z'
-        created_at: '2020-12-04T10:17:08.421Z'
-        updated_at: '2020-12-04T10:17:12.768Z'
-        description_et: null
-        description_en: null
-    theater: null
-    town:
-        id: 1
-        name_et: Tallinn
-        name_en: Tallinn
-        slug: tallinn
-        published_at: '2020-12-04T10:07:10.916Z'
-        created_at: '2020-12-04T10:06:29.708Z'
-        updated_at: '2020-12-04T10:07:10.965Z'
-    country:
-        id: 1
-        name_et: Eesti
-        name_en: Estonia
-        slug: eesti
-        published_at: '2020-12-04T10:07:32.882Z'
-        created_at: '2020-12-04T10:04:47.898Z'
-        updated_at: '2020-12-04T10:07:32.923Z'
-    slug: null
-    published_at: '2020-12-04T10:38:02.102Z'
-    created_at: '2020-12-04T10:38:02.137Z'
-    updated_at: '2020-12-04T11:00:44.098Z'
+    published_at: '2020-12-08T07:39:58.041Z'
+    created_at: '2020-12-08T07:39:58.074Z'
+    updated_at: '2020-12-08T07:39:58.074Z'
     name: null
     name_et: Projektiruum
     name_en: Project room
     remote_id: '5085'
+    slug_et: null
+    slug_en: null
+    description_et: null
+    description_en: null
+    floorplan: null
 -
-    id: 2
-    hall:
-        id: 5
-        name_et: Stuudio
-        name_en: Studio
-        hall_number: null
-        number_of_seats: null
-        slug: stuudio
-        published_at: '2020-12-04T10:17:20.554Z'
-        created_at: '2020-12-04T10:15:50.683Z'
-        updated_at: '2020-12-04T10:17:20.626Z'
-        description_et: null
-        description_en: null
+    id: 7
+    hall: null
     theater: null
-    town:
-        id: 1
-        name_et: Tallinn
-        name_en: Tallinn
-        slug: tallinn
-        published_at: '2020-12-04T10:07:10.916Z'
-        created_at: '2020-12-04T10:06:29.708Z'
-        updated_at: '2020-12-04T10:07:10.965Z'
-    country:
-        id: 1
-        name_et: Eesti
-        name_en: Estonia
-        slug: eesti
-        published_at: '2020-12-04T10:07:32.882Z'
-        created_at: '2020-12-04T10:04:47.898Z'
-        updated_at: '2020-12-04T10:07:32.923Z'
+    town: null
+    country: null
     slug: null
-    published_at: '2020-12-04T10:38:02.425Z'
-    created_at: '2020-12-04T10:38:02.441Z'
-    updated_at: '2020-12-04T11:01:01.323Z'
+    published_at: '2020-12-08T07:39:58.335Z'
+    created_at: '2020-12-08T07:39:58.350Z'
+    updated_at: '2020-12-08T07:39:58.350Z'
     name: null
     name_et: Stuudio
     name_en: Studio
     remote_id: '2162'
+    slug_et: null
+    slug_en: null
+    description_et: null
+    description_en: null
+    floorplan: null
 -
-    id: 3
-    hall:
-        id: 4
-        name_et: Keldrisaal
-        name_en: Keldrisaal
-        hall_number: null
-        number_of_seats: 30
-        slug: keldrisaal
-        published_at: '2020-12-04T10:15:34.863Z'
-        created_at: '2020-12-04T10:15:12.894Z'
-        updated_at: '2020-12-04T10:15:35.048Z'
-        description_et: '8x6x3,5m'
-        description_en: '8x6x3,5m'
+    id: 8
+    hall: null
     theater: null
-    town:
-        id: 1
-        name_et: Tallinn
-        name_en: Tallinn
-        slug: tallinn
-        published_at: '2020-12-04T10:07:10.916Z'
-        created_at: '2020-12-04T10:06:29.708Z'
-        updated_at: '2020-12-04T10:07:10.965Z'
-    country:
-        id: 1
-        name_et: Eesti
-        name_en: Estonia
-        slug: eesti
-        published_at: '2020-12-04T10:07:32.882Z'
-        created_at: '2020-12-04T10:04:47.898Z'
-        updated_at: '2020-12-04T10:07:32.923Z'
+    town: null
+    country: null
     slug: null
-    published_at: '2020-12-04T10:38:02.687Z'
-    created_at: '2020-12-04T10:38:02.717Z'
-    updated_at: '2020-12-04T11:01:13.725Z'
+    published_at: '2020-12-08T07:39:58.527Z'
+    created_at: '2020-12-08T07:39:58.558Z'
+    updated_at: '2020-12-08T07:39:58.558Z'
     name: null
     name_et: Keldrisaal
     name_en: Keldrisaal
     remote_id: '2155'
+    slug_et: null
+    slug_en: null
+    description_et: '8x6x3,5m - 30 kohta'
+    description_en: '8x6x3,5m - 30 seats'
+    floorplan: null
+-
+    id: 9
+    hall: null
+    theater: null
+    town: null
+    country: null
+    slug: null
+    published_at: '2020-12-08T07:39:58.870Z'
+    created_at: '2020-12-08T07:39:58.879Z'
+    updated_at: '2020-12-08T07:39:58.879Z'
+    name: null
+    name_et: Püha Vaimu SAAL
+    name_en: Püha Vaimu SAAL
+    remote_id: '2111'
+    slug_et: null
+    slug_en: null
+    description_et: '6x10x3,5m - 30-50 kohta'
+    description_en: '6x10x3,5m - 30-50 seats'
+    floorplan: null
+-
+    id: 10
+    hall: null
+    theater: null
+    town: null
+    country: null
+    slug: null
+    published_at: '2020-12-08T07:39:59.157Z'
+    created_at: '2020-12-08T07:39:59.177Z'
+    updated_at: '2020-12-08T07:39:59.177Z'
+    name: null
+    name_et: Kanuti Gildi SAAL
+    name_en: Kanuti Gildi SAAL
+    remote_id: '2110'
+    slug_et: null
+    slug_en: null
+    description_et: '10x10x6,5m - 132 kohta'
+    description_en: '10x10x6,5m - 132 seats'
+    floorplan: null

@@ -1,9 +1,9 @@
 -
     id: 459
     name_et: null
-    published_at: '2016-03-16T08:20:42.000Z'
+    published_at: '2016-03-15T00:00:00.000Z'
     created_at: '2020-12-07T16:08:20.181Z'
-    updated_at: '2020-12-07T16:08:20.181Z'
+    updated_at: '2020-12-08T13:56:53.000Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -90,9 +90,9 @@
 -
     id: 460
     name_et: null
-    published_at: '2016-03-09T13:02:18.000Z'
+    published_at: '2016-03-08T00:00:00.000Z'
     created_at: '2020-12-07T16:08:20.352Z'
-    updated_at: '2020-12-07T16:08:20.352Z'
+    updated_at: '2020-12-08T13:56:53.292Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -163,9 +163,9 @@
 -
     id: 461
     name_et: null
-    published_at: '2016-04-04T12:52:18.000Z'
+    published_at: '2016-02-22T00:00:00.000Z'
     created_at: '2020-12-07T16:08:20.497Z'
-    updated_at: '2020-12-07T16:08:20.497Z'
+    updated_at: '2020-12-08T13:56:53.598Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -210,9 +210,9 @@
 -
     id: 462
     name_et: null
-    published_at: '2016-02-19T13:47:17.000Z'
+    published_at: '2016-02-19T13:08:00.000Z'
     created_at: '2020-12-07T16:08:20.665Z'
-    updated_at: '2020-12-07T16:08:20.665Z'
+    updated_at: '2020-12-08T13:56:53.884Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -239,9 +239,9 @@
 -
     id: 463
     name_et: null
-    published_at: '2016-02-19T11:57:51.000Z'
+    published_at: '2016-01-30T14:00:00.000Z'
     created_at: '2020-12-07T16:08:20.832Z'
-    updated_at: '2020-12-07T16:08:20.832Z'
+    updated_at: '2020-12-08T13:56:54.098Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -325,9 +325,9 @@
 -
     id: 464
     name_et: null
-    published_at: '2016-01-28T13:25:14.000Z'
+    published_at: '2016-01-26T00:00:00.000Z'
     created_at: '2020-12-07T16:08:20.996Z'
-    updated_at: '2020-12-07T16:08:20.996Z'
+    updated_at: '2020-12-08T13:56:54.434Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -422,9 +422,9 @@
 -
     id: 465
     name_et: null
-    published_at: '2016-01-28T13:19:19.000Z'
+    published_at: '2016-01-19T00:00:00.000Z'
     created_at: '2020-12-07T16:08:21.253Z'
-    updated_at: '2020-12-07T16:08:21.253Z'
+    updated_at: '2020-12-08T13:56:54.619Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -526,29 +526,11 @@
     media: []
     authors: []
 -
-    id: 466
-    name_et: null
-    published_at: '2015-09-16T12:45:31.000Z'
-    created_at: '2020-12-07T16:08:21.424Z'
-    updated_at: '2020-12-07T16:08:21.424Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: null
-    content_et: 16. septembri uudise sisu
-    content_en: null
-    related_media: null
-    remote_id: '1972'
-    title_et: Uudis lisatud 16. september 2015
-    title_en: null
-    media: []
-    authors: []
--
     id: 467
     name_et: null
-    published_at: '2015-07-16T11:08:17.000Z'
+    published_at: '2014-07-13T00:00:00.000Z'
     created_at: '2020-12-07T16:08:21.588Z'
-    updated_at: '2020-12-07T16:08:21.588Z'
+    updated_at: '2020-12-08T13:56:55.108Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -566,11 +548,1311 @@
     media: []
     authors: []
 -
+    id: 325
+    name_et: null
+    published_at: '2020-11-27T00:00:00.000Z'
+    created_at: '2020-12-07T16:07:54.176Z'
+    updated_at: '2020-12-08T13:56:08.913Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2020-11-27T00:00:00.000Z'
+    content_et: >-
+        Karolin Poska soolo “Sinu nirvaanale” esietendub 5. detsembril Kanuti
+        Gildi SAALis. Tegu on kohaspetsiifilise lavastusega, kus Poska kutsub
+        publiku endaga rännakule läbi keldrisoppide ning mida mahub tänastele
+        oludele vastavalt vaatama vaid piiratud publikuhulk.  
+
+
+        Lavastus “Sinu nirvaanale” proovib läbi kehalise kogemuse jõuda lähemale
+        tänapäeval elamise tundele. Lavastaja ei hakka moraali lugema ega anna
+        hinnanguid, vaid kutsub tumedatel aegadel lahtiste silmadega unistama.
+        Kasutades keha, objekte, häält, maagiat ja ruumi, proovib ta elamise
+        ärevuses luua lohutust.  
+
+
+        Ta paneb enda puusad valetama, ta paneb sibula nutma, ta teeb midagi,
+        mis viib mitte millegini – miski pole tõene ja kõik on võimalik. Ta näeb
+        igavesti, ootab nirvaanat, kaaperdab, kukub jalad koos ja ihkab, mida
+        süda saab. Ta kutsub sind osa saama ilma osalemata.  
+
+
+        Karolin Poska on Tallinnas tegutsev koreograaf, etenduskunstnik ja
+        tantsija. Talle meeldib transformeerida reaalsust, mängida objektide ja
+        publiku ootustega. Tema esimene soololavastus “Thank you, you are
+        welcome, THANK YOU, you are welcome, thank you” etendus mitmel pool
+        Eestis ja ka piiri taga. Hetkel uudistab ta visuaalkunsti piirimail,
+        õppides kaasaegset kunsti Eesti Kunstiakadeemias.  
+
+
+        “Sinu nirvaanale” etendused Kanuti Gildi SAALis 5. - 13. detsembrini ja
+        25. - 29. jaanuarini.   
+
+
+        Lavastaja/etendaja: Karolin Poska  
+
+        Kunstnik: Maret Tamme  
+
+        Helikujundaja: Katrin Enni  
+
+        Valgus: Marko Odar  
+
+        Dramaturgiline tugi, projektijuht: Kaie Küünal  
+
+        Aitäh: Hanna Kritten Tangsoo, Theodore Parker   
+
+        Toetajad: Eesti Kultuurkapital, Floratrade OÜ  
+
+        Kaasproduktsioon: Kanuti Gildi SAAL  
+
+        Esietendus: 5.12.2020 Kanuti Gildi SAAL  
+
+        Keel ei ole takistuseks.   
+
+
+        Lavastusele puudub ligipääs liikumisraskustega inimestele, vabandame!  
+
+
+        Fotod: Martin Buschmann
+    content_en: null
+    related_media: null
+    remote_id: '6886'
+    title_et: Karolin Poska proovib elamise ärevuses luua lohutust
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 341
+    name_et: null
+    published_at: '2020-04-29T00:00:00.000Z'
+    created_at: '2020-12-07T16:07:57.387Z'
+    updated_at: '2020-12-08T13:56:13.879Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2020-04-29T00:00:00.000Z'
+    content_et: >-
+        Täna, rahvusvahelisel tantsupäeval, jagati Sõltumatu Etenduskunsti
+        Auhindadest välja kasvanud omaalgatuslikke preemiaid. Kuna
+        traditsioonilist tantsupäeva hommikusööki Kanuti Gildi SAALis sel aastal
+        ei toimunud, anti auhinnad üle virtuaalsel teel Zoom keskkonnas. Jagati
+        juba traditsiooniks muutunud preemiaid, aga oli ka uusi üllatajaid.
+        Kokku anti välja 6 auhinda.   
+          
+        Esmakordselt andsid auhinnad välja ZUGA ühendatud tantsijad: “Alustame
+        endale lähemalt, arvestades 2 + 2 olukorda anname välja 2 auhinda. Me ei
+        välista, et auhindu võib edaspidi olla rohkem või vähem. Mõttelise
+        auhinna anname kogu tantsukogukonnale.” Auhinna HEA HELI laureaat on
+        Lauri-Dag Tüür ja auhinna VÄÄRT VALGUS laureaat Oliver Kulpsoo.  
+          
+        Interaktiivne Üksus MTÜ tunnustab Alissa Šnaiderit julguse eest luua
+        lavastus, mis nii suurejooneliselt eri meediumite sümbioosiga mängib.
+        Tema lavastus “Weird tales I have tried to write” on suurepärane näide,
+        kuidas panna tööle iga meedium nii, et see on samaaegselt iseseisev teos
+        kui ka lavastuse terviku osa.  
+          
+        Oliver Kulpsoo nimelise auhinna pälvis Karolin Tamm. Žüriis olid lisaks
+        Oliver Kulpsoole ka eelmised laureaadid Mairika Plakso, Raho Aadla ja
+        Kai Valtna.   
+          
+        Patrick R. Vesi auhinna ennastsalgava tegevuse eest etenduskunstide
+        väljal 2019. aastal pälvis Maike Lond Malmborg.  
+          
+        Henri Hüti nimelise muusikalise kujunduse eripreemia pälvis Robert
+        Nikolajev esteetilise närvi tabamise eest lavastuses “You Will See So
+        Many Pretty Things”.   
+           
+        Head tantsupäeva!
+    content_en: null
+    related_media: null
+    remote_id: '6492'
+    title_et: >-
+        Rahvusvahelisel tantsupäeval jagati omaalgatuslikke etenduskunstide
+        auhindu
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 374
+    name_et: null
+    published_at: '2019-03-01T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:03.843Z'
+    updated_at: '2020-12-08T13:56:26.281Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2019-03-01T00:00:00.000Z'
+    content_et: >-
+        Avaldati Eesti teatriauhindade nominendid. Palju õnne kõigile
+        nomineerituile!
+
+        On meeliülendav leida nimekirjast nii mitmeid vabakutseliste kunstnike
+        poolt loodud töid, mille kaasprodutsendiks on Kanuti Gildi SAAL – 9
+        nominatsiooni 4 kategoorias, 8 erinevat lavastust. Oleme uhked ja
+        õnnelikud!
+
+
+        Algupärase dramaturgia auhinnale on nomineeritud:
+
+        Laur Kaunissaare, Aare Pilv, Jarmo Reha: Oomen
+
+
+        Etenduskunstide ühisauhinna nominendid:
+
+        MIMproject: Eesti ajalugu. Ehmatusest sündinud rahvas (koos
+        Rahvusooperiga Estonia ja EV 100 „Sajandi lugu“)
+
+        Mart Kangro, Juhan Ulfsak ja Eero Epner: Workshop
+
+        Henri Hütt ja Mihkel Ilus: Kapriisid III ja Kapriisid 3,5 (koos Kiasma
+        Teatriga)
+
+        Raho Aadla, Age Linkmann, Arolin Raudva ja Maarja Tõnisson, Kairi
+        Mändla, Liisi Eesmaa, Revo Koplus, Hello Upan ja Killu Sukmit: Olmeulmad
+        2 (koos Grete Nellise, Helen Sürjega)
+
+        kadrinoormets: Maandatud tõotus
+
+
+        Tantsuauhinna nominendid:
+
+        Raho Aadla, Age Linkmann, Arolin Raudva ja Maarja Tõnisson: Olmeulmad 2
+        (koos Grete Nellise ja Helen Sürjega)
+
+        Ruslan Stepanov: Невесомость
+
+
+        Lavastuse muusikalise kujunduse ja originaalmuusika auhinna nominent:
+
+        Artjom Astrov: „Невесомость“, „Workshop“, „Plaan T“ (koos Vaba Vormiga)
+
+
+        PALJU ÕNNE!
+    content_en: null
+    related_media: null
+    remote_id: '5809'
+    title_et: Teartiauhindade nominendid 2019!
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 348
+    name_et: null
+    published_at: '2019-12-15T00:00:00.000Z'
+    created_at: '2020-12-07T16:07:58.787Z'
+    updated_at: '2020-12-08T13:56:16.040Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2019-12-15T00:00:00.000Z'
+    content_et: "Kuulutame välja konkursi täitmaks kaks residentuurikohta 2020 esimesel poolaastal Püha Vaimu\_SAALis.   \nTegemist on ühekuulise\_residentuuriga, mida toetab stipendiumiga Eesti Kultuurkapital ning\_mille peamine eesmärk on pakkuda kunstnikule võimalust eksperimenteerida, arendada oma ideid ja uurida huvipakkuvaid teemasid.   \nResidentuuri ajaks palume valida kas jaanuar, veebruar, mai või juuni 2020.   \nOotame teie ideede kirjeldusi, residentuuri ajalist eelistust ja CV-sid\_\_kuni 19. detsembrini 2019 aadressile\_saal@saal.ee.  \n  \nResidentuurÜleskutse on avatud jagamiseks!"
+    content_en: "Kanuti Gildi SAAL is looking for artist-in-residency at Püha Vaimu SAAL in the first half of year 2020. We have two one month residency vacancies,\_which are funded by Estonian Cultural Endowment and its very nature is\_to offer a chance to experiment and research on a relevant topic for the artist.   \nFor the time period we kindly ask You to choose if You would like to work in January, February, May or June.   \nThe residency is opened for artists who are residing in Estonia or come from Estonia. We are waiting your idea descriptions, preferred period for residency\_\_and CVs to\_saal@saal.ee. Deadline is 19th of December 2019.  \n  \nThis call is open for sharing!"
+    related_media: null
+    remote_id: '6240'
+    title_et: Püha Vaimu SAALi residentuuri üleskutse
+    title_en: Call for residency at Püha Vaimu SAAL
+    media: []
+    authors: []
+-
+    id: 366
+    name_et: null
+    published_at: '2019-05-24T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:02.203Z'
+    updated_at: '2020-12-08T13:56:21.636Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2019-05-24T00:00:00.000Z'
+    content_et: >-
+        Lavastust "Workshop" on viimase aasta jooksul etendatud erinevatel
+        festivalidel Soomes, Lätis ja Šveitsis, mõnes neist korduvalt.
+        Vastukajad Mart Kangro, Juhan Ulfsaki ja Eero Epneri lavastusele on
+        olnud positiivsed. Helsingin Sanomat kirjutas pärast külalisetendusi
+        Espoos: "Oma temaatikalt võiks Workshop kergesti lahjeneda keskealisete
+        teatrimeeste enesehaletsuslikuks arveteklaarimiseks. Aga nii ei juhtu.
+        Meheksolemise mudeleid ja tänapäeva väärtusmaailma lahatakse nutikalt.
+        Esitajad ühendavad vahetut isiklikkust ja võõrandunud teatrimänge väga
+        meisterilikult." Lavastusele antakse maksimumpunktid ning lisatakse:
+        "Etendust Workshop võib kirjeldada kui teatud täielikku elamiseõpetust,
+        kus käiakse läbi inimese olemus rakutasandilt homo sapiensini ja
+        jõutakse erinevate oskuste kaudu suuremate, elu mõtte üle arutlevate
+        sfäärideni. Esinejad võtavad huumori kaudu distantsi, aga tõsised
+        eksistentsiaalsed kriisid on laval tõelised."  
+
+        Möödunud nädalal osales lavastus saksakeelse ruumi ühel olulisemal
+        festivalil auawirleben Bernis. Ajalehes Der Bund arvas kriitik: "Nad
+        võtavad pealtnäha juhuslikult ette verdtarretavaid teemasid − uinuvast
+        imikust minnakse otse üle surnuga ümberkäimiseni − ja seeläbi näitavad
+        nad täiuslikkuse iha teises valguses. Milleks see kõik? Kangro, Ulfsak
+        ja Epner annavad aimu tühisusest, mis saadab inimese igavest õppimist,
+        vaevanägemist ja pingutusi."  
+
+        Lavastus on kutsutud veel festivalidele Sloveenias, Norras ja Leedus.  
+          
+        Eestis näib "Workshopi" taas aasta lõpus. Etendused toimuvad 28-30.
+        detsembril Kanuti Gildi SAALis, Tallinnas.   
+          
+        Lavastuse autorid Mart Kangro, Juhan Ulfsak ja Eero Epner,
+        valguskunstnik Oliver Kulpsoo, helikunstnik Artjom Astrov, produtsent
+        Maria Arusoo, kaasprodutsent Kanuti Gildi SAAL.  
+          
+        Lisainfo: www.saal.ee
+    content_en: null
+    related_media: null
+    remote_id: '5966'
+    title_et: '"Workshopi" hea vastuvõtt välismaal'
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 398
+    name_et: null
+    published_at: '2018-04-18T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:08.276Z'
+    updated_at: '2020-12-08T13:56:36.382Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-04-18T00:00:00.000Z'
+    content_et: >+
+        Kanuti Gildi SAAL kutsub rahvusvahelise tantsupäeva puhul 29. aprillil
+        väljasõidule Viljandisse TANTS(U)GALAle, mille käigus antakse üle ka
+        omaalgatuslikud auhinnad!  
+
+
+        Viljandi tantsunädal kulmineerub TANTS(U)GALAga ehk TÜ Viljandi
+        Kultuuriakadeemia tantsukunsti diplomandide lavastuste esitlemisega
+        Ugala teatris. Väljasõidule tulijatele on päevapilet 5.99 EURi ja
+        täpsema ajakava leiab -
+        [www.ticketer.ee/tants-u-gala/](https://www.ticketer.ee/tants-u-gala/).  
+
+
+        Kanuti Gildi SAALi tantsupäeva hommikusöökide käigus välja kujunenud
+        omaalgatuslike preemiate üleandmiseks ehk tunnustuse jagamiseks isiklike
+        kompromissitute sisekategooriate järgselt on päevakavasse reserveeritud
+        hetk kell 16:00. Seekord lähevad üle andmisele - Henri Hüti muusikalise
+        kujunduse auhind, Patrick R. Vesi auhind, Oliver Kulpsoo nimeline auhind
+        ning korruptsioonipreemia, mille annab üle Sandra Jõgeva. Omaalgatuslike
+        auhindade jagamise nimekiri on avatud, kel huvi võib lahkesti liituda!  
+
+
+        Väljasõidu buss, sümboolsete suupistete ja keelekastega, viib huvilised
+        Tallinnast kell 11:00 Viljandisse ja toob kell 20:00 tagasi.   
+
+
+        Kui oled kaasa tulemas anna sellest teada 23. aprilliks kaie@saal.ee,
+        siis teame broneerida sulle koha bussis ja varuda klassikalise
+        jäätisekokteili Ugala kohvikus.  
+
+    content_en: null
+    related_media: null
+    remote_id: '5365'
+    title_et: Rahvusvahelise tantsupäeva väljasõit Viljandisse TANTS(U)GALAle
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 405
+    name_et: null
+    published_at: '2018-02-20T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:09.729Z'
+    updated_at: '2020-12-08T13:56:38.386Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-02-20T00:00:00.000Z'
+    content_et: >-
+        Pressiteade 20.02.2018  
+
+        Täna esietendub Kanuti Gildi SAALis Mart Kangro, Juhan Ulfsaki ja Eero
+        Epneri lavastus “WORKSHOP”.  
+
+
+        Täna, 20. veebruaril esietendub Kanuti Gildi SAALis Mart Kangro, Juhan
+        Ulfsaki ja Eero Epneri lavastus “WORKSHOP”. See on lavastus õppimisest
+        ja õpetamisest, kus laval on Ulfsak, Kangro ja Epner ise. Lavastust saab
+        Kanuti Gildi SAALis näha veebruaris, märtsis ja aprillis kokku seitsmel
+        korral.    
+
+
+        Kuidas lüüa naela laua sisse. Kuidas õppida rääkima. Kuidas avada ust.
+        Kuidas olla empaatiline. Kuidas aru saada geomeetriast ning kuidas
+        vabaneda süütunde poolt põhjustatud kannatustest. Õpetamine on miski,
+        mis saab alguse juba embrüos ning jätkub kuni aastakümneid hetkeni, mil
+        inimesed molekulid lagunevad olematusse. Inimeseks ei sünnita, inimeseks
+        õpitakse. Õpitakse, kuidas teha nii, et ebamäärasest bioloogilisest
+        rakukogumist saab inimene. Vundamendi valamine. Vannitoa puhastamine
+        nii, et kuhugi ei jääks inetuid plekke. Hammaste pesemine õige nurga
+        all. Armastuse väljendamine. Õige hingamine sünnitamisel ja väärikuse
+        säilitamine suremisel. 
+
+        Kas sa teadsit, et..?  
+
+
+        Esietendus toimub 20. veebruaril kell 19:30, järgmised etendused 21.
+        veebruaril, 29. ja 30. märtsil ning 2., 3. ja 4. aprillil kell 19:30
+        Kanuti Gildi SAALis. Etendusele 21. veebruaril järgneb vestlus
+        kunstnikega, mida viivad läbi Hanno Soans ja Maria Arusoo.   
+
+
+        Idee, teostus, esitus: Mart Kangro, Juhan Ulfsak, Eero Epner (NO99)  
+
+        Produtsent, konsultant: Maria Arusoo  
+
+        Helikujundus: Artjom Astrov  
+
+        Valguskujundus: Oliver Kulpsoo  
+
+        Kaasprodutsent: Kanuti Gildi SAAL  
+
+        Toetaja: Eesti Kultuurkapital  
+
+        Täname: Jana Kadastik, Hannes Praks, Kairi Mändla, Reigo Tammjärv  
+
+
+        Piletid eelmüügis Piletilevis 8/12 EUR ning kohtade olemasolul pool
+        tundi enne algust kohapeal 10/15 EUR.
+    content_en: null
+    related_media: null
+    remote_id: '5311'
+    title_et: >-
+        Pressiteade 20.02.2018: Täna esietendub Kanuti Gildi SAALis Mart Kangro,
+        Juhan Ulfsaki ja Eero Epneri lavastus “WORKSHOP”.
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 378
+    name_et: null
+    published_at: '2019-01-09T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:04.596Z'
+    updated_at: '2020-12-08T13:56:30.337Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2019-01-09T00:00:00.000Z'
+    content_et: >-
+        Kuidas võidetakse kultuuripoliitikaga valimisi? 19. jaanuaril kogunevad
+        Kanuti Gildi SAAL-is kõigi suuremate erakondade esindajad, et avada
+        Eesti kultuuripoliitika sõlmküsimused. Poliitikud. Moderaatorid. Publik.
+        Vahekommentaarid. Kirg ja sõnaosavus. Kaevume põhimõtete ja võib-olla
+        teravustenigi. Arutelupäevast teeb otseülekande ERRi kultuuriportaal.  
+          
+        Kui tihti jõuavad Eesti kultuuripoliitikateemalised sõnavõtud kaugemale
+        põhiseaduse preambuli meeldetuletamisest? Millal täidavad
+        kultuuripoliitilised seisukohad Pirita tee või Puškini tänava
+        reklaampinnad? Kuhu viib kultuuripoliitika status quo ja millised on
+        alternatiivid? Võib arvata, et Eesti poliitilistel jõududel on
+        kultuuripoliitika tuleviku osas palju seisukohti, aga kuulda on neid
+        harva. Kas kultuur ei too hääli? Selles ei saa olla kindel enne, kui
+        kultuuripoliitika (nii kitsas kui laias tähenduses) valimiste eel
+        korralikult läbi arutada. Just selleks „Poliitikapidu“ toimubki.
+
+
+        **AJAKAVA 19.01.2019**  
+          
+        13:30 avatakse uksed.  
+          
+        14:00-15:15 LOOMEVABADUS JA ISIKUÕIGUSED  
+
+        Millal on põhjendatud isikuõiguste riive loominguliste eesmärkide
+        täitmiseks? Millal on loomevabaduse piiramine õigustatud? Mis põhjused
+        kaaluvad üles loomevabaduse? Kuidas tagada loomevabadus isikuõigusi
+        riivamata? Mis on riigi roll loomevabaduse tagamisel? Millal on riigil
+        õigus loomevabadust piirata? Kust algab tsensuur? Mil määral on riik
+        vastutav loovisikute enesetsensuuri eest? Kui palju mitmekesisust vajab
+        Eesti kultuur?
+          
+        16:00-17:15 KOHALIK/RIIKLIK/RAHVUSVAHELINE  
+
+        Kes ei tahaks rohkem Arvo Pärte, aga kust nad tulevad? Kui pikas
+        perspektiivis mõõta kultuurinvesteeringute tasuvust? Millises tasakaalus
+        on ja/või peaksid olema Eesti kultuuris arengus kohalik, riiklik ja
+        rahvusvaheline mõõde? Kuidas võiksid kultuuripoliitikat suunata
+        kohalikud omavalitsused? Mis on Eesti kultuuris eestilikku ja millised
+        on eestilikkuse kõrval muud riiklikud huvid kultuuri suhtes? Kas
+        rahvusvaheline tähendab lihtsalt kümme korda kuulsam või veel midagi?
+        Mille järgi otsustada kultuurinähtuste sordiaretuslik eeliskastmine?
+        Kuidas kultuuris kestlikult kahaneda? Kuidas lasta
+        kultuuriinstitutsioonidel surra?
+          
+        18:00-19:00 KULTUUR – KELLE VÕI MILLE TEENISTUSES?  
+
+        Kas kultuuripoliitikaga saab võita valimisi? Kuidas mõjutab Eesti
+        kultuur Eesti majandust? Kes on Eesti kultuurimaastikul esindamata? Kas
+        laulupidu saaks olla ka teisiti? Mille osas valitseb Eesti
+        kultuuripoliitikas poliitiliste jõudude ülene konsensus? Milline mõju on
+        kultuurimaastikule rahastuse tsüklilisusel (EV100, kultuuripealinnad)?
+          
+        19:00 Väljajuhatus muusika ja muuga.  
+
+          
+        Üritust toetab Goethe Instituut projekti Freiraum raames.  
+
+        Üritus on tasuta.
+    content_en: null
+    related_media: null
+    remote_id: '5734'
+    title_et: >-
+        Pressiteade 9.01.2019: 19. jaanuaril toimub Kanuti Gildi SAALis
+        POLIITIKAPIDU
+    title_en: POLIITIKAPIDU will take place in Kanuti Gildi SAAL
+    media: []
+    authors: []
+-
+    id: 390
+    name_et: null
+    published_at: '2018-06-12T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:06.929Z'
+    updated_at: '2020-12-08T13:56:33.960Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-06-12T00:00:00.000Z'
+    content_et: >-
+        Alates 14. juunist saab Dresdeni Kunstihoones vaadata koostöös Kanuti
+        Gildi SAALiga sündinud näitust „Freiheit zur Freiheit“, muu hulgas Jaan
+        Toomiku videoinstallatsiooni „Oleg“. Näitus on osa üleeuroopalisest
+        projektist Freiraum, mille algatas Goethe Instituut.
+
+
+        Mida tähendab vabadus tänapäeval Euroopas; kus on vabadus piiratud või
+        ohus? Euroopa Goethe Instituutide projekti Freiraum raames alustavad
+        Kanuti Gildi SAAL ja Dresdeni Kunstihoone ühist näituse- ja
+        üritusesarja, mis käsitleb vabaduse küsimusi Euroopas. Näitusega
+        „Freiheit zur Freiheit“, mis avatakse 14. juunil Dresdenis, uurivad
+        projektipartnerid vabaduse eeldusi kahes üksteisest kaugel asuvas
+        Euroopa punktis – Tallinnas ja Dresdenis.
+
+
+        Millistel tingimustel on vabadus üldse võimalik? Selleks et mõista
+        Euroopa vabadust kunsti vaatenurgast, tundub oluline heita pilk
+        minevikku. Dresdenis avatud näitusel esitletakse kolme kunstniku teoseid
+        kolmest geograafilisest ja aja(loo)lisest perspektiivist – Mauthauseni
+        ja Varssavi, Saksa Demokraatliku Vabariigi ja Poola Rahvavabariigi ning
+        iseseisvuse taastamise eelse ja järgse Tallinna vahel. Terrori ja
+        autoritaarsete režiimide kogemise kiuste peegeldub just Marian Boguszi,
+        Christa Jeitneri ja Jaan Toomiku töödes tollase noore põlvkonna
+        optimismi ja sõltumatust ning elavat püüdlust kunstilise vabaduse
+        järele.
+
+
+        Näitus annab avalöögi järgmistele üritustele, mis toimuvad sügisel nii
+        Dresdenis kui ka Tallinnas.
+
+
+        FREIRAUM  
+
+        Projekt Freiraum soovib välja selgitada, kuidas on Euroopa linnades lood
+        vabadusega. Millised küsimused tõusevad esile, kui kodanikud, teadlased
+        ja kultuuritegelased mõtisklevad vabaduse mõiste üle konkreetses kohas?
+        Milliseid probleeme konkreetses linnades nähakse? 38 Goethe Instituuti
+        ja nende partnerid kunstivaldkonnast ja kodanikuühiskonnast vahetavad
+        küsimusi elavalt üle kogu Euroopa ning leiavad küsimustele distantsilt
+        vaatajate abil loovaid vastused.
+
+
+        Lähem info Goethe Instituudi kodulehel:
+        [www.goethe.de/freiraum](https://www.goethe.de/prj/fre/de/index.html?wt_sc=freiraum)
+
+        Partnerid:  
+
+        [www.kunsthausdresden.de](http://www.kunsthausdresden.de/)  
+
+        [www.saal.ee](https://www.saal.ee/et/)
+    content_en: null
+    related_media: null
+    remote_id: '5418'
+    title_et: 'Pressiteade 12.06.18: VABADUSE JÄLIL TALLINNA JA DRESDENI VAHEL'
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 410
+    name_et: null
+    published_at: '2018-01-31T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:10.811Z'
+    updated_at: '2020-12-08T13:56:39.770Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-01-31T00:00:00.000Z'
+    content_et: >-
+        Pressiteade 31.01.2018  
+
+        Kanuti Gildi SAALis esieten dub Mart Kangro, Juhan Ulfsaki ja Eero
+        Epneri lavastus “WORKSHOP”
+
+
+        20.veebruaril esietendub Kanuti Gildi SAALis Mart Kangro, Juhan Ulfsaki
+        ja Eero Epneri lavastus “WORKSHOP”. See on lavastus õppimisest ja
+        õpetamisest, kus laval on Ulfsak, Kangro ja Epner ise. Lavastust saab
+        Kanuti Gildi SAALis näha veebruaris, märtsis ja aprillis kokku seitsmel
+        korral.    
+
+
+        Kuidas lüüa naela laua sisse. Kuidas õppida rääkima. Kuidas avada ust.
+        Kuidas olla empaatiline. Kuidas aru saada geomeetriast ning kuidas
+        vabaneda süütunde poolt põhjustatud kannatustest. Õpetamine on miski,
+        mis saab alguse juba embrüos ning jätkub kuni aastakümneid hetkeni, mil
+        inimesed molekulid lagunevad olematusse. Inimeseks ei sünnita, inimeseks
+        õpitakse. Õpitakse, kuidas teha nii, et ebamäärasest bioloogilisest
+        rakukogumist saab inimene. Vundamendi valamine. Vannitoa puhastamine
+        nii, et kuhugi ei jääks inetuid plekke. Hammaste pesemine õige nurga
+        all. Armastuse väljendamine. Õige hingamine sünnitamisel ja väärikuse
+        säilitamine suremisel. 
+
+        Kas sa teadsit, et..?  
+
+
+        Esietendus toimub 20. veebruaril kell 19:30, järgmised etendused 21.
+        veebruaril, 29. ja 30. märtsil ning 2., 3. ja 4. aprillil kell 19:30
+        Kanuti Gildi SAALis. Etendusele 21. veebruaril järgneb vestlus
+        kunstnikega.   
+
+
+        Idee, teostus, esitus: **Mart Kangro, Juhan Ulfsak, Eero Epner**
+        (NO99)  
+
+        Produtsent, konsultant: **Maria Arusoo**  
+
+        Helikujundus: **Artjom Astrov**  
+
+        Valguskujundus: **Oliver Kulpsoo**  
+
+        Kaasprodutsent: Kanuti Gildi SAAL  
+
+        Toetaja: Eesti Kultuurkapital  
+
+        Täname: Jana Kadastik, Hannes Praks, Kairi Mändla, Reigo Tammjärv  
+
+
+        Piletid eelmüügis Piletilevis 8/12 EUR ning kohtade olemasolul pool
+        tundi enne algust kohapeal 10/15 EUR.
+    content_en: null
+    related_media: null
+    remote_id: '5291'
+    title_et: >-
+        Pressiteade 31.01.2018: Kanuti Gildi SAALis esietendub Mart Kangro,
+        Juhan Ulfsaki ja Eero Epneri lavastus “WORKSHOP”
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 418
+    name_et: null
+    published_at: '2017-11-14T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:12.525Z'
+    updated_at: '2020-12-08T13:56:42.117Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2017-11-14T00:00:00.000Z'
+    content_et: >-
+        Kaasaegse etenduskunsti keskus Kanuti Gildi SAAL sõidab koos sõpradega
+        Düsseldorfi ja Nanterre’i Eesti Vabariik 100 ja EL Nõukogu eesistumise
+        raames Eesti juubelit tähistama.
+
+
+        Kanuti Gildi SAAL tähistab 24.-25. novembril Eesti esimest Euroopa Liidu
+        Nõukogu eesistumist ja Eesti Vabariigi 100. juubelit kaasaegses
+        etenduskunsti keskuses Forum Freies Theater’is ja kohalikus
+        alternatiivse kinomajas Filmwerkstattis, Düsseldorfis, samuti toimub
+        sarnast laadi, kuid erineva sisuga üritus 15.-16. detsembril
+        Nanterre-Amandiers Teatris Nanterre’is, Prantsusmaal. Saksamaal toimuva
+        ürituse nimi on eestipäraselt “Sünnipäevapidu” ja Prantsusmaal toimuv
+        kannab nime “Week End Estonien”.
+
+
+        “Sünnipäevapidu” ja “Week End Estonien”  üritused on lisaks
+        tähistamisele loodud eesmärgiga luua kohalikele ärksameelsetele võimalus
+        tutvuda Eestile eripärase käekirjaga kunstiga. Mõlema ürituse eripära
+        seisneb selles, et nende päevade sisu sünnib vastavalt kohalikule
+        kontekstile koostöös sealse partneriga. Kaks etendus- ja visuaalkunstide
+        nädalavahetust Düsseldorfis ja Nanterre’is on sulam etendustest, filmist
+        ning visuaal-muusikalistest elamustest, mis kinnitab ühelt poolt 100.
+        aastaseks saava Eesti iseenesestmõistetavat kuulumist Euroopa
+        kultuuriruumi ning samas annab võimaluse tuua esile meie ainulaadsed
+        eripärad.
+
+
+        Programm Düsseldorfis algab reedel kohalikus Filmwerkstattis, kus Daniel
+        Vaarik räägib e-residentsusest ning vestleb Patrick Schifferiga
+        (Piratenpartei liider) demokraatia võimalikkusest Interneti ajastul.
+        Õhtu jätkub Teater NO99 filmiga “Kust tuleb tolm ja kaob raha” ning
+        lõppeb elektroonilise muusikaduo Cubus Larvikuga, kes koos VJ Emer
+        Värgiga loovad visuaalse ja helilise rännaku.
+
+        Laupäeval astuvad Forum Freies Theater’is üles Karl Saks oma Eesti
+        Teatriliidu tantsuauhinna pälvinud soololavastusega “Seisund ja disain”,
+        Maike Lond Malmborg palju tuuritanud loeng-etendusega “"10 journeys to a
+        place where nothing happens*" ja saab näha ka Kädi Metsoja nooruslikku
+        energiat pulbitsevat tsirkus-tantsulavastust “Moiste”.
+
+
+        ![EW100](https://saal.entu.ee/api2/file-3512)
+
+
+        Kanuti Gildi SAALi kontakt: Maarja Kalmre  
+
+        maarja@saal.ee  
+
+        +372 55647931  
+
+        www.saal.ee  
+
+
+        lisaks:
+
+
+        [www.ev100.ee/et/sunnipaevapidu](https://www.ev100.ee/et/sunnipaevapidu)  
+
+        [fft-duesseldorf.de/stueck/100-jahre-estland/](https://fft-duesseldorf.de/stueck/100-jahre-estland/)  
+
+        [www.filmwerkstatt-duesseldorf.de/
+        ](http://www.filmwerkstatt-duesseldorf.de/)
+    content_en: >-
+        Contemporary performing arts centre Kanuti Gildi SAAL and friends are
+        going to Düsseldorf and Nanterre within the framework of Estonian
+        Presidency of the Council of the European Union and a hundred years of
+        the Republic of Estonia to celebrate its birthday.  
+
+
+        On 24th-25th of November Kanuti Gildi SAAL from Tallinn celebrates the
+        first Estonian Presidency of the Council of the European Union and a
+        hundred years of the Republic of Estonia at the professional free
+        theatre Forum Freies Theater and at local alternative film centre
+        Filmwerkstatt in Düsseldorf. Moreover, similar event, but with different
+        content also takes place in Nanterre, France. Düsseldorf’s event is
+        titled Sünnipäevapidu and the one at France Week End Estonien.  
+
+
+        Sünnipäevapidu and Week End Estonien are events that in addition to its
+        celebratory purpose create an opportunity for local agile ones to enjoy
+        Estonian unique art. The programme for both events is combined with the
+        collaboration partner taken the local context into consideration. One
+        weekend in Düsseldorf and in Nanterre are melting pot of theatre, film
+        and visual-musical performances, which on one hand affirms our 100 year
+        old country belonging to the European cultural sphere, but also gives an
+        opportunity to show our one-of-a-kind artworks.  
+
+
+        The programme in Düsseldorf begins on friday at the local Filmwerkstatt,
+        where Daniel Vaarik will talk about e-residency and also have a
+        discussion with Patrick Schiffer (federal chairman of Pirate Party)
+        about the possibilities of democracy during the Internet era. The
+        evening continues with the Theatre NO99 documentary about creating a
+        fake political party as a theatre grand event “Ash and Money” and ends
+        with the electronical music duo Cubus Larvik together with VJ Emer Värk.
+
+        On saturday at Forum Freies Theater Karl Saks will show his solo piece 
+        “State and design”,  that was awarded by the Estonian Theatre Union as
+        the best dance performance 
+         “Maike Lond Malmborg will perform with her lecture-performance “10 journeys to a place where nothing happens*” that has toured around the world and last but not least Kädi Metsoja’s energetic circus and dance performance “Moiste”.  
+
+        ![EW100](https://saal.entu.ee/api2/file-3512)
+
+
+        The contact from Kanuti Gildi SAAL: Maarja Kalmre  
+
+        maarja@saal.ee  
+
+        +372 55647931  
+
+        www.saal.ee  
+
+
+        additional links:  
+
+
+        [www.ev100.ee/et/sunnipaevapidu](https://www.ev100.ee/et/sunnipaevapidu)  
+
+        [fft-duesseldorf.de/stueck/100-jahre-estland/](https://fft-duesseldorf.de/stueck/100-jahre-estland/)  
+
+        [www.filmwerkstatt-duesseldorf.de/
+        ](http://www.filmwerkstatt-duesseldorf.de/)
+    related_media: null
+    remote_id: '5150'
+    title_et: >-
+        Pressiteade 14.11.2017: Kanuti Gildi SAAL viib Eesti Vabariigi
+        sünnipäeva Düsseldorfi ja Nanterre’i.
+    title_en: >-
+        Press release 14.11.2017: Contemporary performing arts centre Kanuti
+        Gildi SAAL and friends take the birthday of the Republic of Estonia to
+        Düsseldorf and Nanterre.
+    media: []
+    authors: []
+-
+    id: 430
+    name_et: null
+    published_at: '2017-05-01T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:14.965Z'
+    updated_at: '2020-12-08T13:56:45.186Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2017-05-01T00:00:00.000Z'
+    content_et: >-
+        Rahvusvahelisel tantsupäeval, 29. aprillil toimus Kanuti Gildi SAALis
+        traditsiooniline hommikusöök, mille raames anti välja auhindu tegevuse
+        eest etenduskunstide väljal. 
+
+
+        Välja anti järgmised auhinnad ja preemiad:
+
+        Kaja Kannu Zoja Kosmodemjanskaja nimelisele preemia pälvis Sandra
+        Jõgeva.
+
+        Henri Hüti nimelise muusikalise kujunduse eripreemia pälvis Karl Saks,
+        kelle helilooming ei ole vähem tähtsam tema koreograafilisest keelest.
+
+        Patrick R. Vesi auhinna ennastsalgava tegevuse eest etenduskunstide
+        väljal 2016. aastal sai etenduskunstide MAGASIN
+        [www.saal.ee/et/magazine](https://www.saal.ee/et/magazine).  
+
+        Oliver Kulpsoo auhinna sai Mairika Plakso.
+
+
+        Ürituse märksõnaks on liikumine institutsioonidest kaugemale ja
+        tunnustust jagati isiklike kompromissitute sisekategooriate kaudu. Enam
+        ei ole põhjust vaielda igaveste teemade üle, et mis on tants ja mis on
+        etenduskunst. Eraisikud on haaranud võimu endale ning lähtuvad
+        põhimõttest “kus viga saab laita seal tule ja aita” või veel enam, “kes
+        viga näeb laita, see tuleb ja aitab” ning Kanuti Gildi SAAL kui
+        institutsioon pakub välja formaadi ja ruumi. Tunnustatud saavad
+        etenduskunstide valdkonnas nii lavalolijad kui ka telgitagused jõud.
+
+
+        Preemiad antakse välja tantsupäeval just selle pärast, et veel kord
+        rõhutada kaasaegse etenduskunsti lätteid Eestis. Nimelt on koreograafid
+        alati tegutsenud omakeskis, ilma suure vastanduseta balletiteatrile või
+        traditsioonilisele sõnateatrile. Siiski on koreograafide ruum alati
+        arvestanud üldist ja sealjuures ka Teist. Loomulikult on kaasajas
+        olemisel meeletu surve enese kaotamisele, aga las ta olla, kõik ei pea
+        maailmas püsima, püsima peab mõtlemine, aktiivne suhe ja oma ideede
+        teostamine, muutuse praktiseerimine. Kõik see toimub meie ühises ruumis.
+    content_en: null
+    related_media: null
+    remote_id: '4752'
+    title_et: >-
+        Pressiteade 1.05.2017: Kanuti Gildi SAALis jagati etenduskunstide
+        auhindu
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 442
+    name_et: null
+    published_at: '2016-11-17T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:17.029Z'
+    updated_at: '2020-12-08T13:56:48.523Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2016-11-17T00:00:00.000Z'
+    content_et: >-
+        Kanuti Gildi SAAL otsib uut maja tehnikut!
+
+        Ülesanded algavad olmelisest tehnilisest valmisolekust kuni etenduste
+        läbiviimiseni. Võimalus teha koostööd eriilmeliste kunstnikega
+        erinevates lavastusprojektides, aidata korraldada rahvusvahelisi
+        teatrifestivale ja palju muud! 
+
+        Oma CV ja motivatsioonikirja ning lisaküsimused palume saata hiljemalt
+        1. detsembriks meiliaadressile revo@saal.ee. Tööle ootame alates
+        jaanuarist.
+    content_en: null
+    related_media: null
+    remote_id: '4533'
+    title_et: Kanuti Gildi SAAL otsib uut maja tehnikut!
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 458
+    name_et: null
+    published_at: '2016-04-01T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:19.945Z'
+    updated_at: '2020-12-08T13:56:52.667Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2016-04-01T00:00:00.000Z'
+    content_et: >-
+        Kuulutame välja konkursi täitmaks kaks residentuurikohta Püha Vaimu
+        SAALis 2016. aasta sügishooajal. Tegemist on ühekuulise residentuuriga,
+        mida toetab stipendiumiga Eesti Kultuurkapital ning mille mõtteline laad
+        on pigem pakkuda kunstnikule võimalust eksperimenteerida oma ideedega
+        kuivõrd jõuda tervikliku etenduseni. Viimane kandideerimise tähtaeg on
+        1. mai ning kuni selle kuupäevani ootame teie ideede kirjeldusi,
+        residentuuri ajalist eelistust ja CV-sid aadressile
+        [saal@saal.ee](https://saal.ee).
+    content_en: >-
+        Kanuti Gildi SAAL is looking for artist-in-residency at Püha Vaimu SAAL
+        for our fall season 2016. We have two one month residency vacancies,
+        which are  funded by Estonian Cultural Endowment and its very nature is
+        to offer artist a chance to rather experiment than to work on a
+        completed body of work. The last deadline to apply is May 1 and until
+        then, we are waiting your idea descriptions, preferred periood for
+        residency and CVs to [saal@saal.ee](https://saal.ee)
+    related_media: null
+    remote_id: '4262'
+    title_et: Residentuuri üleskutse!
+    title_en: Call for residency!
+    media: []
+    authors: []
+-
+    id: 385
+    name_et: null
+    published_at: '2018-09-11T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:06.081Z'
+    updated_at: '2020-12-08T13:56:32.498Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-09-11T00:00:00.000Z'
+    content_et: >-
+        FREIRAUM TALLINN 1 ehk seeria üritusi vabaduse teemal toimub 14-15.09
+        Kanuti Gildi SAALis ja Tallinna linnaruumis, mida korraldab Kanuti Gildi
+        SAAL koostöös Goethe Instituudiga. Freiraum (vabaruum) on Goethe
+        Instituudi algatatud üleeuroopaline projekt, millesse on kaasatud 53
+        partnerit kultuuri-, kunsti- ja teadusringkondadest ning
+        kodanikuühiskonnast, kes tegelevad 40 linnas küsimusega: Mida tähendab
+        vabadus tänapäeva Euroopas? Millised on selle piirid? Kuidas seda hoida
+        ja tugevdada?  
+
+
+        Freiraumi koostööpartnerid püstitasid koostöös Goethe Instituudi
+        esindustega projekti alguses kohalikust kontekstist tulenevalt
+        vabadusega seotud küsimused, millest lähtudes püütakse üheskoos otsida
+        vastuseid 2018-2019 aasta jooksul läbi viidavate ürituste raames üle
+        Euroopa.  
+
+        Kanuti Gildi SAALi dialoogipartneriks Freiraum projekti raames on
+        ainsana Saksamaad esindav organisatsioon Kunsthaus Dresden. Mõistmaks
+        vabaduse teema tagamaid tuleb nii Dresdeni kui Tallinna puhul arvesse
+        võtta mõnevõrra sarnaseid minevikukogemusi seoses autoritaarse režiimi
+        ja suveräänsuse puudumisega. Viimastel aastatel on Dresdenis kasvanud
+        inimestes hirm, et käesoleval muutuste ajastul saab meie tavapärane
+        kultuuriline homogeensus ohustatud. See omakorda tõstatab küsimuse -
+        milline on kunsti roll ajastul, mil humanistlikud ja demokraatlikud
+        väärtused on ohustatud. Kunsti kui indiviidi häält - kas seda on selles
+        olukorras üldse kuulda ning milliseid tingimusi oleks vaja selle
+        kuuldavuse suurendamiseks? Sellest tulenevalt tõstatas Kunsthaus Dresden
+        küsimuse - mida saab kunst kui vabaduse keel ära teha meie üha kasvava
+        ängistuse ajastul?  
+
+        Koostöös Goethe Instituudiga Tallinnas püstitasime eneseirooniliselt
+        küsimuse: kas me võime olla õnnelikud? Keskendudes vabaduse ja vastutuse
+        vahelistele suhetele ning era- ja avaliku elu positiivsetele aspektidele
+        Eestis. Olles kogenud sajandeid välismaist okupatsiooni, väärtustame oma
+        isiklikku vabadust, mis väljendub kõrgelt arenenud digitaalses
+        infrastruktuuris ja positiivselt laetud vigadest õppimise kultuurist.
+        Kuidas me tuleme toime sellega kaasnevate riskide ja vastutusega?  
+
+
+        Freiraum Tallinn 1 raames esitleme kunstnikke, kelle tööd käsitlevad
+        vabaduse mõiste eri tahke delikaatselt kuid vahedalt. Eesti publikule
+        tuttava Sarah Vanhee dokumentaalfilm “The Making of Justice” annab üdini
+        inimliku sissevaate õigluse, õigussüsteemi ja kinnipeetute reaalsustesse
+        ning Sven Johne videoteos “A Sense of Warmth” peegeldab tänapäeva
+        ühiskonna pealesuruva eneseteostuse paineid. Kuraator Eva Neklyaeva
+        käsitleb oma ettekandes mängulis-tõsiselt vabaduse võimalikkust oma
+        tööpraktikas nii etenduskunstides, poliitikas kui ka seksuaalsuses.  
+
+        Oma panus vabaruumi on meil kõigil võimalik anda osaledes linnaruumis
+        toimuvas Isaac Chong Wai etenduste seerias “The Collective Individual
+        Exercises” 14 ja 15 septembril. Isaac Chong Wai on veendunud, et kui me
+        tahame ette kujutada teistmoodi tulevikku, siis me peaksime selleks ette
+        valmistuma ja seda nö harjutama, mitte jätkama olemasolevate normide
+        keskset käitumist. Seetõttu on ta välja pakkunud võimaluse väljendada
+        oma tulevikuvisioone, unistusi ja fantaasiaid ning järele proovida
+        solidaarsust üheskoos selles etenduste seerias. Ootame kõiki huvilisi
+        osalema laupäeval 15.09 Vabaduse väljakul toimuvasse etendusse “One
+        Sound of Futures”, milles sul on võimalus koos 99 inimesega ühiselt luua
+        elav skulptuur ja jagada oma tulevikuvisioone. Osavõtuks pole vaja
+        eelnevat esinemiskogemust, täpsemad juhised saab osalemiseks
+        registreerudes:
+        [https://goo.gl/forms/NUqlHLIGwpE4zGbb2](goo.gl/forms/NUqlHLIGwpE4zGbb2).
+        Ühtlasi on see ka igati sobilik viis ühiselt tähistada EV 100 pidustusi
+        Vabaduse väljakul. Isaac Chong Wai etenduste seeriat “The Collective
+        Individual Exercises” on eelnevalt etendatud erilise tähendusega
+        linnaväljakutel nii Hollandis, Hong Kongis, Lõuna-Koreas kui Hiinas.   
+
+
+        Kõik Freiraum Tallinna raames toimuvad üritused on tasuta.
+
+        Üritused saavad teoks koostöös Goethe Instituudiga. Etendused on osa
+        projektist URBAN HEAT, EL kultuuriprogrammi toetusel. Pühendusega EV100
+        tähistamisele.
+
+
+        Rohkem projektist:
+
+        [https://www.goethe.de/prj/fre/de/index.html?wt_sc=freiraum](www.goethe.de/prj/fre/de/index.html?wt_sc=freiraum)
+
+        www.saal.ee
+
+
+        Fotod: Performance by Isaac Chong Wai. Photo by Mariska Kerpel.
+        Commissioned by SPRING Performing Arts Festival 2018. Video Still by
+        Isaac Chong Wai. Commissioned by SPRING Performing Arts Festival 2018.
+
+
+        Freiraum Tallinn 1 ajakava:  
+
+        14.09 17:30 ISAAC CHONG WAI (Hong Kong – Berliin) etendus “The
+        Collective Individual Exercises – hugging, walking, laughing exercises”
+        Balti Jaam – Vabaduse väljak  
+
+        14.09 19:30 SARAH VANHEE (Brüssel) film “The Making of Justice” Kanuti
+        Gildi SAAL  
+
+        15.09 18:00 ISAAC CHONG WAI etendus “The Collective Individual Exercises
+        – One Sound of the Futures” Vabaduse väljak  
+
+        15.09 19:30 SVEN JOHNE (Berliin) video “A Sense of Warmth” Kanuti Gildi
+        SAAL  
+
+        15.09 20:00 EVA NEKLYAEVA (Santarcangelo) ettekanne “Taking playfulness
+        seriously: exploring freedom in curatorial practice” Kanuti Gildi SAAL
+    content_en: null
+    related_media: null
+    remote_id: '5515'
+    title_et: >-
+        Pressiteade 11.09.2018: Juba sel nädalal – FREIRAUM TALLINN ürituste
+        seeria vabadusest, selle puudumisest ja ühiselt tuleviku kujutlemise
+        võimalikkusest.
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 400
+    name_et: null
+    published_at: '2018-03-21T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:08.717Z'
+    updated_at: '2020-12-08T13:56:36.911Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-03-21T00:00:00.000Z'
+    content_et: >-
+        Pressiteade 21.03.2018  
+
+        Lavastust “Oomen” Narva Kreenholmi Manufaktuuris ei toimu.  
+
+
+        Käesoleva pressiteatega anname teada, et 30. märtsil Narva Kreenholmi
+        Manufaktuuris esietenduma pidanud lavastus “Oomen” jääb toimumata, kuna
+        tehniliste keerukuste ning komplikatsioonide tõttu osutus see võimatuks.
+        Kreenholmi Manufaktuur sai me üle seekord võitu.
+
+
+        “Kui töö ei lähe, siis mitte ägestuda, vaid teha parem vaheaeg, järele
+        mõelda, ja asuda töö kallale jällegi tasapisi; isegi meelega ennast
+        aeglustada, et end tagasi hoida.” – A. Gastev
+
+
+        “Oomeni” meeskond on teinud lavastuse valmimise nimel palju tööd, kuid
+        alati pole see piisav. Täname kõiki toetajaid ja huvilisi ja loodame, et
+        “Oomen” saab siiski võimalikuks tulevikus.   
+
+
+        PDF pileti omanikel kannab Piletilevi kontor raha tagasi kontole, kust
+        ost oli sooritatud. Raha laekub 7 tööpäeva jooksul. Tavapileteid
+        ostetakse tagasi kõigis Piletilevi müügipunktides v.a Circle K 
+        teenindusjaamades.
+         
+        Lisainfo:  
+
+        Eneli Järs +372 5069655 eneli@saal.ee  
+
+        Minna-Triin Kohv + 372 55634127 minnatriinkohv@gmail.com
+    content_en: null
+    related_media: null
+    remote_id: '5337'
+    title_et: >-
+        Pressiteade 21.03.2018: Lavastust “Oomen” Narva Kreenholmi Manufaktuuris
+        ei toimu.
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 407
+    name_et: null
+    published_at: '2018-02-08T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:10.313Z'
+    updated_at: '2020-12-08T13:56:38.859Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2018-02-08T00:00:00.000Z'
+    content_et: >-
+        Pressiteade 08.02.2018  
+
+        Kanuti Gildi SAAL tähistab Eesti Vabariigi sünnipäeva Riias ja
+        Helsingis.  
+
+
+        Koostöös Läti Uue Teatri Instituudiga toimub 15-18. veebruaril Riias
+        eesti kaasaegsete etenduskunstide festival LATEST ning Soome moodsa
+        kunsti muuseumi teater Kiasma on kutsunud erinevad Eesti kaasaegse
+        (etendus)kunsti esindajad Helsingisse 21-25. veebruaril, et tähistada
+        Eesti 100. juubelit.  
+
+
+        Riias toimuv festival LATEST kutsub avastama Eesti kaasaegset
+        etenduskunsti, vaadeldes noorte kunstnike meeleolusid Eesti Vabariigi
+        100. aastapäeva pidustuste valguses ning lähemalt uurides Eesti ja Läti
+        kunstnike koostööpotentsiaali. Programmi keskne üritus on Läti ja Eesti
+        kunstnike kollektiivne produktsioon, millesse on kaasatud – lavastaja
+        Valters Sīlis, kunstnik Kristina Norman, koreograafid Karolin Poska ja
+        Joanna Kalm, helilooja Toms Auniņš, stsenograafid Epp Kubu ja Austra
+        Hauks, dramaturg ja lavastaja Kāris Krūmiņš. Nende
+        inspiratsiooniallikaks on Liivimaa etniline kogukond Läti ja Eesti
+        riikide asutamise ja taasasutamise ajal. Külalisetenduste programmis on
+        lisaks Teater NO99, Iggy Lond Malmborgi, Maike Lond Malmborgi, Mart
+        Kangro- Juhan Ulfsak- Eero Epneri lavastused.  
+
+        Projekti algatajateks ja kaasprodutsentideks on Läti Uue Teatri
+        Instituut ja Kanuti Gildi SAAL. See on osa Läti ja Eesti 100. sünnipäeva
+        programmist. Toetavad Läti Kultuuriministeerium ja EV100.  
+
+
+        Helsingis aset leidev Eesti kaasaegse (etendus)kunsti festival UUE on 
+        moodsa kunsti muuseumi Kiasma poolt algatatud viiepäevane festival, et
+        tähistada Eesti 100. juubelit. Külla on kutsutud erinevate valdkondade
+        ärksameelsed kunstnikud: Flo Kasearu, Iggy Lond Malmborg, Maria Metsalu,
+        Merike Estna, Kristina Norman, Teater NO99 ja SU-MU ning lisaks loovad
+        konteksti Anu Allas ja Maria Arusoo. UUE festival saab teoks Kiasma
+        näituse There and Back Again raames.  
+
+
+        Lisainfo:  
+
+        [www.ev100.ee/et/latest-festival-riias](https://www.ev100.ee/et/latest-festival-riias)  
+
+        [theatre.lv/eng/we-do/latest-estonian-theatre-programme-in-riga/](http://theatre.lv/eng/we-do/latest-estonian-theatre-programme-in-riga/)  
+
+        [kiasma.fi/esitykset-tapahtumat/uue-virolaisen-nykyesitystaiteen-festivaali/](http://kiasma.fi/esitykset-tapahtumat/uue-virolaisen-nykyesitystaiteen-festivaali/)
+    content_en: null
+    related_media: null
+    remote_id: '5299'
+    title_et: >-
+        Pressiteade 08.02.2018: Kanuti Gildi SAAL tähistab Eesti Vabariigi
+        sünnipäeva Riias ja Helsingis.
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 416
+    name_et: null
+    published_at: '2017-11-17T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:12.042Z'
+    updated_at: '2020-12-08T13:56:41.510Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2017-11-17T00:00:00.000Z'
+    content_et: >-
+        Pressiteade 17.11.2017  
+
+        21.novembril kell 18 avatakse Disaini ja Arhitektuuri Galeriis Henri
+        Hüti ja Mihkel Ilusa lavastatud näitus “Kapriisid: Eelvõim”.  
+
+
+        “Kapriisid: Eelvõim” on lavastatud näitus, mis loob galeriiruumi
+        keskkonna ning esindab teatri atmosfääri sellisena, nagu meile meeldib
+        seda kogeda. Teatris funktsionaalset, nagu valguspark või publiku
+        toolid, kujutame skulpturaalsena. Kogu lavatehniline arsenal ja etendust
+        loovad komponendid on esile toodud ning liigne inimlähedus tahaplaanile
+        jäetud. Ja ometi ei ole me suutnud loobuda puhvetist… Kapriisid on
+        jätkuv projekt, mis on sümbioos etenduskunstide ja näitusekultuuri
+        praktikatest. Saaga kolmanda peatüki fookuses on ootus, hämarus, vaikus
+        ja kuuluvus.  
+
+
+        Henri Hütt on (etendus)kunstnik, kes väärtustab loomingulisi
+        hübriidvorme, kuhu kuuluvad nii tehnoloogilise dominandiga etenduskunsti
+        vormid, helietendused, lavastatud näituse kontseptsiooni arendamine ning
+        koostööd erinevate valdkondade kunstnikega. On rühmituse MIMproject
+        liige ning Baltikumi ja Skandinaavia kunstiülikoolide võrgustiku DAMA
+        koordinaator.  
+
+
+        Mihkel Ilus on visuaalkunstnik, kelle põhifookus on maali laiendatud
+        väljal. See tähendab, et Ilus sageli töötab suuremõõtmelise
+        installatsiooniga, milles maaliline lähenemine omab keskset rolli. Ilusa
+        praktika oluline osa on ka kaasaegse näitusekultuuri ja etenduskunsti
+        põimumine. Viimasel ajal tegeleb peamiselt objektse kunsti erinevuste
+        uurimisega black box ja white cube tingimustes.  
+
+
+        Idee, teostus, esitus: Henri Hütt ja Mihkel Ilus, kaasprodutsent: Kanuti
+        Gildi SAAL, tänud: Ingrid Allik, KIASMA, toetajad: Eesti
+        Kultuurkapital.  
+
+
+        Avamine 21. novembril kell 18:00.   
+
+        Disaini ja Arhitektuuri Galerii (Pärnu mnt 6, Tallinn) on avatud
+        esmaspäevast laupäevani kell 12:00-18:00. Näitus jääb avatuks kuni 2.
+        detsembrini.  
+
+
+        Näituse video: [vimeo.com/240018458](https://vimeo.com/240018458)  
+
+        Koduleht:
+        [saal.ee/et/performance/5125](https://saal.ee/et/performance/5125)
+    content_en: null
+    related_media: null
+    remote_id: '5152'
+    title_et: >-
+        Pressiteade 17.11.2017: 21. novembril kell 18 avatakse Disaini ja
+        Arhitektuuri Galeriis Henri Hüti ja Mihkel Ilusa lavastatud näitus
+        “Kapriisid: Eelvõim”.
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 437
+    name_et: null
+    published_at: '2017-03-01T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:16.228Z'
+    updated_at: '2020-12-08T13:56:47.123Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2017-03-01T00:00:00.000Z'
+    content_et: >-
+        Sel laupäeval, 4. märtsil kell 18:00 toimub Kanuti Gildi SAALis
+        Tallinnas kümnendat korda etenduskunstide lühivormide festival made in
+        estonia maraton. Festival on vabas formaadis kureerimata üritus, kus
+        kõik soovijaid saavad oma ideedega lavale tulla. Pärast etenduskunstide
+        vaatamist suundutakse edasi KuKu Klubisse, kus sel korral leiab aset
+        festivali järelpidustus.  
+
+
+        Tundub, et paljud üritavad tänapäeval liigset rõhku panna
+        lõpp-produktile ja mitte piisavalt protsessile. Maraton sündis protsessi
+        vaimus ja sellest ei saa iialgi päris valmis produkti, selleks on
+        lihtsalt liiga palju osakesi ja muutujaid. Tegemist on pidustusega, mis
+        tähistab liberalismi ja etenduskunste: kõigi maade esinejad ühinege!
+        Tõeline etenduskunsti bacchinaalia, mis koosneb traditsiooniliselt 
+        kolmest plokist: must, valge ja “alasti” lava.   
+
+
+
+        “condemned forever to becoming and never to being” (Karl Scheffler)  
+
+
+        Selle aasta etteastete autorid on Joanna Kalm, Chungin, Henri Hütt,
+        Roland Arnoldt & Eerik Kändler, Karolin Poska, Steve Vanoni, Lauren
+        Bachmann & David Wittinghofer, Üüve-Lydia Toompere, Katrin Kreutzberg,
+        Raho Aadla, Kirsi Mari Lepik, Evi Pärn & Jekaterina Kultajeva, Minna
+        Triin Kohv, Liis Vares & Pavel Semjonov, Pärtel Eelmere, Anna Kaarma,
+        Aimur Takk, Andreas Vinkel, Jaak Sapas, Kristina-Maria Heinsalu & Doris
+        Feldmann jt.  
+
+
+        Toetajad: Eesti Kultuurkapital, Fritz-Kola, Valmiermuiža Pruulikoda
+
+        Piletid müügil Piletilevis ning pool tundi enne algust kohapeal.
+    content_en: null
+    related_media: null
+    remote_id: '4642'
+    title_et: >-
+        Pressiteade 1.03.2017: made in estonia maraton lühivormide festival
+        stardib sel laupäeval 1.03.2017
+    title_en: null
+    media: []
+    authors: []
+-
+    id: 449
+    name_et: null
+    published_at: '2016-10-13T00:00:00.000Z'
+    created_at: '2020-12-07T16:08:18.284Z'
+    updated_at: '2020-12-08T13:56:50.417Z'
+    name_en: null
+    slug_et: null
+    slug_en: null
+    publish_time: '2016-10-13T00:00:00.000Z'
+    content_et: >-
+        Karl Saksa uus soololavastus “Seisund ja disain” esietendub 21.
+        oktoobril kell 19:30 Kanuti Gildi SAALis. Järgmised etendused toimuvad
+        22. ja 24. oktoobril ning 10. ja 11. novembril.
+
+
+        “Seisund ja disain” on soololavastus, mida esitatakse kohturuumi
+        hierarhia kaudu. Täidesaatvat võimu ja kahtlusaluseid esitavad
+        arhetüübid, asitõenditeks on elemendid ja artefaktid ning
+        tunnistajapingis istub ehmunud kunstnik. Lahenduse leidmiseks võetakse
+        kasutusele paragrahvid rituaalidest ja arhiiv surnute ülestunnistustest.
+        Väiteid ja vastuväiteid vahendavad seaduslik füüsiline hierarhia ja
+        häbitu formaalne koreograafia. 
+
+
+        Karl Saks on vabakutseline koreograaf ja tantsija. Ta on lõpetanud
+        Viljandi Kultuuriakadeemia, on ennast täiendanud Inglismaal Chesteri
+        Ülikoolis ning osalenud erinevates meistriklassides Portugalis,
+        Islandil, Saksamaal ja Austrias. Hetkel õpib ta Eesti Kunstiakadeemia
+        uusmeedia magistriprogrammis, ja tegeleb heliloomega Cubus Larviku
+        kaitsva müüri taga. Kunstniku teine ning eelmine soolo-töö “The Drone of
+        Monk Nestor” etendus 2011. aastal Kanuti Gildi SAALis Sõltumatu Tantsu
+        Lava produktsioonina. Pärast seda on Karl osalenud erinevates
+        koostöö-projektides nii Eestis kui välismaal. Viimasena osales ta Maroko
+        koreograafi Radouan Mriziga lavastuses “3600”.
+
+
+        Intervjuus selgitas Karl Saks oma soololavastuse vormilist lähenemist
+        läbi juriidilise võtme:
+
+        “Kohturuumi hierarhia tähendab siinkohal mälulisust indiviidi peas, seda
+        kuidas ta konstrueerib mälu läbi selle. Oluline on see, kuidas see
+        hierarhia paneb meid otsustama, tagasi lükkama ja siis kinnitama. Üritad
+        meenutada, aru saada, kas su mälestus on tõene või mitte. See sama
+        süsteem toimub inimese peas koguaeg, see on seotud moraali, eetika,
+        filosoofia ja mäluga. Need on mehhanisimid, kus kohturuum lõppeb pea
+        sees. "Seisund ja disain" tegeleb keha ja mälu koreograafiaga.”
+
+
+        Autor, esitus, heli: Karl Saks<br />
+
+        Dramaturg: Maike Lond Malmborg<br />
+
+        Tehniline tugi: Revo Koplus<br />
+
+        Kaasproduktsioon: Kanuti Gildi SAAL<br />
+
+        Toetaja: Eesti Kultuurkapital<br />
+
+        Kestus: 80 min<br />
+
+        <br />
+
+        Esietendus 21. oktoobril kell 19:30, järgmised etendused 22. ja 24.
+        oktoobril ning 10. ja 11. novembril Kanuti Gildi SAALi Püha Vaimu
+        SAALis, Tallinnas. Etendusele 24. oktoobril järgneb vestlus
+        kunstnikuga.<br />
+
+        <br />
+
+        Piletid müügil Piletilevis ning pool tundi enne algust kohapeal.
+    content_en: null
+    related_media: null
+    remote_id: '4433'
+    title_et: >-
+        Pressiteade 13.10.2016: Kanuti Gildi SAALis esietendub Karl Saksa uus
+        soololavastus “Seisund ja disain”
+    title_en: null
+    media: []
+    authors: []
+-
     id: 359
     name_et: null
-    published_at: '2019-08-29T10:02:29.000Z'
+    published_at: '2019-08-29T00:00:00.000Z'
     created_at: '2020-12-07T16:08:00.962Z'
-    updated_at: '2020-12-07T16:08:00.962Z'
+    updated_at: '2020-12-08T13:56:19.501Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -651,9 +1933,9 @@
 -
     id: 360
     name_et: null
-    published_at: '2019-08-29T10:00:31.000Z'
+    published_at: '2019-08-22T00:00:00.000Z'
     created_at: '2020-12-07T16:08:01.184Z'
-    updated_at: '2020-12-07T16:08:01.184Z'
+    updated_at: '2020-12-08T13:56:19.867Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -732,9 +2014,9 @@
 -
     id: 361
     name_et: null
-    published_at: '2019-08-29T09:57:09.000Z'
+    published_at: '2019-08-14T00:00:00.000Z'
     created_at: '2020-12-07T16:08:01.362Z'
-    updated_at: '2020-12-07T16:08:01.362Z'
+    updated_at: '2020-12-08T13:56:20.166Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -833,9 +2115,9 @@
 -
     id: 362
     name_et: null
-    published_at: '2019-08-29T09:54:20.000Z'
+    published_at: '2019-08-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:01.529Z'
-    updated_at: '2020-12-07T16:08:01.529Z'
+    updated_at: '2020-12-08T13:56:20.521Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -913,9 +2195,9 @@
 -
     id: 363
     name_et: null
-    published_at: '2019-06-26T14:05:48.000Z'
+    published_at: '2019-06-26T00:00:00.000Z'
     created_at: '2020-12-07T16:08:01.694Z'
-    updated_at: '2020-12-07T16:08:01.694Z'
+    updated_at: '2020-12-08T13:56:20.769Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1038,9 +2320,9 @@
 -
     id: 364
     name_et: null
-    published_at: '2019-06-25T13:23:23.000Z'
+    published_at: '2019-06-20T00:00:00.000Z'
     created_at: '2020-12-07T16:08:01.870Z'
-    updated_at: '2020-12-07T16:08:01.870Z'
+    updated_at: '2020-12-08T13:56:21.081Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1135,9 +2417,9 @@
 -
     id: 365
     name_et: null
-    published_at: '2019-05-24T10:17:05.000Z'
+    published_at: '2019-05-21T00:00:00.000Z'
     created_at: '2020-12-07T16:08:02.044Z'
-    updated_at: '2020-12-07T16:08:02.044Z'
+    updated_at: '2020-12-08T13:56:21.328Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1244,58 +2526,11 @@
     media: []
     authors: []
 -
-    id: 398
-    name_et: null
-    published_at: '2018-04-18T09:08:20.000Z'
-    created_at: '2020-12-07T16:08:08.276Z'
-    updated_at: '2020-12-07T16:08:08.276Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-04-18T00:00:00.000Z'
-    content_et: >+
-        Kanuti Gildi SAAL kutsub rahvusvahelise tantsupäeva puhul 29. aprillil
-        väljasõidule Viljandisse TANTS(U)GALAle, mille käigus antakse üle ka
-        omaalgatuslikud auhinnad!  
-
-
-        Viljandi tantsunädal kulmineerub TANTS(U)GALAga ehk TÜ Viljandi
-        Kultuuriakadeemia tantsukunsti diplomandide lavastuste esitlemisega
-        Ugala teatris. Väljasõidule tulijatele on päevapilet 5.99 EURi ja
-        täpsema ajakava leiab -
-        [www.ticketer.ee/tants-u-gala/](https://www.ticketer.ee/tants-u-gala/).  
-
-
-        Kanuti Gildi SAALi tantsupäeva hommikusöökide käigus välja kujunenud
-        omaalgatuslike preemiate üleandmiseks ehk tunnustuse jagamiseks isiklike
-        kompromissitute sisekategooriate järgselt on päevakavasse reserveeritud
-        hetk kell 16:00. Seekord lähevad üle andmisele - Henri Hüti muusikalise
-        kujunduse auhind, Patrick R. Vesi auhind, Oliver Kulpsoo nimeline auhind
-        ning korruptsioonipreemia, mille annab üle Sandra Jõgeva. Omaalgatuslike
-        auhindade jagamise nimekiri on avatud, kel huvi võib lahkesti liituda!  
-
-
-        Väljasõidu buss, sümboolsete suupistete ja keelekastega, viib huvilised
-        Tallinnast kell 11:00 Viljandisse ja toob kell 20:00 tagasi.   
-
-
-        Kui oled kaasa tulemas anna sellest teada 23. aprilliks kaie@saal.ee,
-        siis teame broneerida sulle koha bussis ja varuda klassikalise
-        jäätisekokteili Ugala kohvikus.  
-
-    content_en: null
-    related_media: null
-    remote_id: '5365'
-    title_et: Rahvusvahelise tantsupäeva väljasõit Viljandisse TANTS(U)GALAle
-    title_en: null
-    media: []
-    authors: []
--
     id: 399
     name_et: null
-    published_at: '2018-04-04T07:40:43.000Z'
+    published_at: '2018-04-04T00:00:00.000Z'
     created_at: '2020-12-07T16:08:08.552Z'
-    updated_at: '2020-12-07T16:08:08.552Z'
+    updated_at: '2020-12-08T13:56:36.602Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1366,62 +2601,11 @@
     media: []
     authors: []
 -
-    id: 400
-    name_et: null
-    published_at: '2018-03-21T10:00:56.000Z'
-    created_at: '2020-12-07T16:08:08.717Z'
-    updated_at: '2020-12-07T16:08:08.717Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-03-21T00:00:00.000Z'
-    content_et: >-
-        Pressiteade 21.03.2018  
-
-        Lavastust “Oomen” Narva Kreenholmi Manufaktuuris ei toimu.  
-
-
-        Käesoleva pressiteatega anname teada, et 30. märtsil Narva Kreenholmi
-        Manufaktuuris esietenduma pidanud lavastus “Oomen” jääb toimumata, kuna
-        tehniliste keerukuste ning komplikatsioonide tõttu osutus see võimatuks.
-        Kreenholmi Manufaktuur sai me üle seekord võitu.
-
-
-        “Kui töö ei lähe, siis mitte ägestuda, vaid teha parem vaheaeg, järele
-        mõelda, ja asuda töö kallale jällegi tasapisi; isegi meelega ennast
-        aeglustada, et end tagasi hoida.” – A. Gastev
-
-
-        “Oomeni” meeskond on teinud lavastuse valmimise nimel palju tööd, kuid
-        alati pole see piisav. Täname kõiki toetajaid ja huvilisi ja loodame, et
-        “Oomen” saab siiski võimalikuks tulevikus.   
-
-
-        PDF pileti omanikel kannab Piletilevi kontor raha tagasi kontole, kust
-        ost oli sooritatud. Raha laekub 7 tööpäeva jooksul. Tavapileteid
-        ostetakse tagasi kõigis Piletilevi müügipunktides v.a Circle K 
-        teenindusjaamades.
-         
-        Lisainfo:  
-
-        Eneli Järs +372 5069655 eneli@saal.ee  
-
-        Minna-Triin Kohv + 372 55634127 minnatriinkohv@gmail.com
-    content_en: null
-    related_media: null
-    remote_id: '5337'
-    title_et: >-
-        Pressiteade 21.03.2018: Lavastust “Oomen” Narva Kreenholmi Manufaktuuris
-        ei toimu.
-    title_en: null
-    media: []
-    authors: []
--
     id: 401
     name_et: null
-    published_at: '2018-03-20T12:23:52.000Z'
+    published_at: '2018-03-20T00:00:00.000Z'
     created_at: '2020-12-07T16:08:08.964Z'
-    updated_at: '2020-12-07T16:08:08.964Z'
+    updated_at: '2020-12-08T13:56:37.214Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1507,9 +2691,9 @@
 -
     id: 402
     name_et: null
-    published_at: '2018-03-12T10:07:04.000Z'
+    published_at: '2018-03-09T00:00:00.000Z'
     created_at: '2020-12-07T16:08:09.138Z'
-    updated_at: '2020-12-07T16:08:09.138Z'
+    updated_at: '2020-12-08T13:56:37.503Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1625,9 +2809,9 @@
 -
     id: 403
     name_et: null
-    published_at: '2018-03-06T17:18:07.000Z'
+    published_at: '2018-03-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:09.307Z'
-    updated_at: '2020-12-07T16:08:09.307Z'
+    updated_at: '2020-12-08T13:56:37.733Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1712,9 +2896,9 @@
 -
     id: 404
     name_et: null
-    published_at: '2018-03-05T11:18:30.000Z'
+    published_at: '2018-03-05T00:00:00.000Z'
     created_at: '2020-12-07T16:08:09.546Z'
-    updated_at: '2020-12-07T16:08:09.546Z'
+    updated_at: '2020-12-08T13:56:38.034Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1789,89 +2973,11 @@
     media: []
     authors: []
 -
-    id: 378
-    name_et: null
-    published_at: '2019-01-09T15:42:06.000Z'
-    created_at: '2020-12-07T16:08:04.596Z'
-    updated_at: '2020-12-07T16:08:04.596Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2019-01-09T00:00:00.000Z'
-    content_et: >-
-        Kuidas võidetakse kultuuripoliitikaga valimisi? 19. jaanuaril kogunevad
-        Kanuti Gildi SAAL-is kõigi suuremate erakondade esindajad, et avada
-        Eesti kultuuripoliitika sõlmküsimused. Poliitikud. Moderaatorid. Publik.
-        Vahekommentaarid. Kirg ja sõnaosavus. Kaevume põhimõtete ja võib-olla
-        teravustenigi. Arutelupäevast teeb otseülekande ERRi kultuuriportaal.  
-          
-        Kui tihti jõuavad Eesti kultuuripoliitikateemalised sõnavõtud kaugemale
-        põhiseaduse preambuli meeldetuletamisest? Millal täidavad
-        kultuuripoliitilised seisukohad Pirita tee või Puškini tänava
-        reklaampinnad? Kuhu viib kultuuripoliitika status quo ja millised on
-        alternatiivid? Võib arvata, et Eesti poliitilistel jõududel on
-        kultuuripoliitika tuleviku osas palju seisukohti, aga kuulda on neid
-        harva. Kas kultuur ei too hääli? Selles ei saa olla kindel enne, kui
-        kultuuripoliitika (nii kitsas kui laias tähenduses) valimiste eel
-        korralikult läbi arutada. Just selleks „Poliitikapidu“ toimubki.
-
-
-        **AJAKAVA 19.01.2019**  
-          
-        13:30 avatakse uksed.  
-          
-        14:00-15:15 LOOMEVABADUS JA ISIKUÕIGUSED  
-
-        Millal on põhjendatud isikuõiguste riive loominguliste eesmärkide
-        täitmiseks? Millal on loomevabaduse piiramine õigustatud? Mis põhjused
-        kaaluvad üles loomevabaduse? Kuidas tagada loomevabadus isikuõigusi
-        riivamata? Mis on riigi roll loomevabaduse tagamisel? Millal on riigil
-        õigus loomevabadust piirata? Kust algab tsensuur? Mil määral on riik
-        vastutav loovisikute enesetsensuuri eest? Kui palju mitmekesisust vajab
-        Eesti kultuur?
-          
-        16:00-17:15 KOHALIK/RIIKLIK/RAHVUSVAHELINE  
-
-        Kes ei tahaks rohkem Arvo Pärte, aga kust nad tulevad? Kui pikas
-        perspektiivis mõõta kultuurinvesteeringute tasuvust? Millises tasakaalus
-        on ja/või peaksid olema Eesti kultuuris arengus kohalik, riiklik ja
-        rahvusvaheline mõõde? Kuidas võiksid kultuuripoliitikat suunata
-        kohalikud omavalitsused? Mis on Eesti kultuuris eestilikku ja millised
-        on eestilikkuse kõrval muud riiklikud huvid kultuuri suhtes? Kas
-        rahvusvaheline tähendab lihtsalt kümme korda kuulsam või veel midagi?
-        Mille järgi otsustada kultuurinähtuste sordiaretuslik eeliskastmine?
-        Kuidas kultuuris kestlikult kahaneda? Kuidas lasta
-        kultuuriinstitutsioonidel surra?
-          
-        18:00-19:00 KULTUUR – KELLE VÕI MILLE TEENISTUSES?  
-
-        Kas kultuuripoliitikaga saab võita valimisi? Kuidas mõjutab Eesti
-        kultuur Eesti majandust? Kes on Eesti kultuurimaastikul esindamata? Kas
-        laulupidu saaks olla ka teisiti? Mille osas valitseb Eesti
-        kultuuripoliitikas poliitiliste jõudude ülene konsensus? Milline mõju on
-        kultuurimaastikule rahastuse tsüklilisusel (EV100, kultuuripealinnad)?
-          
-        19:00 Väljajuhatus muusika ja muuga.  
-
-          
-        Üritust toetab Goethe Instituut projekti Freiraum raames.  
-
-        Üritus on tasuta.
-    content_en: null
-    related_media: null
-    remote_id: '5734'
-    title_et: >-
-        Pressiteade 9.01.2019: 19. jaanuaril toimub Kanuti Gildi SAALis
-        POLIITIKAPIDU
-    title_en: POLIITIKAPIDU will take place in Kanuti Gildi SAAL
-    media: []
-    authors: []
--
     id: 379
     name_et: null
-    published_at: '2018-11-22T12:12:41.000Z'
+    published_at: '2018-11-22T00:00:00.000Z'
     created_at: '2020-12-07T16:08:04.784Z'
-    updated_at: '2020-12-07T16:08:04.784Z'
+    updated_at: '2020-12-08T13:56:30.649Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -1963,9 +3069,9 @@
 -
     id: 380
     name_et: null
-    published_at: '2018-11-20T12:13:10.000Z'
+    published_at: '2018-11-20T00:00:00.000Z'
     created_at: '2020-12-07T16:08:05.061Z'
-    updated_at: '2020-12-07T16:08:05.061Z'
+    updated_at: '2020-12-08T13:56:30.955Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -2045,9 +3151,9 @@
 -
     id: 381
     name_et: null
-    published_at: '2018-11-06T17:42:45.000Z'
+    published_at: '2018-11-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:05.288Z'
-    updated_at: '2020-12-07T16:08:05.288Z'
+    updated_at: '2020-12-08T13:56:31.277Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -2135,9 +3241,9 @@
 -
     id: 382
     name_et: null
-    published_at: '2018-10-16T10:07:35.000Z'
+    published_at: '2018-10-16T00:00:00.000Z'
     created_at: '2020-12-07T16:08:05.569Z'
-    updated_at: '2020-12-07T16:08:05.569Z'
+    updated_at: '2020-12-08T13:56:31.582Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -2376,9 +3482,9 @@
 -
     id: 383
     name_et: null
-    published_at: '2018-10-16T10:08:21.000Z'
+    published_at: '2018-09-26T00:00:00.000Z'
     created_at: '2020-12-07T16:08:05.744Z'
-    updated_at: '2020-12-07T16:08:05.744Z'
+    updated_at: '2020-12-08T13:56:31.906Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -2505,9 +3611,9 @@
 -
     id: 384
     name_et: null
-    published_at: '2018-09-21T13:40:25.000Z'
+    published_at: '2018-09-21T00:00:00.000Z'
     created_at: '2020-12-07T16:08:05.915Z'
-    updated_at: '2020-12-07T16:08:05.915Z'
+    updated_at: '2020-12-08T13:56:32.238Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -2751,136 +3857,11 @@
     media: []
     authors: []
 -
-    id: 385
-    name_et: null
-    published_at: '2018-09-12T05:22:45.000Z'
-    created_at: '2020-12-07T16:08:06.081Z'
-    updated_at: '2020-12-07T16:08:06.081Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-09-11T00:00:00.000Z'
-    content_et: >-
-        FREIRAUM TALLINN 1 ehk seeria üritusi vabaduse teemal toimub 14-15.09
-        Kanuti Gildi SAALis ja Tallinna linnaruumis, mida korraldab Kanuti Gildi
-        SAAL koostöös Goethe Instituudiga. Freiraum (vabaruum) on Goethe
-        Instituudi algatatud üleeuroopaline projekt, millesse on kaasatud 53
-        partnerit kultuuri-, kunsti- ja teadusringkondadest ning
-        kodanikuühiskonnast, kes tegelevad 40 linnas küsimusega: Mida tähendab
-        vabadus tänapäeva Euroopas? Millised on selle piirid? Kuidas seda hoida
-        ja tugevdada?  
-
-
-        Freiraumi koostööpartnerid püstitasid koostöös Goethe Instituudi
-        esindustega projekti alguses kohalikust kontekstist tulenevalt
-        vabadusega seotud küsimused, millest lähtudes püütakse üheskoos otsida
-        vastuseid 2018-2019 aasta jooksul läbi viidavate ürituste raames üle
-        Euroopa.  
-
-        Kanuti Gildi SAALi dialoogipartneriks Freiraum projekti raames on
-        ainsana Saksamaad esindav organisatsioon Kunsthaus Dresden. Mõistmaks
-        vabaduse teema tagamaid tuleb nii Dresdeni kui Tallinna puhul arvesse
-        võtta mõnevõrra sarnaseid minevikukogemusi seoses autoritaarse režiimi
-        ja suveräänsuse puudumisega. Viimastel aastatel on Dresdenis kasvanud
-        inimestes hirm, et käesoleval muutuste ajastul saab meie tavapärane
-        kultuuriline homogeensus ohustatud. See omakorda tõstatab küsimuse -
-        milline on kunsti roll ajastul, mil humanistlikud ja demokraatlikud
-        väärtused on ohustatud. Kunsti kui indiviidi häält - kas seda on selles
-        olukorras üldse kuulda ning milliseid tingimusi oleks vaja selle
-        kuuldavuse suurendamiseks? Sellest tulenevalt tõstatas Kunsthaus Dresden
-        küsimuse - mida saab kunst kui vabaduse keel ära teha meie üha kasvava
-        ängistuse ajastul?  
-
-        Koostöös Goethe Instituudiga Tallinnas püstitasime eneseirooniliselt
-        küsimuse: kas me võime olla õnnelikud? Keskendudes vabaduse ja vastutuse
-        vahelistele suhetele ning era- ja avaliku elu positiivsetele aspektidele
-        Eestis. Olles kogenud sajandeid välismaist okupatsiooni, väärtustame oma
-        isiklikku vabadust, mis väljendub kõrgelt arenenud digitaalses
-        infrastruktuuris ja positiivselt laetud vigadest õppimise kultuurist.
-        Kuidas me tuleme toime sellega kaasnevate riskide ja vastutusega?  
-
-
-        Freiraum Tallinn 1 raames esitleme kunstnikke, kelle tööd käsitlevad
-        vabaduse mõiste eri tahke delikaatselt kuid vahedalt. Eesti publikule
-        tuttava Sarah Vanhee dokumentaalfilm “The Making of Justice” annab üdini
-        inimliku sissevaate õigluse, õigussüsteemi ja kinnipeetute reaalsustesse
-        ning Sven Johne videoteos “A Sense of Warmth” peegeldab tänapäeva
-        ühiskonna pealesuruva eneseteostuse paineid. Kuraator Eva Neklyaeva
-        käsitleb oma ettekandes mängulis-tõsiselt vabaduse võimalikkust oma
-        tööpraktikas nii etenduskunstides, poliitikas kui ka seksuaalsuses.  
-
-        Oma panus vabaruumi on meil kõigil võimalik anda osaledes linnaruumis
-        toimuvas Isaac Chong Wai etenduste seerias “The Collective Individual
-        Exercises” 14 ja 15 septembril. Isaac Chong Wai on veendunud, et kui me
-        tahame ette kujutada teistmoodi tulevikku, siis me peaksime selleks ette
-        valmistuma ja seda nö harjutama, mitte jätkama olemasolevate normide
-        keskset käitumist. Seetõttu on ta välja pakkunud võimaluse väljendada
-        oma tulevikuvisioone, unistusi ja fantaasiaid ning järele proovida
-        solidaarsust üheskoos selles etenduste seerias. Ootame kõiki huvilisi
-        osalema laupäeval 15.09 Vabaduse väljakul toimuvasse etendusse “One
-        Sound of Futures”, milles sul on võimalus koos 99 inimesega ühiselt luua
-        elav skulptuur ja jagada oma tulevikuvisioone. Osavõtuks pole vaja
-        eelnevat esinemiskogemust, täpsemad juhised saab osalemiseks
-        registreerudes:
-        [https://goo.gl/forms/NUqlHLIGwpE4zGbb2](goo.gl/forms/NUqlHLIGwpE4zGbb2).
-        Ühtlasi on see ka igati sobilik viis ühiselt tähistada EV 100 pidustusi
-        Vabaduse väljakul. Isaac Chong Wai etenduste seeriat “The Collective
-        Individual Exercises” on eelnevalt etendatud erilise tähendusega
-        linnaväljakutel nii Hollandis, Hong Kongis, Lõuna-Koreas kui Hiinas.   
-
-
-        Kõik Freiraum Tallinna raames toimuvad üritused on tasuta.
-
-        Üritused saavad teoks koostöös Goethe Instituudiga. Etendused on osa
-        projektist URBAN HEAT, EL kultuuriprogrammi toetusel. Pühendusega EV100
-        tähistamisele.
-
-
-        Rohkem projektist:
-
-        [https://www.goethe.de/prj/fre/de/index.html?wt_sc=freiraum](www.goethe.de/prj/fre/de/index.html?wt_sc=freiraum)
-
-        www.saal.ee
-
-
-        Fotod: Performance by Isaac Chong Wai. Photo by Mariska Kerpel.
-        Commissioned by SPRING Performing Arts Festival 2018. Video Still by
-        Isaac Chong Wai. Commissioned by SPRING Performing Arts Festival 2018.
-
-
-        Freiraum Tallinn 1 ajakava:  
-
-        14.09 17:30 ISAAC CHONG WAI (Hong Kong – Berliin) etendus “The
-        Collective Individual Exercises – hugging, walking, laughing exercises”
-        Balti Jaam – Vabaduse väljak  
-
-        14.09 19:30 SARAH VANHEE (Brüssel) film “The Making of Justice” Kanuti
-        Gildi SAAL  
-
-        15.09 18:00 ISAAC CHONG WAI etendus “The Collective Individual Exercises
-        – One Sound of the Futures” Vabaduse väljak  
-
-        15.09 19:30 SVEN JOHNE (Berliin) video “A Sense of Warmth” Kanuti Gildi
-        SAAL  
-
-        15.09 20:00 EVA NEKLYAEVA (Santarcangelo) ettekanne “Taking playfulness
-        seriously: exploring freedom in curatorial practice” Kanuti Gildi SAAL
-    content_en: null
-    related_media: null
-    remote_id: '5515'
-    title_et: >-
-        Pressiteade 11.09.2018: Juba sel nädalal – FREIRAUM TALLINN ürituste
-        seeria vabadusest, selle puudumisest ja ühiselt tuleviku kujutlemise
-        võimalikkusest.
-    title_en: null
-    media: []
-    authors: []
--
     id: 386
     name_et: null
-    published_at: '2018-09-12T05:20:04.000Z'
+    published_at: '2018-09-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:06.262Z'
-    updated_at: '2020-12-07T16:08:06.262Z'
+    updated_at: '2020-12-08T13:56:32.814Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -2994,9 +3975,9 @@
 -
     id: 387
     name_et: null
-    published_at: '2018-09-05T10:27:43.000Z'
+    published_at: '2018-09-05T00:00:00.000Z'
     created_at: '2020-12-07T16:08:06.434Z'
-    updated_at: '2020-12-07T16:08:06.434Z'
+    updated_at: '2020-12-08T13:56:33.135Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3326,9 +4307,9 @@
 -
     id: 388
     name_et: null
-    published_at: '2018-08-31T13:56:41.000Z'
+    published_at: '2018-08-30T00:00:00.000Z'
     created_at: '2020-12-07T16:08:06.599Z'
-    updated_at: '2020-12-07T16:08:06.599Z'
+    updated_at: '2020-12-08T13:56:33.402Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3400,9 +4381,9 @@
 -
     id: 389
     name_et: null
-    published_at: '2018-08-21T09:49:57.000Z'
+    published_at: '2018-08-21T00:00:00.000Z'
     created_at: '2020-12-07T16:08:06.777Z'
-    updated_at: '2020-12-07T16:08:06.777Z'
+    updated_at: '2020-12-08T13:56:33.676Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3521,79 +4502,11 @@
     media: []
     authors: []
 -
-    id: 390
-    name_et: null
-    published_at: '2018-06-13T07:11:45.000Z'
-    created_at: '2020-12-07T16:08:06.929Z'
-    updated_at: '2020-12-07T16:08:06.929Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-06-12T00:00:00.000Z'
-    content_et: >-
-        Alates 14. juunist saab Dresdeni Kunstihoones vaadata koostöös Kanuti
-        Gildi SAALiga sündinud näitust „Freiheit zur Freiheit“, muu hulgas Jaan
-        Toomiku videoinstallatsiooni „Oleg“. Näitus on osa üleeuroopalisest
-        projektist Freiraum, mille algatas Goethe Instituut.
-
-
-        Mida tähendab vabadus tänapäeval Euroopas; kus on vabadus piiratud või
-        ohus? Euroopa Goethe Instituutide projekti Freiraum raames alustavad
-        Kanuti Gildi SAAL ja Dresdeni Kunstihoone ühist näituse- ja
-        üritusesarja, mis käsitleb vabaduse küsimusi Euroopas. Näitusega
-        „Freiheit zur Freiheit“, mis avatakse 14. juunil Dresdenis, uurivad
-        projektipartnerid vabaduse eeldusi kahes üksteisest kaugel asuvas
-        Euroopa punktis – Tallinnas ja Dresdenis.
-
-
-        Millistel tingimustel on vabadus üldse võimalik? Selleks et mõista
-        Euroopa vabadust kunsti vaatenurgast, tundub oluline heita pilk
-        minevikku. Dresdenis avatud näitusel esitletakse kolme kunstniku teoseid
-        kolmest geograafilisest ja aja(loo)lisest perspektiivist – Mauthauseni
-        ja Varssavi, Saksa Demokraatliku Vabariigi ja Poola Rahvavabariigi ning
-        iseseisvuse taastamise eelse ja järgse Tallinna vahel. Terrori ja
-        autoritaarsete režiimide kogemise kiuste peegeldub just Marian Boguszi,
-        Christa Jeitneri ja Jaan Toomiku töödes tollase noore põlvkonna
-        optimismi ja sõltumatust ning elavat püüdlust kunstilise vabaduse
-        järele.
-
-
-        Näitus annab avalöögi järgmistele üritustele, mis toimuvad sügisel nii
-        Dresdenis kui ka Tallinnas.
-
-
-        FREIRAUM  
-
-        Projekt Freiraum soovib välja selgitada, kuidas on Euroopa linnades lood
-        vabadusega. Millised küsimused tõusevad esile, kui kodanikud, teadlased
-        ja kultuuritegelased mõtisklevad vabaduse mõiste üle konkreetses kohas?
-        Milliseid probleeme konkreetses linnades nähakse? 38 Goethe Instituuti
-        ja nende partnerid kunstivaldkonnast ja kodanikuühiskonnast vahetavad
-        küsimusi elavalt üle kogu Euroopa ning leiavad küsimustele distantsilt
-        vaatajate abil loovaid vastused.
-
-
-        Lähem info Goethe Instituudi kodulehel:
-        [www.goethe.de/freiraum](https://www.goethe.de/prj/fre/de/index.html?wt_sc=freiraum)
-
-        Partnerid:  
-
-        [www.kunsthausdresden.de](http://www.kunsthausdresden.de/)  
-
-        [www.saal.ee](https://www.saal.ee/et/)
-    content_en: null
-    related_media: null
-    remote_id: '5418'
-    title_et: 'Pressiteade 12.06.18: VABADUSE JÄLIL TALLINNA JA DRESDENI VAHEL'
-    title_en: null
-    media: []
-    authors: []
--
     id: 391
     name_et: null
-    published_at: '2018-06-08T12:05:42.000Z'
+    published_at: '2018-06-08T00:00:00.000Z'
     created_at: '2020-12-07T16:08:07.084Z'
-    updated_at: '2020-12-07T16:08:07.084Z'
+    updated_at: '2020-12-08T13:56:34.348Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3632,9 +4545,9 @@
 -
     id: 392
     name_et: null
-    published_at: '2018-06-06T12:02:35.000Z'
+    published_at: '2018-06-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:07.247Z'
-    updated_at: '2020-12-07T16:08:07.247Z'
+    updated_at: '2020-12-08T13:56:34.511Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3711,9 +4624,9 @@
 -
     id: 393
     name_et: null
-    published_at: '2018-05-03T13:24:55.000Z'
+    published_at: '2018-05-03T00:00:00.000Z'
     created_at: '2020-12-07T16:08:07.417Z'
-    updated_at: '2020-12-07T16:08:07.417Z'
+    updated_at: '2020-12-08T13:56:34.900Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3792,9 +4705,9 @@
 -
     id: 394
     name_et: null
-    published_at: '2018-04-30T14:43:06.000Z'
+    published_at: '2018-04-30T00:00:00.000Z'
     created_at: '2020-12-07T16:08:07.597Z'
-    updated_at: '2020-12-07T16:08:07.597Z'
+    updated_at: '2020-12-08T13:56:35.180Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3857,9 +4770,9 @@
 -
     id: 395
     name_et: null
-    published_at: '2018-04-27T12:07:04.000Z'
+    published_at: '2018-04-27T00:00:00.000Z'
     created_at: '2020-12-07T16:08:07.767Z'
-    updated_at: '2020-12-07T16:08:07.767Z'
+    updated_at: '2020-12-08T13:56:35.502Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -3931,9 +4844,9 @@
 -
     id: 396
     name_et: null
-    published_at: '2018-04-25T10:47:17.000Z'
+    published_at: '2018-04-25T00:00:00.000Z'
     created_at: '2020-12-07T16:08:07.943Z'
-    updated_at: '2020-12-07T16:08:07.943Z'
+    updated_at: '2020-12-08T13:56:35.782Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4010,9 +4923,9 @@
 -
     id: 397
     name_et: null
-    published_at: '2018-04-19T13:02:53.000Z'
+    published_at: '2018-04-19T00:00:00.000Z'
     created_at: '2020-12-07T16:08:08.101Z'
-    updated_at: '2020-12-07T16:08:08.101Z'
+    updated_at: '2020-12-08T13:56:36.107Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4051,9 +4964,9 @@
 -
     id: 414
     name_et: null
-    published_at: '2017-11-29T11:57:05.000Z'
+    published_at: '2017-11-29T00:00:00.000Z'
     created_at: '2020-12-07T16:08:11.590Z'
-    updated_at: '2020-12-07T16:08:11.590Z'
+    updated_at: '2020-12-08T13:56:40.997Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4156,9 +5069,9 @@
 -
     id: 415
     name_et: null
-    published_at: '2017-11-21T13:22:50.000Z'
+    published_at: '2017-11-21T00:00:00.000Z'
     created_at: '2020-12-07T16:08:11.773Z'
-    updated_at: '2020-12-07T16:08:11.773Z'
+    updated_at: '2020-12-08T13:56:41.244Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4256,81 +5169,11 @@
     media: []
     authors: []
 -
-    id: 416
-    name_et: null
-    published_at: '2017-11-17T14:01:38.000Z'
-    created_at: '2020-12-07T16:08:12.042Z'
-    updated_at: '2020-12-07T16:08:12.042Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2017-11-17T00:00:00.000Z'
-    content_et: >-
-        Pressiteade 17.11.2017  
-
-        21.novembril kell 18 avatakse Disaini ja Arhitektuuri Galeriis Henri
-        Hüti ja Mihkel Ilusa lavastatud näitus “Kapriisid: Eelvõim”.  
-
-
-        “Kapriisid: Eelvõim” on lavastatud näitus, mis loob galeriiruumi
-        keskkonna ning esindab teatri atmosfääri sellisena, nagu meile meeldib
-        seda kogeda. Teatris funktsionaalset, nagu valguspark või publiku
-        toolid, kujutame skulpturaalsena. Kogu lavatehniline arsenal ja etendust
-        loovad komponendid on esile toodud ning liigne inimlähedus tahaplaanile
-        jäetud. Ja ometi ei ole me suutnud loobuda puhvetist… Kapriisid on
-        jätkuv projekt, mis on sümbioos etenduskunstide ja näitusekultuuri
-        praktikatest. Saaga kolmanda peatüki fookuses on ootus, hämarus, vaikus
-        ja kuuluvus.  
-
-
-        Henri Hütt on (etendus)kunstnik, kes väärtustab loomingulisi
-        hübriidvorme, kuhu kuuluvad nii tehnoloogilise dominandiga etenduskunsti
-        vormid, helietendused, lavastatud näituse kontseptsiooni arendamine ning
-        koostööd erinevate valdkondade kunstnikega. On rühmituse MIMproject
-        liige ning Baltikumi ja Skandinaavia kunstiülikoolide võrgustiku DAMA
-        koordinaator.  
-
-
-        Mihkel Ilus on visuaalkunstnik, kelle põhifookus on maali laiendatud
-        väljal. See tähendab, et Ilus sageli töötab suuremõõtmelise
-        installatsiooniga, milles maaliline lähenemine omab keskset rolli. Ilusa
-        praktika oluline osa on ka kaasaegse näitusekultuuri ja etenduskunsti
-        põimumine. Viimasel ajal tegeleb peamiselt objektse kunsti erinevuste
-        uurimisega black box ja white cube tingimustes.  
-
-
-        Idee, teostus, esitus: Henri Hütt ja Mihkel Ilus, kaasprodutsent: Kanuti
-        Gildi SAAL, tänud: Ingrid Allik, KIASMA, toetajad: Eesti
-        Kultuurkapital.  
-
-
-        Avamine 21. novembril kell 18:00.   
-
-        Disaini ja Arhitektuuri Galerii (Pärnu mnt 6, Tallinn) on avatud
-        esmaspäevast laupäevani kell 12:00-18:00. Näitus jääb avatuks kuni 2.
-        detsembrini.  
-
-
-        Näituse video: [vimeo.com/240018458](https://vimeo.com/240018458)  
-
-        Koduleht:
-        [saal.ee/et/performance/5125](https://saal.ee/et/performance/5125)
-    content_en: null
-    related_media: null
-    remote_id: '5152'
-    title_et: >-
-        Pressiteade 17.11.2017: 21. novembril kell 18 avatakse Disaini ja
-        Arhitektuuri Galeriis Henri Hüti ja Mihkel Ilusa lavastatud näitus
-        “Kapriisid: Eelvõim”.
-    title_en: null
-    media: []
-    authors: []
--
     id: 417
     name_et: null
-    published_at: '2017-11-15T14:27:09.000Z'
+    published_at: '2017-10-03T00:00:00.000Z'
     created_at: '2020-12-07T16:08:12.332Z'
-    updated_at: '2020-12-07T16:08:12.332Z'
+    updated_at: '2020-12-08T13:56:41.819Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4396,155 +5239,11 @@
     media: []
     authors: []
 -
-    id: 418
-    name_et: null
-    published_at: '2017-11-15T08:49:10.000Z'
-    created_at: '2020-12-07T16:08:12.525Z'
-    updated_at: '2020-12-07T16:08:12.525Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2017-11-14T00:00:00.000Z'
-    content_et: >-
-        Kaasaegse etenduskunsti keskus Kanuti Gildi SAAL sõidab koos sõpradega
-        Düsseldorfi ja Nanterre’i Eesti Vabariik 100 ja EL Nõukogu eesistumise
-        raames Eesti juubelit tähistama.
-
-
-        Kanuti Gildi SAAL tähistab 24.-25. novembril Eesti esimest Euroopa Liidu
-        Nõukogu eesistumist ja Eesti Vabariigi 100. juubelit kaasaegses
-        etenduskunsti keskuses Forum Freies Theater’is ja kohalikus
-        alternatiivse kinomajas Filmwerkstattis, Düsseldorfis, samuti toimub
-        sarnast laadi, kuid erineva sisuga üritus 15.-16. detsembril
-        Nanterre-Amandiers Teatris Nanterre’is, Prantsusmaal. Saksamaal toimuva
-        ürituse nimi on eestipäraselt “Sünnipäevapidu” ja Prantsusmaal toimuv
-        kannab nime “Week End Estonien”.
-
-
-        “Sünnipäevapidu” ja “Week End Estonien”  üritused on lisaks
-        tähistamisele loodud eesmärgiga luua kohalikele ärksameelsetele võimalus
-        tutvuda Eestile eripärase käekirjaga kunstiga. Mõlema ürituse eripära
-        seisneb selles, et nende päevade sisu sünnib vastavalt kohalikule
-        kontekstile koostöös sealse partneriga. Kaks etendus- ja visuaalkunstide
-        nädalavahetust Düsseldorfis ja Nanterre’is on sulam etendustest, filmist
-        ning visuaal-muusikalistest elamustest, mis kinnitab ühelt poolt 100.
-        aastaseks saava Eesti iseenesestmõistetavat kuulumist Euroopa
-        kultuuriruumi ning samas annab võimaluse tuua esile meie ainulaadsed
-        eripärad.
-
-
-        Programm Düsseldorfis algab reedel kohalikus Filmwerkstattis, kus Daniel
-        Vaarik räägib e-residentsusest ning vestleb Patrick Schifferiga
-        (Piratenpartei liider) demokraatia võimalikkusest Interneti ajastul.
-        Õhtu jätkub Teater NO99 filmiga “Kust tuleb tolm ja kaob raha” ning
-        lõppeb elektroonilise muusikaduo Cubus Larvikuga, kes koos VJ Emer
-        Värgiga loovad visuaalse ja helilise rännaku.
-
-        Laupäeval astuvad Forum Freies Theater’is üles Karl Saks oma Eesti
-        Teatriliidu tantsuauhinna pälvinud soololavastusega “Seisund ja disain”,
-        Maike Lond Malmborg palju tuuritanud loeng-etendusega “"10 journeys to a
-        place where nothing happens*" ja saab näha ka Kädi Metsoja nooruslikku
-        energiat pulbitsevat tsirkus-tantsulavastust “Moiste”.
-
-
-        ![EW100](https://saal.entu.ee/api2/file-3512)
-
-
-        Kanuti Gildi SAALi kontakt: Maarja Kalmre  
-
-        maarja@saal.ee  
-
-        +372 55647931  
-
-        www.saal.ee  
-
-
-        lisaks:
-
-
-        [www.ev100.ee/et/sunnipaevapidu](https://www.ev100.ee/et/sunnipaevapidu)  
-
-        [fft-duesseldorf.de/stueck/100-jahre-estland/](https://fft-duesseldorf.de/stueck/100-jahre-estland/)  
-
-        [www.filmwerkstatt-duesseldorf.de/
-        ](http://www.filmwerkstatt-duesseldorf.de/)
-    content_en: >-
-        Contemporary performing arts centre Kanuti Gildi SAAL and friends are
-        going to Düsseldorf and Nanterre within the framework of Estonian
-        Presidency of the Council of the European Union and a hundred years of
-        the Republic of Estonia to celebrate its birthday.  
-
-
-        On 24th-25th of November Kanuti Gildi SAAL from Tallinn celebrates the
-        first Estonian Presidency of the Council of the European Union and a
-        hundred years of the Republic of Estonia at the professional free
-        theatre Forum Freies Theater and at local alternative film centre
-        Filmwerkstatt in Düsseldorf. Moreover, similar event, but with different
-        content also takes place in Nanterre, France. Düsseldorf’s event is
-        titled Sünnipäevapidu and the one at France Week End Estonien.  
-
-
-        Sünnipäevapidu and Week End Estonien are events that in addition to its
-        celebratory purpose create an opportunity for local agile ones to enjoy
-        Estonian unique art. The programme for both events is combined with the
-        collaboration partner taken the local context into consideration. One
-        weekend in Düsseldorf and in Nanterre are melting pot of theatre, film
-        and visual-musical performances, which on one hand affirms our 100 year
-        old country belonging to the European cultural sphere, but also gives an
-        opportunity to show our one-of-a-kind artworks.  
-
-
-        The programme in Düsseldorf begins on friday at the local Filmwerkstatt,
-        where Daniel Vaarik will talk about e-residency and also have a
-        discussion with Patrick Schiffer (federal chairman of Pirate Party)
-        about the possibilities of democracy during the Internet era. The
-        evening continues with the Theatre NO99 documentary about creating a
-        fake political party as a theatre grand event “Ash and Money” and ends
-        with the electronical music duo Cubus Larvik together with VJ Emer Värk.
-
-        On saturday at Forum Freies Theater Karl Saks will show his solo piece 
-        “State and design”,  that was awarded by the Estonian Theatre Union as
-        the best dance performance 
-         “Maike Lond Malmborg will perform with her lecture-performance “10 journeys to a place where nothing happens*” that has toured around the world and last but not least Kädi Metsoja’s energetic circus and dance performance “Moiste”.  
-
-        ![EW100](https://saal.entu.ee/api2/file-3512)
-
-
-        The contact from Kanuti Gildi SAAL: Maarja Kalmre  
-
-        maarja@saal.ee  
-
-        +372 55647931  
-
-        www.saal.ee  
-
-
-        additional links:  
-
-
-        [www.ev100.ee/et/sunnipaevapidu](https://www.ev100.ee/et/sunnipaevapidu)  
-
-        [fft-duesseldorf.de/stueck/100-jahre-estland/](https://fft-duesseldorf.de/stueck/100-jahre-estland/)  
-
-        [www.filmwerkstatt-duesseldorf.de/
-        ](http://www.filmwerkstatt-duesseldorf.de/)
-    related_media: null
-    remote_id: '5150'
-    title_et: >-
-        Pressiteade 14.11.2017: Kanuti Gildi SAAL viib Eesti Vabariigi
-        sünnipäeva Düsseldorfi ja Nanterre’i.
-    title_en: >-
-        Press release 14.11.2017: Contemporary performing arts centre Kanuti
-        Gildi SAAL and friends take the birthday of the Republic of Estonia to
-        Düsseldorf and Nanterre.
-    media: []
-    authors: []
--
     id: 419
     name_et: null
-    published_at: '2017-10-27T12:27:47.000Z'
+    published_at: '2017-10-27T00:00:00.000Z'
     created_at: '2020-12-07T16:08:12.746Z'
-    updated_at: '2020-12-07T16:08:12.746Z'
+    updated_at: '2020-12-08T13:56:42.436Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4655,9 +5354,9 @@
 -
     id: 420
     name_et: null
-    published_at: '2017-10-19T07:15:32.000Z'
+    published_at: '2017-10-18T00:00:00.000Z'
     created_at: '2020-12-07T16:08:12.912Z'
-    updated_at: '2020-12-07T16:08:12.912Z'
+    updated_at: '2020-12-08T13:56:42.735Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4770,9 +5469,9 @@
 -
     id: 421
     name_et: null
-    published_at: '2017-09-26T12:37:31.000Z'
+    published_at: '2017-09-26T00:00:00.000Z'
     created_at: '2020-12-07T16:08:13.084Z'
-    updated_at: '2020-12-07T16:08:13.084Z'
+    updated_at: '2020-12-08T13:56:43.028Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4864,9 +5563,9 @@
 -
     id: 422
     name_et: null
-    published_at: '2017-09-19T10:29:05.000Z'
+    published_at: '2017-09-19T00:00:00.000Z'
     created_at: '2020-12-07T16:08:13.358Z'
-    updated_at: '2020-12-07T16:08:13.358Z'
+    updated_at: '2020-12-08T13:56:43.234Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -4954,9 +5653,9 @@
 -
     id: 423
     name_et: null
-    published_at: '2017-08-30T06:02:35.000Z'
+    published_at: '2017-08-29T00:00:00.000Z'
     created_at: '2020-12-07T16:08:13.519Z'
-    updated_at: '2020-12-07T16:08:13.519Z'
+    updated_at: '2020-12-08T13:56:43.475Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5036,9 +5735,9 @@
 -
     id: 424
     name_et: null
-    published_at: '2017-08-22T11:17:17.000Z'
+    published_at: '2017-08-22T00:00:00.000Z'
     created_at: '2020-12-07T16:08:13.747Z'
-    updated_at: '2020-12-07T16:08:13.747Z'
+    updated_at: '2020-12-08T13:56:43.740Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5129,9 +5828,9 @@
 -
     id: 425
     name_et: null
-    published_at: '2017-08-02T11:12:43.000Z'
+    published_at: '2017-08-02T00:00:00.000Z'
     created_at: '2020-12-07T16:08:13.903Z'
-    updated_at: '2020-12-07T16:08:13.903Z'
+    updated_at: '2020-12-08T13:56:43.969Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5239,9 +5938,9 @@
 -
     id: 426
     name_et: null
-    published_at: '2017-07-24T17:30:48.000Z'
+    published_at: '2017-07-18T00:00:00.000Z'
     created_at: '2020-12-07T16:08:14.247Z'
-    updated_at: '2020-12-07T16:08:14.247Z'
+    updated_at: '2020-12-08T13:56:44.234Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5473,9 +6172,9 @@
 -
     id: 427
     name_et: null
-    published_at: '2017-08-23T13:06:49.000Z'
+    published_at: '2017-06-26T00:00:00.000Z'
     created_at: '2020-12-07T16:08:14.449Z'
-    updated_at: '2020-12-07T16:08:14.449Z'
+    updated_at: '2020-12-08T13:56:44.520Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5673,9 +6372,9 @@
 -
     id: 428
     name_et: null
-    published_at: '2017-06-08T14:26:36.000Z'
+    published_at: '2017-06-08T00:00:00.000Z'
     created_at: '2020-12-07T16:08:14.619Z'
-    updated_at: '2020-12-07T16:08:14.619Z'
+    updated_at: '2020-12-08T13:56:44.771Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5766,9 +6465,9 @@
 -
     id: 429
     name_et: null
-    published_at: '2017-05-20T06:48:35.000Z'
+    published_at: '2017-05-16T00:00:00.000Z'
     created_at: '2020-12-07T16:08:14.778Z'
-    updated_at: '2020-12-07T16:08:14.778Z'
+    updated_at: '2020-12-08T13:56:45.007Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -5885,69 +6584,11 @@
     media: []
     authors: []
 -
-    id: 430
-    name_et: null
-    published_at: '2017-05-01T11:01:52.000Z'
-    created_at: '2020-12-07T16:08:14.965Z'
-    updated_at: '2020-12-07T16:08:14.965Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2017-05-01T00:00:00.000Z'
-    content_et: >-
-        Rahvusvahelisel tantsupäeval, 29. aprillil toimus Kanuti Gildi SAALis
-        traditsiooniline hommikusöök, mille raames anti välja auhindu tegevuse
-        eest etenduskunstide väljal. 
-
-
-        Välja anti järgmised auhinnad ja preemiad:
-
-        Kaja Kannu Zoja Kosmodemjanskaja nimelisele preemia pälvis Sandra
-        Jõgeva.
-
-        Henri Hüti nimelise muusikalise kujunduse eripreemia pälvis Karl Saks,
-        kelle helilooming ei ole vähem tähtsam tema koreograafilisest keelest.
-
-        Patrick R. Vesi auhinna ennastsalgava tegevuse eest etenduskunstide
-        väljal 2016. aastal sai etenduskunstide MAGASIN
-        [www.saal.ee/et/magazine](https://www.saal.ee/et/magazine).  
-
-        Oliver Kulpsoo auhinna sai Mairika Plakso.
-
-
-        Ürituse märksõnaks on liikumine institutsioonidest kaugemale ja
-        tunnustust jagati isiklike kompromissitute sisekategooriate kaudu. Enam
-        ei ole põhjust vaielda igaveste teemade üle, et mis on tants ja mis on
-        etenduskunst. Eraisikud on haaranud võimu endale ning lähtuvad
-        põhimõttest “kus viga saab laita seal tule ja aita” või veel enam, “kes
-        viga näeb laita, see tuleb ja aitab” ning Kanuti Gildi SAAL kui
-        institutsioon pakub välja formaadi ja ruumi. Tunnustatud saavad
-        etenduskunstide valdkonnas nii lavalolijad kui ka telgitagused jõud.
-
-
-        Preemiad antakse välja tantsupäeval just selle pärast, et veel kord
-        rõhutada kaasaegse etenduskunsti lätteid Eestis. Nimelt on koreograafid
-        alati tegutsenud omakeskis, ilma suure vastanduseta balletiteatrile või
-        traditsioonilisele sõnateatrile. Siiski on koreograafide ruum alati
-        arvestanud üldist ja sealjuures ka Teist. Loomulikult on kaasajas
-        olemisel meeletu surve enese kaotamisele, aga las ta olla, kõik ei pea
-        maailmas püsima, püsima peab mõtlemine, aktiivne suhe ja oma ideede
-        teostamine, muutuse praktiseerimine. Kõik see toimub meie ühises ruumis.
-    content_en: null
-    related_media: null
-    remote_id: '4752'
-    title_et: >-
-        Pressiteade 1.05.2017: Kanuti Gildi SAALis jagati etenduskunstide
-        auhindu
-    title_en: null
-    media: []
-    authors: []
--
     id: 431
     name_et: null
-    published_at: '2017-04-19T14:40:38.000Z'
+    published_at: '2017-04-19T00:00:00.000Z'
     created_at: '2020-12-07T16:08:15.211Z'
-    updated_at: '2020-12-07T16:08:15.211Z'
+    updated_at: '2020-12-08T13:56:45.533Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6011,9 +6652,9 @@
 -
     id: 432
     name_et: null
-    published_at: '2017-04-19T14:41:27.000Z'
+    published_at: '2017-04-17T00:00:00.000Z'
     created_at: '2020-12-07T16:08:15.354Z'
-    updated_at: '2020-12-07T16:08:15.354Z'
+    updated_at: '2020-12-08T13:56:45.789Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6111,9 +6752,9 @@
 -
     id: 433
     name_et: null
-    published_at: '2017-04-17T12:07:30.000Z'
+    published_at: '2017-04-04T00:00:00.000Z'
     created_at: '2020-12-07T16:08:15.540Z'
-    updated_at: '2020-12-07T16:08:15.540Z'
+    updated_at: '2020-12-08T13:56:46.009Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6206,9 +6847,9 @@
 -
     id: 434
     name_et: null
-    published_at: '2017-03-23T10:03:13.000Z'
+    published_at: '2017-03-23T00:00:00.000Z'
     created_at: '2020-12-07T16:08:15.732Z'
-    updated_at: '2020-12-07T16:08:15.732Z'
+    updated_at: '2020-12-08T13:56:46.229Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6329,9 +6970,9 @@
 -
     id: 435
     name_et: null
-    published_at: '2017-03-20T12:08:02.000Z'
+    published_at: '2017-03-17T00:00:00.000Z'
     created_at: '2020-12-07T16:08:15.880Z'
-    updated_at: '2020-12-07T16:08:15.880Z'
+    updated_at: '2020-12-08T13:56:46.534Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6444,9 +7085,9 @@
 -
     id: 436
     name_et: null
-    published_at: '2017-03-09T08:14:30.000Z'
+    published_at: '2017-03-07T00:00:00.000Z'
     created_at: '2020-12-07T16:08:16.072Z'
-    updated_at: '2020-12-07T16:08:16.072Z'
+    updated_at: '2020-12-08T13:56:46.833Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6521,138 +7162,11 @@
     media: []
     authors: []
 -
-    id: 437
-    name_et: null
-    published_at: '2017-03-09T08:12:33.000Z'
-    created_at: '2020-12-07T16:08:16.228Z'
-    updated_at: '2020-12-07T16:08:16.228Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2017-03-01T00:00:00.000Z'
-    content_et: >-
-        Sel laupäeval, 4. märtsil kell 18:00 toimub Kanuti Gildi SAALis
-        Tallinnas kümnendat korda etenduskunstide lühivormide festival made in
-        estonia maraton. Festival on vabas formaadis kureerimata üritus, kus
-        kõik soovijaid saavad oma ideedega lavale tulla. Pärast etenduskunstide
-        vaatamist suundutakse edasi KuKu Klubisse, kus sel korral leiab aset
-        festivali järelpidustus.  
-
-
-        Tundub, et paljud üritavad tänapäeval liigset rõhku panna
-        lõpp-produktile ja mitte piisavalt protsessile. Maraton sündis protsessi
-        vaimus ja sellest ei saa iialgi päris valmis produkti, selleks on
-        lihtsalt liiga palju osakesi ja muutujaid. Tegemist on pidustusega, mis
-        tähistab liberalismi ja etenduskunste: kõigi maade esinejad ühinege!
-        Tõeline etenduskunsti bacchinaalia, mis koosneb traditsiooniliselt 
-        kolmest plokist: must, valge ja “alasti” lava.   
-
-
-
-        “condemned forever to becoming and never to being” (Karl Scheffler)  
-
-
-        Selle aasta etteastete autorid on Joanna Kalm, Chungin, Henri Hütt,
-        Roland Arnoldt & Eerik Kändler, Karolin Poska, Steve Vanoni, Lauren
-        Bachmann & David Wittinghofer, Üüve-Lydia Toompere, Katrin Kreutzberg,
-        Raho Aadla, Kirsi Mari Lepik, Evi Pärn & Jekaterina Kultajeva, Minna
-        Triin Kohv, Liis Vares & Pavel Semjonov, Pärtel Eelmere, Anna Kaarma,
-        Aimur Takk, Andreas Vinkel, Jaak Sapas, Kristina-Maria Heinsalu & Doris
-        Feldmann jt.  
-
-
-        Toetajad: Eesti Kultuurkapital, Fritz-Kola, Valmiermuiža Pruulikoda
-
-        Piletid müügil Piletilevis ning pool tundi enne algust kohapeal.
-    content_en: null
-    related_media: null
-    remote_id: '4642'
-    title_et: >-
-        Pressiteade 1.03.2017: made in estonia maraton lühivormide festival
-        stardib sel laupäeval 1.03.2017
-    title_en: null
-    media: []
-    authors: []
--
-    id: 325
-    name_et: null
-    published_at: '2020-11-27T08:26:01.000Z'
-    created_at: '2020-12-07T16:07:54.176Z'
-    updated_at: '2020-12-07T16:07:54.176Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2020-11-27T00:00:00.000Z'
-    content_et: >-
-        Karolin Poska soolo “Sinu nirvaanale” esietendub 5. detsembril Kanuti
-        Gildi SAALis. Tegu on kohaspetsiifilise lavastusega, kus Poska kutsub
-        publiku endaga rännakule läbi keldrisoppide ning mida mahub tänastele
-        oludele vastavalt vaatama vaid piiratud publikuhulk.  
-
-
-        Lavastus “Sinu nirvaanale” proovib läbi kehalise kogemuse jõuda lähemale
-        tänapäeval elamise tundele. Lavastaja ei hakka moraali lugema ega anna
-        hinnanguid, vaid kutsub tumedatel aegadel lahtiste silmadega unistama.
-        Kasutades keha, objekte, häält, maagiat ja ruumi, proovib ta elamise
-        ärevuses luua lohutust.  
-
-
-        Ta paneb enda puusad valetama, ta paneb sibula nutma, ta teeb midagi,
-        mis viib mitte millegini – miski pole tõene ja kõik on võimalik. Ta näeb
-        igavesti, ootab nirvaanat, kaaperdab, kukub jalad koos ja ihkab, mida
-        süda saab. Ta kutsub sind osa saama ilma osalemata.  
-
-
-        Karolin Poska on Tallinnas tegutsev koreograaf, etenduskunstnik ja
-        tantsija. Talle meeldib transformeerida reaalsust, mängida objektide ja
-        publiku ootustega. Tema esimene soololavastus “Thank you, you are
-        welcome, THANK YOU, you are welcome, thank you” etendus mitmel pool
-        Eestis ja ka piiri taga. Hetkel uudistab ta visuaalkunsti piirimail,
-        õppides kaasaegset kunsti Eesti Kunstiakadeemias.  
-
-
-        “Sinu nirvaanale” etendused Kanuti Gildi SAALis 5. - 13. detsembrini ja
-        25. - 29. jaanuarini.   
-
-
-        Lavastaja/etendaja: Karolin Poska  
-
-        Kunstnik: Maret Tamme  
-
-        Helikujundaja: Katrin Enni  
-
-        Valgus: Marko Odar  
-
-        Dramaturgiline tugi, projektijuht: Kaie Küünal  
-
-        Aitäh: Hanna Kritten Tangsoo, Theodore Parker   
-
-        Toetajad: Eesti Kultuurkapital, Floratrade OÜ  
-
-        Kaasproduktsioon: Kanuti Gildi SAAL  
-
-        Esietendus: 5.12.2020 Kanuti Gildi SAAL  
-
-        Keel ei ole takistuseks.   
-
-
-        Lavastusele puudub ligipääs liikumisraskustega inimestele, vabandame!  
-
-
-        Fotod: Martin Buschmann
-    content_en: null
-    related_media: null
-    remote_id: '6886'
-    title_et: Karolin Poska proovib elamise ärevuses luua lohutust
-    title_en: null
-    media: []
-    authors: []
--
     id: 326
     name_et: null
-    published_at: '2020-11-24T09:56:41.000Z'
+    published_at: '2020-11-24T00:00:00.000Z'
     created_at: '2020-12-07T16:07:54.500Z'
-    updated_at: '2020-12-07T16:07:54.500Z'
+    updated_at: '2020-12-08T13:56:09.158Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6780,9 +7294,9 @@
 -
     id: 327
     name_et: null
-    published_at: '2020-11-04T18:20:52.000Z'
+    published_at: '2020-10-27T00:00:00.000Z'
     created_at: '2020-12-07T16:07:54.705Z'
-    updated_at: '2020-12-07T16:07:54.705Z'
+    updated_at: '2020-12-08T13:56:09.551Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6902,9 +7416,9 @@
 -
     id: 328
     name_et: null
-    published_at: '2020-11-04T18:18:17.000Z'
+    published_at: '2020-10-29T00:00:00.000Z'
     created_at: '2020-12-07T16:07:54.899Z'
-    updated_at: '2020-12-07T16:07:54.899Z'
+    updated_at: '2020-12-08T13:56:09.898Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -6985,9 +7499,9 @@
 -
     id: 329
     name_et: null
-    published_at: '2020-10-28T14:44:16.000Z'
+    published_at: '2020-10-28T00:00:00.000Z'
     created_at: '2020-12-07T16:07:55.093Z'
-    updated_at: '2020-12-07T16:07:55.093Z'
+    updated_at: '2020-12-08T13:56:10.193Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7009,69 +7523,11 @@
     media: []
     authors: []
 -
-    id: 330
-    name_et: null
-    published_at: '2020-10-08T08:28:22.000Z'
-    created_at: '2020-12-07T16:07:55.326Z'
-    updated_at: '2020-12-07T16:07:55.326Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: null
-    content_et: >-
-        12., 15., 16., 17. oktoobril kell 19:30 toovad Kanuti Gildi SAALis
-        lavale ja elektron.live-is jälgimiseks “Romeo & Julia #5” Taavet Jansen,
-        Andres Tenusaar, Hendrik Kaljujärv, Henri Hütt, Mailiis Laur, Rommi
-        Ruttas, Daniel Irabien Peniche, Bohdana Korohod, Kalle Tikas, Aleksander
-        Väljamäe, Maike Lond ja Kaie Olmre.  
-          
-        On teada, mis juhtub Shakespeare’i kuulsa näidendi V vaatuses, kuid
-        milliseid emotsioone tekitavad need keerdkäigud tänapäeval? Romeo ja
-        Julia käekäiku mõjutasid protsessid, mis olid nende võimusest väljas, ja
-        see ei tähenda ainult olusid ning perekondade vaenu. Neid mõjutasid ka
-        inimese neuroloogilised eripärad. Kas meie tänased teadmised
-        neuroloogiast panevad meid Romeo ja Julia lugu teistmoodi mõistma?
-        Sellele vastamiseks on etendus osaliselt ka psühholoogiaeksperiment.  
-          
-        Etendust on võimalik vaadata kohapeal füüsiliselt või voogteatri
-        eˉlektron virtuaalsel platvormil, seega on korraga liidetud nii
-        etenduskunstide traditsiooniline kui ka uuenduslik digitaalne pool. Just
-        selliseid võimalusi on kunstnikud ja teadlased etenduskunsti vallas
-        oodanud juba ammu – on põhjust katsetada, kas kunstikogemusse mahuvad ka
-        teaduskogemuse kihid.   
-          
-        Andrus Laansalu (kunstiakadeemia lektor): ““Romeo & Julia #5” kasutab
-        installatiivset loogikat teatrile üldiselt omasema tegevuste voolu
-        asemel. Mõneti on see lavastus nagu ajas laiali paigutud kunstiobjekt.
-        Tegevus, mis muidugi täielikult ei puudu, on pigem unenäolaadne, ilma
-        konkreetse tegutsejata, hämar ja vihjeline, aga emotsioone tihedalt
-        täis.”   
-           
-        “Romeo & Julia #5” kaasprodutsendid on eˉlektron ja Kanuti Gildi SAAL.
-        Esietendus festivalil Baltoscandal 1.07.2020, kestus: 60', etendused on
-        inglise keeles.  
-          
-        Toetaja: Eesti kultuuriministeerium  
-          
-        Piletid müügil Fientas:
-        https://fienta.com/et?country=ee&q=romeo%20%26%20julia%20%235  
-          
-        Ülekanne:  https://elektron.live/  
-          
-        Lisainfo: saal.ee & elektron.art
-    content_en: null
-    related_media: null
-    remote_id: '6725'
-    title_et: 'Baltoscandalil esietendunud vol 2 “Romeo & Julia #5”@elektron.live'
-    title_en: null
-    media: []
-    authors: []
--
     id: 331
     name_et: null
-    published_at: '2020-09-28T07:53:22.000Z'
+    published_at: '2020-09-28T00:00:00.000Z'
     created_at: '2020-12-07T16:07:55.526Z'
-    updated_at: '2020-12-07T16:07:55.526Z'
+    updated_at: '2020-12-08T13:56:10.821Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7154,9 +7610,9 @@
 -
     id: 332
     name_et: null
-    published_at: '2020-09-17T07:52:33.000Z'
+    published_at: '2020-09-17T00:00:00.000Z'
     created_at: '2020-12-07T16:07:55.714Z'
-    updated_at: '2020-12-07T16:07:55.714Z'
+    updated_at: '2020-12-08T13:56:11.127Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7359,9 +7815,9 @@
 -
     id: 333
     name_et: null
-    published_at: '2020-11-04T18:18:39.000Z'
+    published_at: '2020-09-10T00:00:00.000Z'
     created_at: '2020-12-07T16:07:55.888Z'
-    updated_at: '2020-12-07T16:07:55.888Z'
+    updated_at: '2020-12-08T13:56:11.417Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7555,9 +8011,9 @@
 -
     id: 334
     name_et: null
-    published_at: '2020-09-01T12:54:10.000Z'
+    published_at: '2020-01-09T00:00:00.000Z'
     created_at: '2020-12-07T16:07:56.055Z'
-    updated_at: '2020-12-07T16:07:56.055Z'
+    updated_at: '2020-12-08T13:56:11.714Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7646,9 +8102,9 @@
 -
     id: 335
     name_et: null
-    published_at: '2020-08-28T07:50:31.000Z'
+    published_at: '2020-08-28T00:00:00.000Z'
     created_at: '2020-12-07T16:07:56.244Z'
-    updated_at: '2020-12-07T16:07:56.244Z'
+    updated_at: '2020-12-08T13:56:12.057Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7759,9 +8215,9 @@
 -
     id: 336
     name_et: null
-    published_at: '2020-08-24T10:14:53.000Z'
+    published_at: '2020-08-24T00:00:00.000Z'
     created_at: '2020-12-07T16:07:56.457Z'
-    updated_at: '2020-12-07T16:07:56.457Z'
+    updated_at: '2020-12-08T13:56:12.323Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7839,9 +8295,9 @@
 -
     id: 337
     name_et: null
-    published_at: '2020-08-18T08:59:07.000Z'
+    published_at: '2020-08-18T00:00:00.000Z'
     created_at: '2020-12-07T16:07:56.620Z'
-    updated_at: '2020-12-07T16:07:56.620Z'
+    updated_at: '2020-12-08T13:56:12.643Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7934,9 +8390,9 @@
 -
     id: 338
     name_et: null
-    published_at: '2020-10-28T14:25:29.000Z'
+    published_at: '2020-07-09T00:00:00.000Z'
     created_at: '2020-12-07T16:07:56.779Z'
-    updated_at: '2020-12-07T16:07:56.779Z'
+    updated_at: '2020-12-08T13:56:12.945Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -7959,9 +8415,9 @@
 -
     id: 339
     name_et: null
-    published_at: '2020-06-19T12:01:12.000Z'
+    published_at: '2020-06-19T00:00:00.000Z'
     created_at: '2020-12-07T16:07:57.080Z'
-    updated_at: '2020-12-07T16:07:57.080Z'
+    updated_at: '2020-12-08T13:56:13.262Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8108,9 +8564,9 @@
 -
     id: 340
     name_et: null
-    published_at: '2020-05-21T13:55:14.000Z'
+    published_at: '2020-05-21T00:00:00.000Z'
     created_at: '2020-12-07T16:07:57.241Z'
-    updated_at: '2020-12-07T16:07:57.241Z'
+    updated_at: '2020-12-08T13:56:13.544Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8130,9 +8586,9 @@
 -
     id: 438
     name_et: null
-    published_at: '2017-01-25T13:05:00.000Z'
+    published_at: '2017-01-25T00:00:00.000Z'
     created_at: '2020-12-07T16:08:16.394Z'
-    updated_at: '2020-12-07T16:08:16.394Z'
+    updated_at: '2020-12-08T13:56:47.350Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8204,9 +8660,9 @@
 -
     id: 439
     name_et: null
-    published_at: '2017-01-20T13:44:25.000Z'
+    published_at: '2017-01-11T00:00:00.000Z'
     created_at: '2020-12-07T16:08:16.561Z'
-    updated_at: '2020-12-07T16:08:16.561Z'
+    updated_at: '2020-12-08T13:56:47.632Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8278,9 +8734,9 @@
 -
     id: 440
     name_et: null
-    published_at: '2016-12-12T13:39:52.000Z'
+    published_at: '2016-12-08T00:00:00.000Z'
     created_at: '2020-12-07T16:08:16.711Z'
-    updated_at: '2020-12-07T16:08:16.711Z'
+    updated_at: '2020-12-08T13:56:47.989Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8399,9 +8855,9 @@
 -
     id: 441
     name_et: null
-    published_at: '2016-12-01T13:01:02.000Z'
+    published_at: '2016-12-01T00:00:00.000Z'
     created_at: '2020-12-07T16:08:16.874Z'
-    updated_at: '2020-12-07T16:08:16.874Z'
+    updated_at: '2020-12-08T13:56:48.284Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8482,39 +8938,11 @@
     media: []
     authors: []
 -
-    id: 442
-    name_et: null
-    published_at: '2016-11-17T12:58:01.000Z'
-    created_at: '2020-12-07T16:08:17.029Z'
-    updated_at: '2020-12-07T16:08:17.029Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2016-11-17T00:00:00.000Z'
-    content_et: >-
-        Kanuti Gildi SAAL otsib uut maja tehnikut!
-
-        Ülesanded algavad olmelisest tehnilisest valmisolekust kuni etenduste
-        läbiviimiseni. Võimalus teha koostööd eriilmeliste kunstnikega
-        erinevates lavastusprojektides, aidata korraldada rahvusvahelisi
-        teatrifestivale ja palju muud! 
-
-        Oma CV ja motivatsioonikirja ning lisaküsimused palume saata hiljemalt
-        1. detsembriks meiliaadressile revo@saal.ee. Tööle ootame alates
-        jaanuarist.
-    content_en: null
-    related_media: null
-    remote_id: '4533'
-    title_et: Kanuti Gildi SAAL otsib uut maja tehnikut!
-    title_en: null
-    media: []
-    authors: []
--
     id: 443
     name_et: null
-    published_at: '2016-11-17T12:55:49.000Z'
+    published_at: '2016-11-15T00:00:00.000Z'
     created_at: '2020-12-07T16:08:17.191Z'
-    updated_at: '2020-12-07T16:08:17.191Z'
+    updated_at: '2020-12-08T13:56:48.821Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8592,9 +9020,9 @@
 -
     id: 444
     name_et: null
-    published_at: '2016-10-31T14:47:24.000Z'
+    published_at: '2016-10-31T00:00:00.000Z'
     created_at: '2020-12-07T16:08:17.360Z'
-    updated_at: '2020-12-07T16:08:17.360Z'
+    updated_at: '2020-12-08T13:56:49.080Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8684,9 +9112,9 @@
 -
     id: 445
     name_et: null
-    published_at: '2016-10-28T20:15:10.000Z'
+    published_at: '2016-10-28T00:00:00.000Z'
     created_at: '2020-12-07T16:08:17.533Z'
-    updated_at: '2020-12-07T16:08:17.533Z'
+    updated_at: '2020-12-08T13:56:49.302Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8851,9 +9279,9 @@
 -
     id: 446
     name_et: null
-    published_at: '2016-10-26T13:45:08.000Z'
+    published_at: '2016-10-25T00:00:00.000Z'
     created_at: '2020-12-07T16:08:17.768Z'
-    updated_at: '2020-12-07T16:08:17.768Z'
+    updated_at: '2020-12-08T13:56:49.525Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -8950,9 +9378,9 @@
 -
     id: 447
     name_et: null
-    published_at: '2016-10-20T23:47:46.000Z'
+    published_at: '2016-10-20T00:00:00.000Z'
     created_at: '2020-12-07T16:08:17.942Z'
-    updated_at: '2020-12-07T16:08:17.942Z'
+    updated_at: '2020-12-08T13:56:49.812Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9025,9 +9453,9 @@
 -
     id: 448
     name_et: null
-    published_at: '2016-10-17T10:44:10.000Z'
+    published_at: '2016-10-17T00:00:00.000Z'
     created_at: '2020-12-07T16:08:18.105Z'
-    updated_at: '2020-12-07T16:08:18.105Z'
+    updated_at: '2020-12-08T13:56:50.201Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9111,91 +9539,11 @@
     media: []
     authors: []
 -
-    id: 449
-    name_et: null
-    published_at: '2016-10-13T11:13:30.000Z'
-    created_at: '2020-12-07T16:08:18.284Z'
-    updated_at: '2020-12-07T16:08:18.284Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2016-10-13T00:00:00.000Z'
-    content_et: >-
-        Karl Saksa uus soololavastus “Seisund ja disain” esietendub 21.
-        oktoobril kell 19:30 Kanuti Gildi SAALis. Järgmised etendused toimuvad
-        22. ja 24. oktoobril ning 10. ja 11. novembril.
-
-
-        “Seisund ja disain” on soololavastus, mida esitatakse kohturuumi
-        hierarhia kaudu. Täidesaatvat võimu ja kahtlusaluseid esitavad
-        arhetüübid, asitõenditeks on elemendid ja artefaktid ning
-        tunnistajapingis istub ehmunud kunstnik. Lahenduse leidmiseks võetakse
-        kasutusele paragrahvid rituaalidest ja arhiiv surnute ülestunnistustest.
-        Väiteid ja vastuväiteid vahendavad seaduslik füüsiline hierarhia ja
-        häbitu formaalne koreograafia. 
-
-
-        Karl Saks on vabakutseline koreograaf ja tantsija. Ta on lõpetanud
-        Viljandi Kultuuriakadeemia, on ennast täiendanud Inglismaal Chesteri
-        Ülikoolis ning osalenud erinevates meistriklassides Portugalis,
-        Islandil, Saksamaal ja Austrias. Hetkel õpib ta Eesti Kunstiakadeemia
-        uusmeedia magistriprogrammis, ja tegeleb heliloomega Cubus Larviku
-        kaitsva müüri taga. Kunstniku teine ning eelmine soolo-töö “The Drone of
-        Monk Nestor” etendus 2011. aastal Kanuti Gildi SAALis Sõltumatu Tantsu
-        Lava produktsioonina. Pärast seda on Karl osalenud erinevates
-        koostöö-projektides nii Eestis kui välismaal. Viimasena osales ta Maroko
-        koreograafi Radouan Mriziga lavastuses “3600”.
-
-
-        Intervjuus selgitas Karl Saks oma soololavastuse vormilist lähenemist
-        läbi juriidilise võtme:
-
-        “Kohturuumi hierarhia tähendab siinkohal mälulisust indiviidi peas, seda
-        kuidas ta konstrueerib mälu läbi selle. Oluline on see, kuidas see
-        hierarhia paneb meid otsustama, tagasi lükkama ja siis kinnitama. Üritad
-        meenutada, aru saada, kas su mälestus on tõene või mitte. See sama
-        süsteem toimub inimese peas koguaeg, see on seotud moraali, eetika,
-        filosoofia ja mäluga. Need on mehhanisimid, kus kohturuum lõppeb pea
-        sees. "Seisund ja disain" tegeleb keha ja mälu koreograafiaga.”
-
-
-        Autor, esitus, heli: Karl Saks<br />
-
-        Dramaturg: Maike Lond Malmborg<br />
-
-        Tehniline tugi: Revo Koplus<br />
-
-        Kaasproduktsioon: Kanuti Gildi SAAL<br />
-
-        Toetaja: Eesti Kultuurkapital<br />
-
-        Kestus: 80 min<br />
-
-        <br />
-
-        Esietendus 21. oktoobril kell 19:30, järgmised etendused 22. ja 24.
-        oktoobril ning 10. ja 11. novembril Kanuti Gildi SAALi Püha Vaimu
-        SAALis, Tallinnas. Etendusele 24. oktoobril järgneb vestlus
-        kunstnikuga.<br />
-
-        <br />
-
-        Piletid müügil Piletilevis ning pool tundi enne algust kohapeal.
-    content_en: null
-    related_media: null
-    remote_id: '4433'
-    title_et: >-
-        Pressiteade 13.10.2016: Kanuti Gildi SAALis esietendub Karl Saksa uus
-        soololavastus “Seisund ja disain”
-    title_en: null
-    media: []
-    authors: []
--
     id: 450
     name_et: null
-    published_at: '2016-09-20T08:53:03.000Z'
+    published_at: '2016-09-19T00:00:00.000Z'
     created_at: '2020-12-07T16:08:18.455Z'
-    updated_at: '2020-12-07T16:08:18.455Z'
+    updated_at: '2020-12-08T13:56:50.720Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9247,9 +9595,9 @@
 -
     id: 451
     name_et: null
-    published_at: '2016-05-12T14:33:58.000Z'
+    published_at: '2016-05-12T00:00:00.000Z'
     created_at: '2020-12-07T16:08:18.613Z'
-    updated_at: '2020-12-07T16:08:18.613Z'
+    updated_at: '2020-12-08T13:56:51.057Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9358,9 +9706,9 @@
 -
     id: 452
     name_et: null
-    published_at: '2016-05-02T09:48:23.000Z'
+    published_at: '2016-05-02T00:00:00.000Z'
     created_at: '2020-12-07T16:08:18.778Z'
-    updated_at: '2020-12-07T16:08:18.778Z'
+    updated_at: '2020-12-08T13:56:51.370Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9498,9 +9846,9 @@
 -
     id: 453
     name_et: null
-    published_at: '2016-05-02T09:44:49.000Z'
+    published_at: '2016-04-29T00:00:00.000Z'
     created_at: '2020-12-07T16:08:18.942Z'
-    updated_at: '2020-12-07T16:08:18.942Z'
+    updated_at: '2020-12-08T13:56:51.628Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9559,62 +9907,11 @@
     media: []
     authors: []
 -
-    id: 341
-    name_et: null
-    published_at: '2020-04-30T09:45:08.000Z'
-    created_at: '2020-12-07T16:07:57.387Z'
-    updated_at: '2020-12-07T16:07:57.387Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2020-04-29T00:00:00.000Z'
-    content_et: >-
-        Täna, rahvusvahelisel tantsupäeval, jagati Sõltumatu Etenduskunsti
-        Auhindadest välja kasvanud omaalgatuslikke preemiaid. Kuna
-        traditsioonilist tantsupäeva hommikusööki Kanuti Gildi SAALis sel aastal
-        ei toimunud, anti auhinnad üle virtuaalsel teel Zoom keskkonnas. Jagati
-        juba traditsiooniks muutunud preemiaid, aga oli ka uusi üllatajaid.
-        Kokku anti välja 6 auhinda.   
-          
-        Esmakordselt andsid auhinnad välja ZUGA ühendatud tantsijad: “Alustame
-        endale lähemalt, arvestades 2 + 2 olukorda anname välja 2 auhinda. Me ei
-        välista, et auhindu võib edaspidi olla rohkem või vähem. Mõttelise
-        auhinna anname kogu tantsukogukonnale.” Auhinna HEA HELI laureaat on
-        Lauri-Dag Tüür ja auhinna VÄÄRT VALGUS laureaat Oliver Kulpsoo.  
-          
-        Interaktiivne Üksus MTÜ tunnustab Alissa Šnaiderit julguse eest luua
-        lavastus, mis nii suurejooneliselt eri meediumite sümbioosiga mängib.
-        Tema lavastus “Weird tales I have tried to write” on suurepärane näide,
-        kuidas panna tööle iga meedium nii, et see on samaaegselt iseseisev teos
-        kui ka lavastuse terviku osa.  
-          
-        Oliver Kulpsoo nimelise auhinna pälvis Karolin Tamm. Žüriis olid lisaks
-        Oliver Kulpsoole ka eelmised laureaadid Mairika Plakso, Raho Aadla ja
-        Kai Valtna.   
-          
-        Patrick R. Vesi auhinna ennastsalgava tegevuse eest etenduskunstide
-        väljal 2019. aastal pälvis Maike Lond Malmborg.  
-          
-        Henri Hüti nimelise muusikalise kujunduse eripreemia pälvis Robert
-        Nikolajev esteetilise närvi tabamise eest lavastuses “You Will See So
-        Many Pretty Things”.   
-           
-        Head tantsupäeva!
-    content_en: null
-    related_media: null
-    remote_id: '6492'
-    title_et: >-
-        Rahvusvahelisel tantsupäeval jagati omaalgatuslikke etenduskunstide
-        auhindu
-    title_en: null
-    media: []
-    authors: []
--
     id: 342
     name_et: null
-    published_at: '2020-04-27T08:29:02.000Z'
+    published_at: '2020-04-27T00:00:00.000Z'
     created_at: '2020-12-07T16:07:57.567Z'
-    updated_at: '2020-12-07T16:07:57.567Z'
+    updated_at: '2020-12-08T13:56:14.181Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9653,97 +9950,11 @@
     media: []
     authors: []
 -
-    id: 343
-    name_et: null
-    published_at: '2020-03-30T13:02:28.000Z'
-    created_at: '2020-12-07T16:07:57.724Z'
-    updated_at: '2020-12-07T16:07:57.724Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: null
-    content_et: >-
-        3. aprillil avab loominguline platvorm e⁻lektron oma esimese
-        tegutsemishooaja Kõheda vastasmõju festivaliga. e⁻lektron on üks kahest
-        lõppvooru jõudnust, kellele Eesti kultuuriministeerium eraldas Sakala 3
-        konkursi lõppedes rahalise toetuse. Festivali nimepanemise hetkel oli
-        tegemist vastastikmõjude ühendteooriast tõukuva sõnamänguga. Enam mitte.
-        Vahepealse ajaga on inimlike vastasmõjude kõheduse astmed põhjalikult
-        läbi käidud ja selles nimes ei ole enam midagi metafoorset. See kõhedus
-        ongi nüüd see, mis toimub siin ja praegu.   
-          
-        Õigupoolest oleks festival pidanud ära jääma. Sest inimesed ei tohi
-        üksteisele lähedale tulla. Füüsilise läheduse vältimine on praegu terve
-        mõistuse ja teistest hoolimise küsimus. Aga festival siiski ei jää
-        ära.  
-          
-        Nii, nagu teatrit viimased 10 000 aastat tehti, enam teha ei saa. Publik
-        peaks vaatama esitajat ja esitaja peaks nägema, et tal on publik – aga
-        sellist olukorda ei teki. Kui kohtuda ei tohi, võiks ju reaalajas tühjas
-        saalis toimuvat etendust striimida. Aga see aitab ainult natuke ja
-        ainult päris alguses. On vaja mingit pikema ajaga arvestavat lahendust.
-        Meid huvitab, mis saab teatrist ilma teatrita. Põhiküsimus on püüda
-        kinni vähemalt mõned teatri (hetkel kaotsiläinud) põhiomadused ja need
-        virtuaalses esituskeskkonnas taasluua. Kas siiani kehtinud teatri
-        käitumismustrid on üldse neti kaudu ülekantavad? Kunstnikud omaltpoolt
-        otsivad lahendusi, kuidas teatrispetsiifilised esitusvõtted
-        (lavaintiimsus, lavakujundus, valgus jne) vahetada millegi muu vastu
-        nii, et muutus ei kaotaks teatrile iseloomulikku mõju ära.     
-          
-        Tehniliselt tähendab see küsimust, kas õnnestuks luua virtuaalne
-        kohalolev publik ja kas esitaja tunneb, et midagi on tõesti nii, nagu
-        siis, kui inimesed veel saali said koguneda. Me katsetame, kas on
-        võimalik kokkusaamistunnet esitajale ja vaatajatele tagasi anda.
-        Lahendus võib olla kahesuunalises striimimises – esitaja tõepoolest näeb
-        vaatajaid veebikaamerate taga. Ja vaatajad näevad ka üksteist, kui
-        tahavad.     
-          
-        Festivalil esineda lubanud kunstnikud tulid e⁻lektroni leiutamisplaaniga
-        kaasa. Ka nemad leiutavad midagi uut, midagi, mida nende teatritööd
-        varem ei sisaldanud. Me kõik liigume uue kogemuse leiutamise serval.
-        Kunstnikud, e⁻lektron. Ja vaatajad. Piirjoon esitaja ja publiku vahel on
-        kergelt ähmastunud, aga mitte nii, nagu seda oleks veel eile võinud ette
-        kujutada.   
-          
-        Kõheda vastasmõju festival toimub 3.–5.04.2020 kahesuunalises striimis
-        platvormil: http://elektron.live/. Esinevad Mette Edvardsen, Elina
-        Masing, Iggy Malmborg, Henri Hütt, Veiko Tubin, Hiroaki Umeda,
-        Microbiome Orchestra ja Eesti Elektroonilise Muusika Seltsi ansambel
-        EMA. 4. aprillil peetakse festivali kaugpidu 404 Event Not Found, kus
-        esinevad Kiwa, Compound Minerals, Court Rat, Hendrik Kaljujärv,
-        MIMproject live ja Vul Vulpes. Toimub ka rahvusvaheline seminar “Where
-        Have All The Magic Gone”, kus arutame kunstnike, kuraatorite ja teiste
-        loominguga tegelevate inimestega, mis juhtus teatriga, kuhu ta kadus,
-        mis saab edasi ning milliseid võimalusi praegune olukord meile pakub.  
-          
-        Lisainfo:  
-
-        Lisainfo: https://elektron.art/   
-
-        Festivali striimimine: http://elektron.live/   
-
-        Festivali treiler: https://vimeo.com/397623424   
-          
-        Kontakt:  
-
-        Kaie Olmre  
-
-        kaie@elektron.art / +372 5241778
-    content_en: null
-    related_media: null
-    remote_id: '6427'
-    title_et: >-
-        3. aprillil avab loominguline platvorm e⁻lektron oma esimese
-        tegutsemishooaja Kõheda vastasmõju festivaliga
-    title_en: null
-    media: []
-    authors: []
--
     id: 344
     name_et: null
-    published_at: '2020-03-05T11:53:11.000Z'
+    published_at: '2020-02-26T00:00:00.000Z'
     created_at: '2020-12-07T16:07:57.959Z'
-    updated_at: '2020-12-07T16:07:57.959Z'
+    updated_at: '2020-12-08T13:56:14.684Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9814,9 +10025,9 @@
 -
     id: 345
     name_et: null
-    published_at: '2020-03-04T14:03:57.000Z'
+    published_at: '2020-03-06T00:00:00.000Z'
     created_at: '2020-12-07T16:07:58.255Z'
-    updated_at: '2020-12-07T16:07:58.255Z'
+    updated_at: '2020-12-08T13:56:15.006Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9883,9 +10094,9 @@
 -
     id: 346
     name_et: null
-    published_at: '2020-02-14T12:55:23.000Z'
+    published_at: '2020-02-14T00:00:00.000Z'
     created_at: '2020-12-07T16:07:58.445Z'
-    updated_at: '2020-12-07T16:07:58.445Z'
+    updated_at: '2020-12-08T13:56:15.281Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -9999,9 +10210,9 @@
 -
     id: 347
     name_et: null
-    published_at: '2020-03-16T14:42:02.000Z'
+    published_at: '2020-01-30T00:00:00.000Z'
     created_at: '2020-12-07T16:07:58.614Z'
-    updated_at: '2020-12-07T16:07:58.614Z'
+    updated_at: '2020-12-08T13:56:15.649Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10020,29 +10231,11 @@
     media: []
     authors: []
 -
-    id: 348
-    name_et: null
-    published_at: '2019-12-18T09:58:35.000Z'
-    created_at: '2020-12-07T16:07:58.787Z'
-    updated_at: '2020-12-07T16:07:58.787Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2019-12-15T00:00:00.000Z'
-    content_et: "Kuulutame välja konkursi täitmaks kaks residentuurikohta 2020 esimesel poolaastal Püha Vaimu\_SAALis.   \nTegemist on ühekuulise\_residentuuriga, mida toetab stipendiumiga Eesti Kultuurkapital ning\_mille peamine eesmärk on pakkuda kunstnikule võimalust eksperimenteerida, arendada oma ideid ja uurida huvipakkuvaid teemasid.   \nResidentuuri ajaks palume valida kas jaanuar, veebruar, mai või juuni 2020.   \nOotame teie ideede kirjeldusi, residentuuri ajalist eelistust ja CV-sid\_\_kuni 19. detsembrini 2019 aadressile\_saal@saal.ee.  \n  \nResidentuur\LÜleskutse on avatud jagamiseks!"
-    content_en: "Kanuti Gildi SAAL is looking for artist-in-residency at Püha Vaimu SAAL in the first half of year 2020. We have two one month residency vacancies,\_which are funded by Estonian Cultural Endowment and its very nature is\_to offer a chance to experiment and research on a relevant topic for the artist.   \nFor the time period we kindly ask You to choose if You would like to work in January, February, May or June.   \nThe residency is opened for artists who are residing in Estonia or come from Estonia. \L\LWe are waiting your idea descriptions, preferred period for residency\_\_and CVs to\_saal@saal.ee. Deadline is 19th of December 2019.  \n  \n\LThis call is open for sharing!"
-    related_media: null
-    remote_id: '6240'
-    title_et: Püha Vaimu SAALi residentuuri üleskutse
-    title_en: Call for residency at Püha Vaimu SAAL
-    media: []
-    authors: []
--
     id: 349
     name_et: null
-    published_at: '2019-11-26T14:20:55.000Z'
+    published_at: '2019-11-26T00:00:00.000Z'
     created_at: '2020-12-07T16:07:59.037Z'
-    updated_at: '2020-12-07T16:07:59.037Z'
+    updated_at: '2020-12-08T13:56:16.346Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10148,9 +10341,9 @@
 -
     id: 350
     name_et: null
-    published_at: '2020-01-30T15:34:58.000Z'
+    published_at: '2019-11-12T00:00:00.000Z'
     created_at: '2020-12-07T16:07:59.220Z'
-    updated_at: '2020-12-07T16:07:59.220Z'
+    updated_at: '2020-12-08T13:56:16.621Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10170,9 +10363,9 @@
 -
     id: 351
     name_et: null
-    published_at: '2019-11-06T10:45:23.000Z'
+    published_at: '2019-11-05T00:00:00.000Z'
     created_at: '2020-12-07T16:07:59.402Z'
-    updated_at: '2020-12-07T16:07:59.402Z'
+    updated_at: '2020-12-08T13:56:17.033Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10269,9 +10462,9 @@
 -
     id: 352
     name_et: null
-    published_at: '2019-11-06T10:43:46.000Z'
+    published_at: '2019-10-30T00:00:00.000Z'
     created_at: '2020-12-07T16:07:59.644Z'
-    updated_at: '2020-12-07T16:07:59.644Z'
+    updated_at: '2020-12-08T13:56:17.354Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10343,9 +10536,9 @@
 -
     id: 353
     name_et: null
-    published_at: '2019-11-06T10:42:39.000Z'
+    published_at: '2019-10-21T00:00:00.000Z'
     created_at: '2020-12-07T16:07:59.829Z'
-    updated_at: '2020-12-07T16:07:59.829Z'
+    updated_at: '2020-12-08T13:56:17.653Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10409,9 +10602,9 @@
 -
     id: 354
     name_et: null
-    published_at: '2019-11-06T10:40:43.000Z'
+    published_at: '2019-10-17T00:00:00.000Z'
     created_at: '2020-12-07T16:08:00.059Z'
-    updated_at: '2020-12-07T16:08:00.059Z'
+    updated_at: '2020-12-08T13:56:17.967Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10501,9 +10694,9 @@
 -
     id: 355
     name_et: null
-    published_at: '2019-10-14T10:30:58.000Z'
+    published_at: '2019-10-14T00:00:00.000Z'
     created_at: '2020-12-07T16:08:00.240Z'
-    updated_at: '2020-12-07T16:08:00.240Z'
+    updated_at: '2020-12-08T13:56:18.365Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10579,9 +10772,9 @@
 -
     id: 356
     name_et: null
-    published_at: '2019-10-09T13:41:03.000Z'
+    published_at: '2019-10-02T00:00:00.000Z'
     created_at: '2020-12-07T16:08:00.404Z'
-    updated_at: '2020-12-07T16:08:00.404Z'
+    updated_at: '2020-12-08T13:56:18.601Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10662,9 +10855,9 @@
 -
     id: 357
     name_et: null
-    published_at: '2019-09-17T12:34:44.000Z'
+    published_at: '2019-09-12T00:00:00.000Z'
     created_at: '2020-12-07T16:08:00.581Z'
-    updated_at: '2020-12-07T16:08:00.581Z'
+    updated_at: '2020-12-08T13:56:18.890Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10773,9 +10966,9 @@
 -
     id: 358
     name_et: null
-    published_at: '2019-11-12T14:34:23.000Z'
+    published_at: '2019-09-13T00:00:00.000Z'
     created_at: '2020-12-07T16:08:00.757Z'
-    updated_at: '2020-12-07T16:08:00.757Z'
+    updated_at: '2020-12-08T13:56:19.200Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10795,62 +10988,11 @@
     media: []
     authors: []
 -
-    id: 366
-    name_et: null
-    published_at: '2019-05-24T10:05:34.000Z'
-    created_at: '2020-12-07T16:08:02.203Z'
-    updated_at: '2020-12-07T16:08:02.203Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2019-05-24T00:00:00.000Z'
-    content_et: >-
-        Lavastust "Workshop" on viimase aasta jooksul etendatud erinevatel
-        festivalidel Soomes, Lätis ja Šveitsis, mõnes neist korduvalt.
-        Vastukajad Mart Kangro, Juhan Ulfsaki ja Eero Epneri lavastusele on
-        olnud positiivsed. Helsingin Sanomat kirjutas pärast külalisetendusi
-        Espoos: "Oma temaatikalt võiks Workshop kergesti lahjeneda keskealisete
-        teatrimeeste enesehaletsuslikuks arveteklaarimiseks. Aga nii ei juhtu.
-        Meheksolemise mudeleid ja tänapäeva väärtusmaailma lahatakse nutikalt.
-        Esitajad ühendavad vahetut isiklikkust ja võõrandunud teatrimänge väga
-        meisterilikult." Lavastusele antakse maksimumpunktid ning lisatakse:
-        "Etendust Workshop võib kirjeldada kui teatud täielikku elamiseõpetust,
-        kus käiakse läbi inimese olemus rakutasandilt homo sapiensini ja
-        jõutakse erinevate oskuste kaudu suuremate, elu mõtte üle arutlevate
-        sfäärideni. Esinejad võtavad huumori kaudu distantsi, aga tõsised
-        eksistentsiaalsed kriisid on laval tõelised."  
-
-        Möödunud nädalal osales lavastus saksakeelse ruumi ühel olulisemal
-        festivalil auawirleben Bernis. Ajalehes Der Bund arvas kriitik: "Nad
-        võtavad pealtnäha juhuslikult ette verdtarretavaid teemasid − uinuvast
-        imikust minnakse otse üle surnuga ümberkäimiseni − ja seeläbi näitavad
-        nad täiuslikkuse iha teises valguses. Milleks see kõik? Kangro, Ulfsak
-        ja Epner annavad aimu tühisusest, mis saadab inimese igavest õppimist,
-        vaevanägemist ja pingutusi."  
-
-        Lavastus on kutsutud veel festivalidele Sloveenias, Norras ja Leedus.  
-          
-        Eestis näib "Workshopi" taas aasta lõpus. Etendused toimuvad 28-30.
-        detsembril Kanuti Gildi SAALis, Tallinnas.   
-          
-        Lavastuse autorid Mart Kangro, Juhan Ulfsak ja Eero Epner,
-        valguskunstnik Oliver Kulpsoo, helikunstnik Artjom Astrov, produtsent
-        Maria Arusoo, kaasprodutsent Kanuti Gildi SAAL.  
-          
-        Lisainfo: www.saal.ee
-    content_en: null
-    related_media: null
-    remote_id: '5966'
-    title_et: '"Workshopi" hea vastuvõtt välismaal'
-    title_en: null
-    media: []
-    authors: []
--
     id: 367
     name_et: null
-    published_at: '2020-06-01T13:01:11.000Z'
+    published_at: '2019-05-10T00:00:00.000Z'
     created_at: '2020-12-07T16:08:02.379Z'
-    updated_at: '2020-12-07T16:08:02.379Z'
+    updated_at: '2020-12-08T13:56:21.883Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10870,9 +11012,9 @@
 -
     id: 368
     name_et: null
-    published_at: '2019-05-13T11:52:20.000Z'
+    published_at: '2019-05-13T00:00:00.000Z'
     created_at: '2020-12-07T16:08:02.559Z'
-    updated_at: '2020-12-07T16:08:02.559Z'
+    updated_at: '2020-12-08T13:56:24.409Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -10904,9 +11046,9 @@
 -
     id: 369
     name_et: null
-    published_at: '2019-05-13T08:10:38.000Z'
+    published_at: '2019-05-13T00:00:00.000Z'
     created_at: '2020-12-07T16:08:02.821Z'
-    updated_at: '2020-12-07T16:08:02.821Z'
+    updated_at: '2020-12-08T13:56:24.724Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11018,9 +11160,9 @@
 -
     id: 370
     name_et: null
-    published_at: '2019-04-29T11:54:52.000Z'
+    published_at: '2019-04-29T00:00:00.000Z'
     created_at: '2020-12-07T16:08:03.005Z'
-    updated_at: '2020-12-07T16:08:03.005Z'
+    updated_at: '2020-12-08T13:56:25.016Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11051,9 +11193,9 @@
 -
     id: 371
     name_et: null
-    published_at: '2019-04-28T12:16:02.000Z'
+    published_at: '2019-04-28T00:00:00.000Z'
     created_at: '2020-12-07T16:08:03.173Z'
-    updated_at: '2020-12-07T16:08:03.173Z'
+    updated_at: '2020-12-08T13:56:25.340Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11086,9 +11228,9 @@
 -
     id: 372
     name_et: null
-    published_at: '2019-04-24T09:45:02.000Z'
+    published_at: '2019-04-02T00:00:00.000Z'
     created_at: '2020-12-07T16:08:03.328Z'
-    updated_at: '2020-12-07T16:08:03.328Z'
+    updated_at: '2020-12-08T13:56:25.659Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11163,9 +11305,9 @@
 -
     id: 373
     name_et: null
-    published_at: '2019-03-07T09:47:28.000Z'
+    published_at: '2019-03-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:03.555Z'
-    updated_at: '2020-12-07T16:08:03.555Z'
+    updated_at: '2020-12-08T13:56:25.954Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11225,74 +11367,11 @@
     media: []
     authors: []
 -
-    id: 374
-    name_et: null
-    published_at: '2019-03-01T15:57:47.000Z'
-    created_at: '2020-12-07T16:08:03.843Z'
-    updated_at: '2020-12-07T16:08:03.843Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2019-03-01T00:00:00.000Z'
-    content_et: >-
-        Avaldati Eesti teatriauhindade nominendid. Palju õnne kõigile
-        nomineerituile!
-
-        On meeliülendav leida nimekirjast nii mitmeid vabakutseliste kunstnike
-        poolt loodud töid, mille kaasprodutsendiks on Kanuti Gildi SAAL – 9
-        nominatsiooni 4 kategoorias, 8 erinevat lavastust. Oleme uhked ja
-        õnnelikud!
-
-
-        Algupärase dramaturgia auhinnale on nomineeritud:
-
-        Laur Kaunissaare, Aare Pilv, Jarmo Reha: Oomen
-
-
-        Etenduskunstide ühisauhinna nominendid:
-
-        MIMproject: Eesti ajalugu. Ehmatusest sündinud rahvas (koos
-        Rahvusooperiga Estonia ja EV 100 „Sajandi lugu“)
-
-        Mart Kangro, Juhan Ulfsak ja Eero Epner: Workshop
-
-        Henri Hütt ja Mihkel Ilus: Kapriisid III ja Kapriisid 3,5 (koos Kiasma
-        Teatriga)
-
-        Raho Aadla, Age Linkmann, Arolin Raudva ja Maarja Tõnisson, Kairi
-        Mändla, Liisi Eesmaa, Revo Koplus, Hello Upan ja Killu Sukmit: Olmeulmad
-        2 (koos Grete Nellise, Helen Sürjega)
-
-        kadrinoormets: Maandatud tõotus
-
-
-        Tantsuauhinna nominendid:
-
-        Raho Aadla, Age Linkmann, Arolin Raudva ja Maarja Tõnisson: Olmeulmad 2
-        (koos Grete Nellise ja Helen Sürjega)
-
-        Ruslan Stepanov: Невесомость
-
-
-        Lavastuse muusikalise kujunduse ja originaalmuusika auhinna nominent:
-
-        Artjom Astrov: „Невесомость“, „Workshop“, „Plaan T“ (koos Vaba Vormiga)
-
-
-        PALJU ÕNNE!
-    content_en: null
-    related_media: null
-    remote_id: '5809'
-    title_et: Teartiauhindade nominendid 2019!
-    title_en: null
-    media: []
-    authors: []
--
     id: 375
     name_et: null
-    published_at: '2019-03-21T10:35:11.000Z'
+    published_at: '2019-02-27T00:00:00.000Z'
     created_at: '2020-12-07T16:08:04.003Z'
-    updated_at: '2020-12-07T16:08:04.003Z'
+    updated_at: '2020-12-08T13:56:26.582Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11316,9 +11395,9 @@
 -
     id: 376
     name_et: null
-    published_at: '2019-02-28T16:17:37.000Z'
+    published_at: '2019-02-26T00:00:00.000Z'
     created_at: '2020-12-07T16:08:04.261Z'
-    updated_at: '2020-12-07T16:08:04.261Z'
+    updated_at: '2020-12-08T13:56:26.878Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11423,9 +11502,9 @@
 -
     id: 377
     name_et: null
-    published_at: '2019-01-31T13:37:26.000Z'
+    published_at: '2019-01-21T00:00:00.000Z'
     created_at: '2020-12-07T16:08:04.424Z'
-    updated_at: '2020-12-07T16:08:04.424Z'
+    updated_at: '2020-12-08T13:56:27.163Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11487,81 +11566,11 @@
     media: []
     authors: []
 -
-    id: 405
-    name_et: null
-    published_at: '2018-02-20T11:18:13.000Z'
-    created_at: '2020-12-07T16:08:09.729Z'
-    updated_at: '2020-12-07T16:08:09.729Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-02-20T00:00:00.000Z'
-    content_et: >-
-        Pressiteade 20.02.2018  
-
-        Täna esietendub Kanuti Gildi SAALis Mart Kangro, Juhan Ulfsaki ja Eero
-        Epneri lavastus “WORKSHOP”.  
-
-
-        Täna, 20. veebruaril esietendub Kanuti Gildi SAALis Mart Kangro, Juhan
-        Ulfsaki ja Eero Epneri lavastus “WORKSHOP”. See on lavastus õppimisest
-        ja õpetamisest, kus laval on Ulfsak, Kangro ja Epner ise. Lavastust saab
-        Kanuti Gildi SAALis näha veebruaris, märtsis ja aprillis kokku seitsmel
-        korral.    
-
-
-        Kuidas lüüa naela laua sisse. Kuidas õppida rääkima. Kuidas avada ust.
-        Kuidas olla empaatiline. Kuidas aru saada geomeetriast ning kuidas
-        vabaneda süütunde poolt põhjustatud kannatustest. Õpetamine on miski,
-        mis saab alguse juba embrüos ning jätkub kuni aastakümneid hetkeni, mil
-        inimesed molekulid lagunevad olematusse. Inimeseks ei sünnita, inimeseks
-        õpitakse. Õpitakse, kuidas teha nii, et ebamäärasest bioloogilisest
-        rakukogumist saab inimene. Vundamendi valamine. Vannitoa puhastamine
-        nii, et kuhugi ei jääks inetuid plekke. Hammaste pesemine õige nurga
-        all. Armastuse väljendamine. Õige hingamine sünnitamisel ja väärikuse
-        säilitamine suremisel. 
-
-        Kas sa teadsit, et..?  
-
-
-        Esietendus toimub 20. veebruaril kell 19:30, järgmised etendused 21.
-        veebruaril, 29. ja 30. märtsil ning 2., 3. ja 4. aprillil kell 19:30
-        Kanuti Gildi SAALis. Etendusele 21. veebruaril järgneb vestlus
-        kunstnikega, mida viivad läbi Hanno Soans ja Maria Arusoo.   
-
-
-        Idee, teostus, esitus: Mart Kangro, Juhan Ulfsak, Eero Epner (NO99)  
-
-        Produtsent, konsultant: Maria Arusoo  
-
-        Helikujundus: Artjom Astrov  
-
-        Valguskujundus: Oliver Kulpsoo  
-
-        Kaasprodutsent: Kanuti Gildi SAAL  
-
-        Toetaja: Eesti Kultuurkapital  
-
-        Täname: Jana Kadastik, Hannes Praks, Kairi Mändla, Reigo Tammjärv  
-
-
-        Piletid eelmüügis Piletilevis 8/12 EUR ning kohtade olemasolul pool
-        tundi enne algust kohapeal 10/15 EUR.
-    content_en: null
-    related_media: null
-    remote_id: '5311'
-    title_et: >-
-        Pressiteade 20.02.2018: Täna esietendub Kanuti Gildi SAALis Mart Kangro,
-        Juhan Ulfsaki ja Eero Epneri lavastus “WORKSHOP”.
-    title_en: null
-    media: []
-    authors: []
--
     id: 406
     name_et: null
-    published_at: '2018-02-20T08:12:30.000Z'
+    published_at: '2018-02-15T00:00:00.000Z'
     created_at: '2020-12-07T16:08:09.996Z'
-    updated_at: '2020-12-07T16:08:09.996Z'
+    updated_at: '2020-12-08T13:56:38.618Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11643,78 +11652,11 @@
     media: []
     authors: []
 -
-    id: 407
-    name_et: null
-    published_at: '2018-02-08T16:19:25.000Z'
-    created_at: '2020-12-07T16:08:10.313Z'
-    updated_at: '2020-12-07T16:08:10.313Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-02-08T00:00:00.000Z'
-    content_et: >-
-        Pressiteade 08.02.2018  
-
-        Kanuti Gildi SAAL tähistab Eesti Vabariigi sünnipäeva Riias ja
-        Helsingis.  
-
-
-        Koostöös Läti Uue Teatri Instituudiga toimub 15-18. veebruaril Riias
-        eesti kaasaegsete etenduskunstide festival LATEST ning Soome moodsa
-        kunsti muuseumi teater Kiasma on kutsunud erinevad Eesti kaasaegse
-        (etendus)kunsti esindajad Helsingisse 21-25. veebruaril, et tähistada
-        Eesti 100. juubelit.  
-
-
-        Riias toimuv festival LATEST kutsub avastama Eesti kaasaegset
-        etenduskunsti, vaadeldes noorte kunstnike meeleolusid Eesti Vabariigi
-        100. aastapäeva pidustuste valguses ning lähemalt uurides Eesti ja Läti
-        kunstnike koostööpotentsiaali. Programmi keskne üritus on Läti ja Eesti
-        kunstnike kollektiivne produktsioon, millesse on kaasatud – lavastaja
-        Valters Sīlis, kunstnik Kristina Norman, koreograafid Karolin Poska ja
-        Joanna Kalm, helilooja Toms Auniņš, stsenograafid Epp Kubu ja Austra
-        Hauks, dramaturg ja lavastaja Kāris Krūmiņš. Nende
-        inspiratsiooniallikaks on Liivimaa etniline kogukond Läti ja Eesti
-        riikide asutamise ja taasasutamise ajal. Külalisetenduste programmis on
-        lisaks Teater NO99, Iggy Lond Malmborgi, Maike Lond Malmborgi, Mart
-        Kangro- Juhan Ulfsak- Eero Epneri lavastused.  
-
-        Projekti algatajateks ja kaasprodutsentideks on Läti Uue Teatri
-        Instituut ja Kanuti Gildi SAAL. See on osa Läti ja Eesti 100. sünnipäeva
-        programmist. Toetavad Läti Kultuuriministeerium ja EV100.  
-
-
-        Helsingis aset leidev Eesti kaasaegse (etendus)kunsti festival UUE on 
-        moodsa kunsti muuseumi Kiasma poolt algatatud viiepäevane festival, et
-        tähistada Eesti 100. juubelit. Külla on kutsutud erinevate valdkondade
-        ärksameelsed kunstnikud: Flo Kasearu, Iggy Lond Malmborg, Maria Metsalu,
-        Merike Estna, Kristina Norman, Teater NO99 ja SU-MU ning lisaks loovad
-        konteksti Anu Allas ja Maria Arusoo. UUE festival saab teoks Kiasma
-        näituse There and Back Again raames.  
-
-
-        Lisainfo:  
-
-        [www.ev100.ee/et/latest-festival-riias](https://www.ev100.ee/et/latest-festival-riias)  
-
-        [theatre.lv/eng/we-do/latest-estonian-theatre-programme-in-riga/](http://theatre.lv/eng/we-do/latest-estonian-theatre-programme-in-riga/)  
-
-        [kiasma.fi/esitykset-tapahtumat/uue-virolaisen-nykyesitystaiteen-festivaali/](http://kiasma.fi/esitykset-tapahtumat/uue-virolaisen-nykyesitystaiteen-festivaali/)
-    content_en: null
-    related_media: null
-    remote_id: '5299'
-    title_et: >-
-        Pressiteade 08.02.2018: Kanuti Gildi SAAL tähistab Eesti Vabariigi
-        sünnipäeva Riias ja Helsingis.
-    title_en: null
-    media: []
-    authors: []
--
     id: 408
     name_et: null
-    published_at: '2018-02-01T19:33:47.000Z'
+    published_at: '2018-02-01T00:00:00.000Z'
     created_at: '2020-12-07T16:08:10.469Z'
-    updated_at: '2020-12-07T16:08:10.469Z'
+    updated_at: '2020-12-08T13:56:39.174Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11761,9 +11703,9 @@
 -
     id: 409
     name_et: null
-    published_at: '2018-02-01T12:02:46.000Z'
+    published_at: '2018-02-01T00:00:00.000Z'
     created_at: '2020-12-07T16:08:10.647Z'
-    updated_at: '2020-12-07T16:08:10.647Z'
+    updated_at: '2020-12-08T13:56:39.466Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -11865,82 +11807,11 @@
     media: []
     authors: []
 -
-    id: 410
-    name_et: null
-    published_at: '2018-01-31T14:33:56.000Z'
-    created_at: '2020-12-07T16:08:10.811Z'
-    updated_at: '2020-12-07T16:08:10.811Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2018-01-31T00:00:00.000Z'
-    content_et: >-
-        Pressiteade 31.01.2018  
-
-        Kanuti Gildi SAALis esieten dub Mart Kangro, Juhan Ulfsaki ja Eero
-        Epneri lavastus “WORKSHOP”
-
-
-        20.veebruaril esietendub Kanuti Gildi SAALis Mart Kangro, Juhan Ulfsaki
-        ja Eero Epneri lavastus “WORKSHOP”. See on lavastus õppimisest ja
-        õpetamisest, kus laval on Ulfsak, Kangro ja Epner ise. Lavastust saab
-        Kanuti Gildi SAALis näha veebruaris, märtsis ja aprillis kokku seitsmel
-        korral.    
-
-
-        Kuidas lüüa naela laua sisse. Kuidas õppida rääkima. Kuidas avada ust.
-        Kuidas olla empaatiline. Kuidas aru saada geomeetriast ning kuidas
-        vabaneda süütunde poolt põhjustatud kannatustest. Õpetamine on miski,
-        mis saab alguse juba embrüos ning jätkub kuni aastakümneid hetkeni, mil
-        inimesed molekulid lagunevad olematusse. Inimeseks ei sünnita, inimeseks
-        õpitakse. Õpitakse, kuidas teha nii, et ebamäärasest bioloogilisest
-        rakukogumist saab inimene. Vundamendi valamine. Vannitoa puhastamine
-        nii, et kuhugi ei jääks inetuid plekke. Hammaste pesemine õige nurga
-        all. Armastuse väljendamine. Õige hingamine sünnitamisel ja väärikuse
-        säilitamine suremisel. 
-
-        Kas sa teadsit, et..?  
-
-
-        Esietendus toimub 20. veebruaril kell 19:30, järgmised etendused 21.
-        veebruaril, 29. ja 30. märtsil ning 2., 3. ja 4. aprillil kell 19:30
-        Kanuti Gildi SAALis. Etendusele 21. veebruaril järgneb vestlus
-        kunstnikega.   
-
-
-        Idee, teostus, esitus: **Mart Kangro, Juhan Ulfsak, Eero Epner**
-        (NO99)  
-
-        Produtsent, konsultant: **Maria Arusoo**  
-
-        Helikujundus: **Artjom Astrov**  
-
-        Valguskujundus: **Oliver Kulpsoo**  
-
-        Kaasprodutsent: Kanuti Gildi SAAL  
-
-        Toetaja: Eesti Kultuurkapital  
-
-        Täname: Jana Kadastik, Hannes Praks, Kairi Mändla, Reigo Tammjärv  
-
-
-        Piletid eelmüügis Piletilevis 8/12 EUR ning kohtade olemasolul pool
-        tundi enne algust kohapeal 10/15 EUR.
-    content_en: null
-    related_media: null
-    remote_id: '5291'
-    title_et: >-
-        Pressiteade 31.01.2018: Kanuti Gildi SAALis esietendub Mart Kangro,
-        Juhan Ulfsaki ja Eero Epneri lavastus “WORKSHOP”
-    title_en: null
-    media: []
-    authors: []
--
     id: 411
     name_et: null
-    published_at: '2018-01-12T13:11:58.000Z'
+    published_at: '2018-01-12T00:00:00.000Z'
     created_at: '2020-12-07T16:08:10.960Z'
-    updated_at: '2020-12-07T16:08:10.960Z'
+    updated_at: '2020-12-08T13:56:40.082Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12045,9 +11916,9 @@
 -
     id: 412
     name_et: null
-    published_at: '2018-01-08T10:21:59.000Z'
+    published_at: '2018-01-08T00:00:00.000Z'
     created_at: '2020-12-07T16:08:11.150Z'
-    updated_at: '2020-12-07T16:08:11.150Z'
+    updated_at: '2020-12-08T13:56:40.374Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12149,9 +12020,9 @@
 -
     id: 413
     name_et: null
-    published_at: '2017-12-15T09:13:21.000Z'
+    published_at: '2017-12-06T00:00:00.000Z'
     created_at: '2020-12-07T16:08:11.424Z'
-    updated_at: '2020-12-07T16:08:11.424Z'
+    updated_at: '2020-12-08T13:56:40.693Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12235,9 +12106,9 @@
 -
     id: 454
     name_et: null
-    published_at: '2016-04-25T11:40:38.000Z'
+    published_at: '2016-04-25T00:00:00.000Z'
     created_at: '2020-12-07T16:08:19.109Z'
-    updated_at: '2020-12-07T16:08:19.109Z'
+    updated_at: '2020-12-08T13:56:51.815Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12307,9 +12178,9 @@
 -
     id: 455
     name_et: null
-    published_at: '2016-04-21T13:06:16.000Z'
+    published_at: '2016-04-21T00:00:00.000Z'
     created_at: '2020-12-07T16:08:19.293Z'
-    updated_at: '2020-12-07T16:08:19.293Z'
+    updated_at: '2020-12-08T13:56:52.015Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12389,9 +12260,9 @@
 -
     id: 456
     name_et: null
-    published_at: '2016-04-13T11:22:12.000Z'
+    published_at: '2016-04-13T00:00:00.000Z'
     created_at: '2020-12-07T16:08:19.508Z'
-    updated_at: '2020-12-07T16:08:19.508Z'
+    updated_at: '2020-12-08T13:56:52.242Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12480,9 +12351,9 @@
 -
     id: 457
     name_et: null
-    published_at: '2016-04-04T12:51:32.000Z'
+    published_at: '2016-04-01T00:00:00.000Z'
     created_at: '2020-12-07T16:08:19.698Z'
-    updated_at: '2020-12-07T16:08:19.698Z'
+    updated_at: '2020-12-08T13:56:52.431Z'
     name_en: null
     slug_et: null
     slug_en: null
@@ -12530,38 +12401,5 @@
         Pressiteade 1.04.2016: Rahvusooper Estonia ja Kanuti Gildi SAAL
         laiendavad ühiselt mänguruumi
     title_en: null
-    media: []
-    authors: []
--
-    id: 458
-    name_et: null
-    published_at: '2016-03-31T23:23:04.000Z'
-    created_at: '2020-12-07T16:08:19.945Z'
-    updated_at: '2020-12-07T16:08:19.945Z'
-    name_en: null
-    slug_et: null
-    slug_en: null
-    publish_time: '2016-04-01T00:00:00.000Z'
-    content_et: >-
-        Kuulutame välja konkursi täitmaks kaks residentuurikohta Püha Vaimu
-        SAALis 2016. aasta sügishooajal. Tegemist on ühekuulise residentuuriga,
-        mida toetab stipendiumiga Eesti Kultuurkapital ning mille mõtteline laad
-        on pigem pakkuda kunstnikule võimalust eksperimenteerida oma ideedega
-        kuivõrd jõuda tervikliku etenduseni. Viimane kandideerimise tähtaeg on
-        1. mai ning kuni selle kuupäevani ootame teie ideede kirjeldusi,
-        residentuuri ajalist eelistust ja CV-sid aadressile
-        [saal@saal.ee](https://saal.ee).
-    content_en: >-
-        Kanuti Gildi SAAL is looking for artist-in-residency at Püha Vaimu SAAL
-        for our fall season 2016. We have two one month residency vacancies,
-        which are  funded by Estonian Cultural Endowment and its very nature is
-        to offer artist a chance to rather experiment than to work on a
-        completed body of work. The last deadline to apply is May 1 and until
-        then, we are waiting your idea descriptions, preferred periood for
-        residency and CVs to [saal@saal.ee](https://saal.ee)
-    related_media: null
-    remote_id: '4262'
-    title_et: Residentuuri üleskutse!
-    title_en: Call for residency!
     media: []
     authors: []
