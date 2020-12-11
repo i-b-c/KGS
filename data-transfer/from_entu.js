@@ -17,10 +17,10 @@ const APP_ENTU_OPTIONS = {
   key: process.env.SAAL_ENTU_API_KEY
 }
 
-const edefs = ['performance' ]
-const fromEntu = {}
+const edefs = ['performance', 'event']
 
 for (const edef of edefs) {
+    console.log({APP_ENTU_OPTIONS})
     entulib.getEntities(edef, 10000, 1, APP_ENTU_OPTIONS)
     .then(data => {
         const rawjsonStr = JSON.stringify(data.entities.map(e=>e.get()), null, 5)
@@ -36,6 +36,7 @@ for (const edef of edefs) {
 }
 
 const parseEntuEntity = (entity_in => {
+    console.log({'E': entity_in.id})
     parseEntuProperties(entity_in.properties)
     return {
         id: entity_in.id,
