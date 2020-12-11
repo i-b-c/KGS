@@ -17,7 +17,7 @@ const APP_ENTU_OPTIONS = {
   key: process.env.SAAL_ENTU_API_KEY
 }
 
-const edefs = ['event' ]
+const edefs = ['performance' ]
 const fromEntu = {}
 
 for (const edef of edefs) {
