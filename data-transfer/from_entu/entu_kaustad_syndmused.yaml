@@ -1,4 +1,4 @@
-tuurid:
+tour:
     kaustad:
         - 1929
     syndmused:
@@ -297,7 +297,7 @@ tuurid:
         - 3971
         - 3970
         - 3966
-programm:
+program:
     kaustad:
         - 597
         - 6830
@@ -1269,7 +1269,7 @@ programm:
         - 6015
         - 6013
         - 4624
-festivalid:
+festival:
     kaustad:
         - 1930
     syndmused:
@@ -1286,7 +1286,7 @@ festivalid:
         - 4054
         - 1933
         - 1932
-projektid:
+project:
     kaustad:
         - 2107
     syndmused:
@@ -1299,7 +1299,7 @@ projektid:
         - 3987
         - 3958
         - 2136
-residentuur:
+residency:
     kaustad:
         - 1931
     syndmused:
