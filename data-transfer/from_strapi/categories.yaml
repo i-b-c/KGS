@@ -1,0 +1,240 @@
+-
+    id: 1
+    slug: null
+    name_et: Arvamus
+    name_en: Opinion
+    featured_on_front_page: false
+    remote_id: '4043'
+    published_at: '2020-12-03T13:44:11.916Z'
+    created_at: '2020-12-03T13:44:11.940Z'
+    updated_at: '2020-12-03T13:44:11.940Z'
+-
+    id: 2
+    slug: null
+    name_et: Etenduskunst
+    name_en: Performing Arts
+    featured_on_front_page: false
+    remote_id: '4036'
+    published_at: '2020-12-03T13:44:12.095Z'
+    created_at: '2020-12-03T13:44:12.106Z'
+    updated_at: '2020-12-03T13:44:12.106Z'
+-
+    id: 3
+    slug: null
+    name_et: Kogemus
+    name_en: Experience
+    featured_on_front_page: false
+    remote_id: '4044'
+    published_at: '2020-12-03T13:44:12.253Z'
+    created_at: '2020-12-03T13:44:12.263Z'
+    updated_at: '2020-12-03T13:44:12.263Z'
+-
+    id: 4
+    slug: null
+    name_et: Kriitika
+    name_en: Critics
+    featured_on_front_page: false
+    remote_id: '4040'
+    published_at: '2020-12-03T13:44:12.412Z'
+    created_at: '2020-12-03T13:44:12.434Z'
+    updated_at: '2020-12-03T13:44:12.434Z'
+-
+    id: 6
+    slug: null
+    name_et: Diskussioon
+    name_en: Discussion
+    featured_on_front_page: false
+    remote_id: '626'
+    published_at: '2020-12-03T13:44:12.798Z'
+    created_at: '2020-12-03T13:44:12.804Z'
+    updated_at: '2020-12-03T13:44:12.804Z'
+-
+    id: 7
+    slug: null
+    name_et: Maailm
+    name_en: World
+    featured_on_front_page: false
+    remote_id: '4045'
+    published_at: '2020-12-03T13:44:12.955Z'
+    created_at: '2020-12-03T13:44:12.961Z'
+    updated_at: '2020-12-03T13:44:12.961Z'
+-
+    id: 9
+    slug: null
+    name_et: Elektrooniline muusika
+    name_en: Electronic music
+    featured_on_front_page: false
+    remote_id: '1978'
+    published_at: '2020-12-03T13:44:13.257Z'
+    created_at: '2020-12-03T13:44:13.264Z'
+    updated_at: '2020-12-03T13:44:13.264Z'
+-
+    id: 10
+    slug: null
+    name_et: Mitmesugust
+    name_en: Other
+    featured_on_front_page: false
+    remote_id: '1979'
+    published_at: '2020-12-03T13:44:13.394Z'
+    created_at: '2020-12-03T13:44:13.401Z'
+    updated_at: '2020-12-03T13:44:13.401Z'
+-
+    id: 13
+    slug: null
+    name_et: Uus tsirkus
+    name_en: Circus
+    featured_on_front_page: false
+    remote_id: '622'
+    published_at: '2020-12-03T13:44:13.876Z'
+    created_at: '2020-12-03T13:44:13.882Z'
+    updated_at: '2020-12-03T13:44:13.882Z'
+-
+    id: 16
+    slug: null
+    name_et: Komöödia
+    name_en: Comedy
+    featured_on_front_page: false
+    remote_id: '2056'
+    published_at: '2020-12-03T13:44:14.445Z'
+    created_at: '2020-12-03T13:44:14.460Z'
+    updated_at: '2020-12-03T13:44:14.460Z'
+-
+    id: 17
+    slug: null
+    name_et: Laste - ja noorteteater
+    name_en: Children and Youth Theatre
+    featured_on_front_page: false
+    remote_id: '2721'
+    published_at: '2020-12-03T13:44:14.602Z'
+    created_at: '2020-12-03T13:44:14.609Z'
+    updated_at: '2020-12-03T13:44:14.609Z'
+-
+    id: 18
+    slug: null
+    name_et: Loeng
+    name_en: Lecture
+    featured_on_front_page: false
+    remote_id: '3830'
+    published_at: '2020-12-03T13:44:14.764Z'
+    created_at: '2020-12-03T13:44:14.769Z'
+    updated_at: '2020-12-03T13:44:14.769Z'
+-
+    id: 19
+    slug: null
+    name_et: Vastukaja
+    name_en: Reflections
+    featured_on_front_page: false
+    remote_id: '4042'
+    published_at: '2020-12-03T13:44:14.916Z'
+    created_at: '2020-12-03T13:44:14.924Z'
+    updated_at: '2020-12-03T13:44:14.924Z'
+-
+    id: 21
+    slug: null
+    name_et: Animated Dreams
+    name_en: Animated Dreams
+    featured_on_front_page: false
+    remote_id: '3736'
+    published_at: '2020-12-03T13:44:15.202Z'
+    created_at: '2020-12-03T13:44:15.208Z'
+    updated_at: '2020-12-03T13:44:15.208Z'
+-
+    id: 22
+    slug: null
+    name_et: Film
+    name_en: Film
+    featured_on_front_page: false
+    remote_id: '3726'
+    published_at: '2020-12-03T13:44:15.363Z'
+    created_at: '2020-12-03T13:44:15.369Z'
+    updated_at: '2020-12-03T13:44:15.369Z'
+-
+    id: 23
+    slug: null
+    name_et: PÖFF
+    name_en: PÖFF
+    featured_on_front_page: false
+    remote_id: '3719'
+    published_at: '2020-12-03T13:44:15.498Z'
+    created_at: '2020-12-03T13:44:15.504Z'
+    updated_at: '2020-12-03T13:44:15.504Z'
+-
+    id: 24
+    slug: null
+    name_et: Ühiskond
+    name_en: Society
+    featured_on_front_page: false
+    remote_id: '4039'
+    published_at: '2020-12-03T13:44:15.642Z'
+    created_at: '2020-12-03T13:44:15.650Z'
+    updated_at: '2020-12-03T13:44:15.650Z'
+-
+    id: 5
+    slug: null
+    name_et: Loeng
+    name_en: Lecture
+    featured_on_front_page: true
+    remote_id: '623'
+    published_at: '2020-12-03T13:44:12.643Z'
+    created_at: '2020-12-03T13:44:12.649Z'
+    updated_at: '2020-12-11T11:18:57.624Z'
+-
+    id: 8
+    slug: null
+    name_et: Muusika
+    name_en: Music
+    featured_on_front_page: true
+    remote_id: '3812'
+    published_at: '2020-12-03T13:44:13.108Z'
+    created_at: '2020-12-03T13:44:13.125Z'
+    updated_at: '2020-12-11T11:19:09.976Z'
+-
+    id: 11
+    slug: null
+    name_et: Näitus
+    name_en: Exhibition
+    featured_on_front_page: true
+    remote_id: '5027'
+    published_at: '2020-12-03T13:44:13.583Z'
+    created_at: '2020-12-03T13:44:13.590Z'
+    updated_at: '2020-12-11T11:19:22.383Z'
+-
+    id: 12
+    slug: null
+    name_et: Performance
+    name_en: Performance
+    featured_on_front_page: true
+    remote_id: '3810'
+    published_at: '2020-12-03T13:44:13.722Z'
+    created_at: '2020-12-03T13:44:13.728Z'
+    updated_at: '2020-12-11T11:19:35.054Z'
+-
+    id: 14
+    slug: null
+    name_et: Tants
+    name_en: Dance
+    featured_on_front_page: true
+    remote_id: '3809'
+    published_at: '2020-12-03T13:44:14.111Z'
+    created_at: '2020-12-03T13:44:14.117Z'
+    updated_at: '2020-12-11T11:19:53.689Z'
+-
+    id: 15
+    slug: null
+    name_et: Teater
+    name_en: Theatre
+    featured_on_front_page: true
+    remote_id: '3811'
+    published_at: '2020-12-03T13:44:14.280Z'
+    created_at: '2020-12-03T13:44:14.287Z'
+    updated_at: '2020-12-11T11:20:07.974Z'
+-
+    id: 20
+    slug: null
+    name_et: Video
+    name_en: Video
+    featured_on_front_page: true
+    remote_id: '3814'
+    published_at: '2020-12-03T13:44:15.069Z'
+    created_at: '2020-12-03T13:44:15.075Z'
+    updated_at: '2020-12-11T11:20:23.771Z'
