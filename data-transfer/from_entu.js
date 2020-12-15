@@ -2,6 +2,9 @@ const fs = require('fs')
 const path = require('path')
 const util = require('util')
 const entulib = require('entulib')
+const moment = require('moment-timezone')
+console.log(moment('2020-11-21T19:30').tz('Europe/Tallinn').format());
+console.log(moment('2020-10-21T19:30').tz('Europe/Tallinn').format());
 
 
 const dataDirPath =  path.join(__dirname, 'from_entu')
@@ -14,10 +17,10 @@ const APP_ENTU_OPTIONS = {
   key: process.env.SAAL_ENTU_API_KEY
 }
 
-const edefs = ['event' ]
-const fromEntu = {}
+const edefs = ['performance', 'event']
 
 for (const edef of edefs) {
+    console.log({APP_ENTU_OPTIONS})
     entulib.getEntities(edef, 10000, 1, APP_ENTU_OPTIONS)
     .then(data => {
         const rawjsonStr = JSON.stringify(data.entities.map(e=>e.get()), null, 5)
@@ -33,6 +36,7 @@ for (const edef of edefs) {
 }
 
 const parseEntuEntity = (entity_in => {
+    console.log({'E': entity_in.id})
     parseEntuProperties(entity_in.properties)
     return {
         id: entity_in.id,
@@ -44,11 +48,20 @@ const parseEntuEntity = (entity_in => {
 
 const parseEntuProperties = (properties => {
     for (property_name in properties) {
-        properties[property_name] = {
-            datatype: properties[property_name].datatype,
-            // keyname: properties[property_name].keyname,
-            values: (properties[property_name].values || [])
-                .map(v => ({value: v.value, db_value: v.db_value}))
-        }
+        const datatype = properties[property_name].datatype
+        const values = (properties[property_name].values || [])
+            .map(v => {
+                if (datatype === 'datetime') {
+                    return {
+                        value: moment(v.value).tz('Europe/Tallinn').format(),
+                        db_value: moment(v.db_value).tz('Europe/Tallinn').format()
+                    }
+                }
+                return {
+                    value: v.value,
+                    db_value: v.db_value
+                }
+            })
+        properties[property_name] = { datatype, values }
     }
 })
