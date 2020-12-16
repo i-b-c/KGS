@@ -1,0 +1,796 @@
+-
+    id: 2
+    name: main
+    published_at: '2020-12-11T10:00:52.389Z'
+    created_at: '2020-12-11T10:00:52.502Z'
+    updated_at: '2020-12-11T10:00:52.502Z'
+    label:
+        -
+            id: 2
+            name: KGS
+            value_et: Kanuti Gildi SAAL
+            value_en: Kanuti Gildi SAAL
+        -
+            id: 3
+            name: KGS_logo
+            value_et: Kanuti Gildi SAALi logo
+            value_en: Kanuti Gildi SAAL logo
+        -
+            id: 4
+            name: NUP_logo
+            value_et: New Performance logo
+            value_en: New Performance logo
+        -
+            id: 5
+            name: SB_logo
+            value_et: SAAL Bieannaal logo
+            value_en: SAAL Bieannaal logo
+        -
+            id: 6
+            name: season
+            value_et: Hooaeg
+            value_en: Season
+-
+    id: 3
+    name: Jon Doe
+    published_at: '2020-12-11T10:00:52.882Z'
+    created_at: '2020-12-11T10:00:52.892Z'
+    updated_at: '2020-12-11T10:00:52.892Z'
+    label:
+        -
+            id: 7
+            name: nimeta
+            value_et: Nimeta
+            value_en: Unnamed
+-
+    id: 4
+    name: NUP
+    published_at: '2020-12-11T10:00:53.207Z'
+    created_at: '2020-12-11T10:00:53.216Z'
+    updated_at: '2020-12-11T10:00:53.216Z'
+    label:
+        -
+            id: 8
+            name: get-newspaper-2016-1
+            value_et: Loe NUP lehte!
+            value_en: Get NUP NEWS!
+-
+    id: 5
+    name: button
+    published_at: '2020-12-11T10:00:53.802Z'
+    created_at: '2020-12-11T10:00:53.889Z'
+    updated_at: '2020-12-11T10:00:53.889Z'
+    label:
+        -
+            id: 9
+            name: LATEST
+            value_et: LAT.EST
+            value_en: LAT.EST
+        -
+            id: 10
+            name: NUP
+            value_et: NU Performance Festival 2018
+            value_en: NU Performance Festival 2018
+        -
+            id: 11
+            name: NUPprint
+            value_et: NU Performance ajaleht
+            value_en: NU Performance Newspaper
+        -
+            id: 12
+            name: artist-talk
+            value_et: Vestlus
+            value_en: Artist talk
+        -
+            id: 13
+            name: buy_ticket
+            value_et: Osta pilet
+            value_en: Buy ticket
+        -
+            id: 14
+            name: buy_t_Free_admission
+            value_et: button.buy_ticket.Free_admission
+            value_en: null
+        -
+            id: 15
+            name: buy_t_canceled
+            value_et: Jääb ära!
+            value_en: Canceled!
+        -
+            id: 16
+            name: buy_t_free_admission
+            value_et: Tasuta
+            value_en: Free Admission
+        -
+            id: 17
+            name: buy_t_free_admission/
+            value_et: button.buy_ticket.free_admission/
+            value_en: button.buy_ticket.free_admission/
+        -
+            id: 18
+            name: buy_t_future_sale
+            value_et: Tuleb müüki
+            value_en: null
+        -
+            id: 19
+            name: buy_t_going_now
+            value_et: Osta pilet
+            value_en: Buy ticket
+        -
+            id: 20
+            name: buy_t_no_tickets
+            value_et: button.buy_ticket.no_tickets
+            value_en: null
+        -
+            id: 21
+            name: buy_t_presale_at_boxoffices
+            value_et: Müügipunktist
+            value_en: From box office
+        -
+            id: 22
+            name: buy_t_regular_presale
+            value_et: Osta pilet
+            value_en: Buy ticket
+        -
+            id: 23
+            name: buy_t_sold_ou
+            value_et: button.buy_ticket.sold_ou
+            value_en: button.buy_ticket.sold_ou
+        -
+            id: 24
+            name: buy_t_sold_out
+            value_et: Välja müüdud
+            value_en: Sold out
+        -
+            id: 25
+            name: canceled
+            value_et: Jääb ära!
+            value_en: Canceled!
+        -
+            id: 26
+            name: category
+            value_et: Kategooria
+            value_en: Category
+        -
+            id: 27
+            name: festival
+            value_et: SAAL Biennaal 2017
+            value_en: SAAL Biennaal 2017
+        -
+            id: 28
+            name: load-more
+            value_et: Lae veel
+            value_en: Load more
+        -
+            id: 29
+            name: on_tour
+            value_et: Tuuril
+            value_en: On Tour
+        -
+            id: 30
+            name: premiere
+            value_et: Esietendus!
+            value_en: Premiere!
+        -
+            id: 31
+            name: saalbiennaal
+            value_et: SAAL Biennaal 2017
+            value_en: SAAL Biennaal 2017
+        -
+            id: 32
+            name: search
+            value_et: Otsi
+            value_en: Search
+        -
+            id: 33
+            name: today
+            value_et: Täna!
+            value_en: Today!
+        -
+            id: 34
+            name: view-all
+            value_et: Vaata kõiki
+            value_en: View all
+        -
+            id: 35
+            name: volunteer
+            value_et: Tule vabatahtlikuks!
+            value_en: Become a volunteer!
+        -
+            id: 36
+            name: covid_info
+            value_et: Koroona meelespea
+            value_en: Covid info
+        -
+            id: 37
+            name: year
+            value_et: Aasta
+            value_en: Year
+-
+    id: 6
+    name: categories
+    published_at: '2020-12-11T10:00:54.819Z'
+    created_at: '2020-12-11T10:00:54.846Z'
+    updated_at: '2020-12-11T10:00:54.846Z'
+    label:
+        -
+            id: 38
+            name: dance
+            value_et: Tants
+            value_en: Dance
+        -
+            id: 39
+            name: film
+            value_et: Video
+            value_en: Video
+        -
+            id: 40
+            name: lecture
+            value_et: Loeng
+            value_en: Lecture
+        -
+            id: 41
+            name: music
+            value_et: Muusika
+            value_en: Music
+        -
+            id: 42
+            name: new-circus
+            value_et: Uus Tsirkus
+            value_en: New Circus
+        -
+            id: 43
+            name: performance
+            value_et: Performance
+            value_en: Performance
+        -
+            id: 44
+            name: theatre
+            value_et: Teater
+            value_en: Theatre
+-
+    id: 7
+    name: error
+    published_at: '2020-12-11T10:00:55.247Z'
+    created_at: '2020-12-11T10:00:55.268Z'
+    updated_at: '2020-12-11T10:00:55.268Z'
+    label:
+        -
+            id: 45
+            name: Not Found
+            value_et: >-
+                Seda lehte pole veel valmis tehtud või siis on heaks arvatud ta
+                kustutada.
+            value_en: Page not found
+        -
+            id: 46
+            name: cache_missing_residency_past
+            value_et: Laadin andmeid. Minuti pärast peaks valmis olema
+            value_en: Loading data. Should be ready in a minute
+        -
+            id: 47
+            name: cache_missing_upcoming_events
+            value_et: Tulevasi sündmusi pole
+            value_en: No upcoming events
+        -
+            id: 48
+            name: cache_missing_upcoming_tours
+            value_et: Laadin andmeid. Minuti pärast peaks valmis olema
+            value_en: Loading data. Should be ready in a minute
+        -
+            id: 49
+            name: program_upcoming is not defined
+            value_et: Laadin andmeid. Minuti pärast peaks valmis olema
+            value_en: Loading data. Should be ready in a minute
+-
+    id: 8
+    name: label
+    published_at: '2020-12-11T10:00:55.530Z'
+    created_at: '2020-12-11T10:00:55.548Z'
+    updated_at: '2020-12-11T10:00:55.548Z'
+    label:
+        -
+            id: 50
+            name: days_short
+            value_et: p
+            value_en: d
+        -
+            id: 51
+            name: duration
+            value_et: Kestus
+            value_en: Duration
+        -
+            id: 52
+            name: hours_short
+            value_et: t
+            value_en: h
+        -
+            id: 53
+            name: minutes_short
+            value_et: min
+            value_en: min
+-
+    id: 9
+    name: lang
+    published_at: '2020-12-11T10:00:55.862Z'
+    created_at: '2020-12-11T10:00:55.871Z'
+    updated_at: '2020-12-11T10:00:55.871Z'
+    label:
+        -
+            id: 54
+            name: en
+            value_et: EN
+            value_en: EN
+        -
+            id: 55
+            name: et
+            value_et: EE
+            value_en: EE
+-
+    id: 10
+    name: linkto
+    published_at: '2020-12-11T10:00:56.156Z'
+    created_at: '2020-12-11T10:00:56.168Z'
+    updated_at: '2020-12-11T10:00:56.168Z'
+    label:
+        -
+            id: 56
+            name: intranet
+            value_et: Vaata Entus
+            value_en: View in Entu
+-
+    id: 11
+    name: month
+    published_at: '2020-12-11T10:00:56.475Z'
+    created_at: '2020-12-11T10:00:56.522Z'
+    updated_at: '2020-12-11T10:00:56.522Z'
+    label:
+        -
+            id: 57
+            name: '1'
+            value_et: Jaanuar
+            value_en: January
+        -
+            id: 58
+            name: '2'
+            value_et: Veebruar
+            value_en: February
+        -
+            id: 59
+            name: '3'
+            value_et: Märts
+            value_en: March
+        -
+            id: 60
+            name: '4'
+            value_et: Aprill
+            value_en: April
+        -
+            id: 61
+            name: '5'
+            value_et: Mai
+            value_en: May
+        -
+            id: 62
+            name: '6'
+            value_et: Juuni
+            value_en: June
+        -
+            id: 63
+            name: '7'
+            value_et: Juuli
+            value_en: July
+        -
+            id: 64
+            name: '8'
+            value_et: August
+            value_en: August
+        -
+            id: 65
+            name: '9'
+            value_et: September
+            value_en: September
+        -
+            id: 66
+            name: '10'
+            value_et: Oktoober
+            value_en: October
+        -
+            id: 67
+            name: '11'
+            value_et: November
+            value_en: November
+        -
+            id: 68
+            name: '12'
+            value_et: Detsember
+            value_en: December
+        -
+            id: 69
+            name: '2016'
+            value_et: month.2016
+            value_en: month.2016
+        -
+            id: 70
+            name: '2017'
+            value_et: month.2017
+            value_en: month.2017
+        -
+            id: 71
+            name: '2018'
+            value_et: month.2018
+            value_en: month.2018
+        -
+            id: 72
+            name: '2019'
+            value_et: month.2019
+            value_en: month.2019
+        -
+            id: 73
+            name: '2020'
+            value_et: month.2020
+            value_en: month.2020
+        -
+            id: 74
+            name: NaN
+            value_et: month.NaN
+            value_en: month.NaN
+-
+    id: 12
+    name: nav
+    published_at: '2020-12-11T10:00:57.193Z'
+    created_at: '2020-12-11T10:00:57.241Z'
+    updated_at: '2020-12-11T10:00:57.241Z'
+    label:
+        -
+            id: 75
+            name: about
+            value_et: Meist
+            value_en: About Us
+        -
+            id: 76
+            name: about-festival
+            value_et: Festivalist
+            value_en: About
+        -
+            id: 77
+            name: contact
+            value_et: Info
+            value_en: Info
+        -
+            id: 78
+            name: coproductions
+            value_et: Kaasproduktsioonid
+            value_en: Co-Productions
+        -
+            id: 79
+            name: festivals
+            value_et: Festivalid
+            value_en: Festivals
+        -
+            id: 80
+            name: magazine
+            value_et: Magasin
+            value_en: Magazine
+        -
+            id: 81
+            name: media
+            value_et: Meedia
+            value_en: Media
+        -
+            id: 82
+            name: press
+            value_et: Press
+            value_en: Press
+        -
+            id: 83
+            name: program
+            value_et: Programm
+            value_en: Program
+        -
+            id: 84
+            name: projects
+            value_et: Projektid
+            value_en: Projects
+        -
+            id: 85
+            name: residency
+            value_et: Residentuurid
+            value_en: Residencies
+        -
+            id: 86
+            name: schedule
+            value_et: Kava
+            value_en: Program
+        -
+            id: 87
+            name: sponsors
+            value_et: Toetajad
+            value_en: Supporters
+        -
+            id: 88
+            name: tickets
+            value_et: Piletid
+            value_en: Tickets
+        -
+            id: 89
+            name: tours
+            value_et: Tuurid
+            value_en: On Tour
+-
+    id: 13
+    name: newsletter
+    published_at: '2020-12-11T10:00:57.777Z'
+    created_at: '2020-12-11T10:00:57.791Z'
+    updated_at: '2020-12-11T10:00:57.791Z'
+    label:
+        -
+            id: 90
+            name: mailchimp_action
+            value_et: >-
+                //saal.us9.list-manage.com/subscribe/post?u=b4d371ad73e2be3853f5cd989&amp;id=11b766323b
+            value_en: >-
+                //saal.us9.list-manage.com/subscribe/post?u=b4d371ad73e2be3853f5cd989&amp;id=deab6bd3c2
+        -
+            id: 91
+            name: inputName
+            value_et: b_1e1d48fe600fda5c3f6a39b75_fdc080b2d5
+            value_en: b_b4d371ad73e2be3853f5cd989_deab6bd3c2
+        -
+            id: 92
+            name: placeholder
+            value_et: Sinu mailiaadress
+            value_en: Enter e-mail
+        -
+            id: 93
+            name: signup
+            value_et: Liitu uudiskirjaga
+            value_en: Sign-up for newsletter
+-
+    id: 14
+    name: placeholder
+    published_at: '2020-12-11T10:00:58.101Z'
+    created_at: '2020-12-11T10:00:58.109Z'
+    updated_at: '2020-12-11T10:00:58.109Z'
+    label:
+        -
+            id: 94
+            name: search
+            value_et: Otsi…
+            value_en: Search…
+-
+    id: 15
+    name: q
+    published_at: '2020-12-11T10:00:58.408Z'
+    created_at: '2020-12-11T10:00:58.427Z'
+    updated_at: '2020-12-11T10:00:58.427Z'
+    label:
+        -
+            id: 95
+            name: date
+            value_et: Kuupäev
+            value_en: Date
+        -
+            id: 96
+            name: matches
+            value_et: vastet
+            value_en: matches
+        -
+            id: 97
+            name: query
+            value_et: Otsisid
+            value_en: Searched for
+        -
+            id: 98
+            name: results_0
+            value_et: Ei leidnud
+            value_en: No matching results
+        -
+            id: 99
+            name: results_1
+            value_et: Üks oli
+            value_en: Found one
+        -
+            id: 100
+            name: results
+            value_et: Leidsin
+            value_en: Results
+-
+    id: 16
+    name: title
+    published_at: '2020-12-11T10:00:58.826Z'
+    created_at: '2020-12-11T10:00:58.956Z'
+    updated_at: '2020-12-11T10:00:58.956Z'
+    label:
+        -
+            id: 101
+            name: archive
+            value_et: Arhiiv
+            value_en: Archive
+        -
+            id: 102
+            name: audio
+            value_et: Audio
+            value_en: Heli
+        -
+            id: 103
+            name: basement
+            value_et: Kelder
+            value_en: Basement
+        -
+            id: 104
+            name: calendar
+            value_et: Kalender
+            value_en: Calendar
+        -
+            id: 105
+            name: contact
+            value_et: Kontakt
+            value_en: Contact
+        -
+            id: 106
+            name: event
+            value_et: SAALis
+            value_en: at SAAL
+        -
+            id: 107
+            name: floorplans
+            value_et: Saaliplaanid
+            value_en: Floorplans
+        -
+            id: 108
+            name: free
+            value_et: Tasuta!
+            value_en: Free of charge!
+        -
+            id: 109
+            name: gallery
+            value_et: Galerii
+            value_en: Gallery
+        -
+            id: 110
+            name: kanut-co_productions
+            value_et: title.kanut-co_productions
+            value_en: title.kanut-co_productions
+        -
+            id: 111
+            name: kanut-residency
+            value_et: Kanuti Gildi SAALi residendid
+            value_en: Residents of Kanuti Gildi SAAL
+        -
+            id: 112
+            name: news
+            value_et: Uudised
+            value_en: News
+        -
+            id: 113
+            name: no-echo
+            value_et: Artikleid pole
+            value_en: No Posts
+        -
+            id: 114
+            name: no-events
+            value_et: Sündmusi ei toimu
+            value_en: No events
+        -
+            id: 115
+            name: no-residencies
+            value_et: Residente ei ole
+            value_en: No Residencies
+        -
+            id: 116
+            name: no-tours
+            value_et: Tuuril ei ole hetkel ühtki lavastust
+            value_en: No tours
+        -
+            id: 117
+            name: onsite-price
+            value_et: Kohapealt
+            value_en: At the door
+        -
+            id: 118
+            name: past
+            value_et: Olnud
+            value_en: Past
+        -
+            id: 119
+            name: press
+            value_et: Pressikajastus
+            value_en: Press
+        -
+            id: 120
+            name: pyhavaimu-residency
+            value_et: Pühavaimu SAALi residendid
+            value_en: Residents of Pühavaimu SAAL
+        -
+            id: 121
+            name: related
+            value_et: Teised tööd
+            value_en: Other works
+        -
+            id: 122
+            name: related-articles
+            value_et: Seotud postitused
+            value_en: Related posts
+        -
+            id: 123
+            name: residency
+            value_et: Residentuur
+            value_en: Residency
+        -
+            id: 124
+            name: saal
+            value_et: Saal
+            value_en: Saal
+        -
+            id: 125
+            name: sound
+            value_et: Heli
+            value_en: Sound
+        -
+            id: 126
+            name: sponsors
+            value_et: Toetajad ja võrgustikud
+            value_en: Supporters and networks
+        -
+            id: 127
+            name: studio
+            value_et: Stuudio
+            value_en: Studio
+        -
+            id: 128
+            name: tour
+            value_et: Tuuril
+            value_en: On tour
+        -
+            id: 129
+            name: upcoming
+            value_et: Tulekul
+            value_en: Upcoming
+        -
+            id: 130
+            name: video
+            value_et: Video
+            value_en: Video
+-
+    id: 17
+    name: weekdays
+    published_at: '2020-12-11T10:00:59.742Z'
+    created_at: '2020-12-11T10:00:59.772Z'
+    updated_at: '2020-12-11T10:00:59.772Z'
+    label:
+        -
+            id: 131
+            name: '0'
+            value_et: pühapäev
+            value_en: Sunday
+        -
+            id: 132
+            name: '1'
+            value_et: esmaspäev
+            value_en: Monday
+        -
+            id: 133
+            name: '2'
+            value_et: teisipäev
+            value_en: Tuesday
+        -
+            id: 134
+            name: '3'
+            value_et: kolmapäev
+            value_en: Wednesday
+        -
+            id: 135
+            name: '4'
+            value_et: neljapäev
+            value_en: Thursday
+        -
+            id: 136
+            name: '5'
+            value_et: reede
+            value_en: Friday
+        -
+            id: 137
+            name: '6'
+            value_et: laupäev
+            value_en: Saturday
