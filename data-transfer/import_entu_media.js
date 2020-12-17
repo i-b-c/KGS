@@ -30,7 +30,7 @@ const mediamap = {
 }
 const definitionmap = {
     echo: 'articles',
-    persormance: 'performances'
+    performance: 'performances'
 }
 
 const entu_file_url_template = 'https://saal.entu.ee/api2/file-${entu_file_id}'
