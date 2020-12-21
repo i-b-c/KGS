@@ -12,6 +12,7 @@
     email: null
     occupation: null
     remote_id: '5753'
+    user: null
     picture: null
     departments: []
 -
@@ -28,6 +29,7 @@
     email: null
     occupation: null
     remote_id: '5988'
+    user: null
     picture: null
     departments: []
 -
@@ -44,6 +46,7 @@
     email: null
     occupation: null
     remote_id: '4290'
+    user: null
     picture: null
     departments: []
 -
@@ -60,6 +63,7 @@
     email: null
     occupation: null
     remote_id: '5010'
+    user: null
     picture: null
     departments: []
 -
@@ -76,6 +80,7 @@
     email: null
     occupation: null
     remote_id: '6486'
+    user: null
     picture: null
     departments: []
 -
@@ -92,6 +97,7 @@
     email: null
     occupation: null
     remote_id: '4008'
+    user: null
     picture: null
     departments: []
 -
@@ -108,6 +114,7 @@
     email: null
     occupation: null
     remote_id: '6227'
+    user: null
     picture: null
     departments: []
 -
@@ -124,6 +131,7 @@
     email: null
     occupation: null
     remote_id: '4260'
+    user: null
     picture: null
     departments: []
 -
@@ -140,6 +148,7 @@
     email: rannoait@gmail.com
     occupation: null
     remote_id: '1909'
+    user: null
     picture: null
     departments: []
 -
@@ -156,6 +165,7 @@
     email: null
     occupation: null
     remote_id: '6734'
+    user: null
     picture: null
     departments: []
 -
@@ -172,6 +182,7 @@
     email: maarja@saal.ee
     occupation: Projektijuht
     remote_id: '1974'
+    user: null
     picture: null
     departments: []
 -
@@ -188,6 +199,7 @@
     email: priit@saal.ee
     occupation: Kunstiline juht
     remote_id: '613'
+    user: null
     picture: null
     departments: []
 -
@@ -204,6 +216,7 @@
     email: henry@saal.ee
     occupation: Tehnik
     remote_id: '1907'
+    user: null
     picture: null
     departments: []
 -
@@ -220,6 +233,7 @@
     email: annika@saal.ee
     occupation: 'SAAL Biennaali kunstiline juht, projektijuht'
     remote_id: '612'
+    user: null
     picture: null
     departments: []
 -
@@ -236,6 +250,7 @@
     email: eneli@saal.ee
     occupation: Projektijuht
     remote_id: '1906'
+    user: null
     picture: null
     departments: []
 -
@@ -252,28 +267,10 @@
     email: kaie@saal.ee
     occupation: Projektijuht
     remote_id: '4789'
+    user: null
     picture: null
     departments: []
 -
-<<<<<<< HEAD
-=======
-    id: 231
-    first_name: Alissa
-    last_name: null
-    e_mail: null
-    phone_number: null
-    profession: null
-    order: null
-    published_at: '2020-12-04T13:12:30.105Z'
-    created_at: '2020-12-04T13:12:30.111Z'
-    updated_at: '2020-12-04T13:12:30.111Z'
-    email: null
-    occupation: null
-    remote_id: '5762'
-    picture: null
-    departments: []
--
->>>>>>> d456a7918991e87bcbe551efc857daf6675e0288
     id: 232
     first_name: Alissa
     last_name: Šnaider
@@ -287,6 +284,7 @@
     email: null
     occupation: null
     remote_id: '4050'
+    user: null
     picture: null
     departments: []
 -
@@ -303,6 +301,7 @@
     email: null
     occupation: null
     remote_id: '5704'
+    user: null
     picture: null
     departments: []
 -
@@ -319,6 +318,7 @@
     email: null
     occupation: null
     remote_id: '6385'
+    user: null
     picture: null
     departments: []
 -
@@ -335,6 +335,7 @@
     email: null
     occupation: null
     remote_id: '6480'
+    user: null
     picture: null
     departments: []
 -
@@ -351,6 +352,7 @@
     email: null
     occupation: null
     remote_id: '6412'
+    user: null
     picture: null
     departments: []
 -
@@ -367,6 +369,7 @@
     email: argo@roots.ee
     occupation: null
     remote_id: '3'
+    user: null
     picture: null
     departments: []
 -
@@ -383,6 +386,7 @@
     email: null
     occupation: null
     remote_id: '4413'
+    user: null
     picture: null
     departments: []
 -
@@ -399,6 +403,7 @@
     email: null
     occupation: null
     remote_id: '4342'
+    user: null
     picture: null
     departments: []
 -
@@ -415,6 +420,7 @@
     email: null
     occupation: null
     remote_id: '5837'
+    user: null
     picture: null
     departments: []
 -
@@ -431,6 +437,7 @@
     email: null
     occupation: null
     remote_id: '5336'
+    user: null
     picture: null
     departments: []
 -
@@ -447,6 +454,7 @@
     email: null
     occupation: null
     remote_id: '4255'
+    user: null
     picture: null
     departments: []
 -
@@ -463,6 +471,7 @@
     email: null
     occupation: null
     remote_id: '6803'
+    user: null
     picture: null
     departments: []
 -
@@ -479,6 +488,7 @@
     email: null
     occupation: null
     remote_id: '5763'
+    user: null
     picture: null
     departments: []
 -
@@ -495,6 +505,7 @@
     email: null
     occupation: null
     remote_id: '5351'
+    user: null
     picture: null
     departments: []
 -
@@ -511,6 +522,7 @@
     email: null
     occupation: null
     remote_id: '4720'
+    user: null
     picture: null
     departments: []
 -
@@ -527,6 +539,7 @@
     email: null
     occupation: null
     remote_id: '5815'
+    user: null
     picture: null
     departments: []
 -
@@ -543,6 +556,7 @@
     email: null
     occupation: null
     remote_id: '6471'
+    user: null
     picture: null
     departments: []
 -
@@ -559,6 +573,7 @@
     email: null
     occupation: null
     remote_id: '4259'
+    user: null
     picture: null
     departments: []
 -
@@ -575,6 +590,7 @@
     email: null
     occupation: null
     remote_id: '5178'
+    user: null
     picture: null
     departments: []
 -
@@ -591,6 +607,7 @@
     email: null
     occupation: null
     remote_id: '5628'
+    user: null
     picture: null
     departments: []
 -
@@ -607,6 +624,7 @@
     email: null
     occupation: null
     remote_id: '6047'
+    user: null
     picture: null
     departments: []
 -
@@ -623,6 +641,7 @@
     email: null
     occupation: null
     remote_id: '4411'
+    user: null
     picture: null
     departments: []
 -
@@ -639,6 +658,7 @@
     email: kyynal@saal.ee
     occupation: Projektijuht
     remote_id: '5713'
+    user: null
     picture: null
     departments: []
 -
@@ -655,6 +675,7 @@
     email: kaieolme@gmail.com
     occupation: null
     remote_id: '4722'
+    user: null
     picture: null
     departments: []
 -
@@ -671,6 +692,7 @@
     email: null
     occupation: null
     remote_id: '5666'
+    user: null
     picture: null
     departments: []
 -
@@ -687,6 +709,7 @@
     email: null
     occupation: null
     remote_id: '4048'
+    user: null
     picture: null
     departments: []
 -
@@ -703,6 +726,7 @@
     email: null
     occupation: null
     remote_id: '5764'
+    user: null
     picture: null
     departments: []
 -
@@ -719,6 +743,7 @@
     email: null
     occupation: null
     remote_id: '6170'
+    user: null
     picture: null
     departments: []
 -
@@ -735,6 +760,7 @@
     email: null
     occupation: null
     remote_id: '5889'
+    user: null
     picture: null
     departments: []
 -
@@ -751,6 +777,7 @@
     email: null
     occupation: null
     remote_id: '5844'
+    user: null
     picture: null
     departments: []
 -
@@ -767,6 +794,7 @@
     email: null
     occupation: null
     remote_id: '6500'
+    user: null
     picture: null
     departments: []
 -
@@ -783,6 +811,7 @@
     email: null
     occupation: null
     remote_id: '1927'
+    user: null
     picture: null
     departments: []
 -
@@ -799,6 +828,7 @@
     email: null
     occupation: null
     remote_id: '5800'
+    user: null
     picture: null
     departments: []
 -
@@ -815,6 +845,7 @@
     email: liis.kasper@gmail.com
     occupation: null
     remote_id: '6883'
+    user: null
     picture: null
     departments: []
 -
@@ -831,6 +862,7 @@
     email: null
     occupation: null
     remote_id: '6495'
+    user: null
     picture: null
     departments: []
 -
@@ -847,6 +879,7 @@
     email: null
     occupation: null
     remote_id: '6770'
+    user: null
     picture: null
     departments: []
 -
@@ -863,6 +896,7 @@
     email: null
     occupation: null
     remote_id: '4289'
+    user: null
     picture: null
     departments: []
 -
@@ -879,6 +913,7 @@
     email: null
     occupation: null
     remote_id: '6484'
+    user: null
     picture: null
     departments: []
 -
@@ -895,6 +930,7 @@
     email: null
     occupation: null
     remote_id: '4412'
+    user: null
     picture: null
     departments: []
 -
@@ -911,6 +947,7 @@
     email: null
     occupation: null
     remote_id: '4049'
+    user: null
     picture: null
     departments: []
 -
@@ -927,6 +964,7 @@
     email: marga.tilk@gmail.com
     occupation: null
     remote_id: '6291'
+    user: null
     picture: null
     departments: []
 -
@@ -943,6 +981,7 @@
     email: null
     occupation: null
     remote_id: '4356'
+    user: null
     picture: null
     departments: []
 -
@@ -959,6 +998,7 @@
     email: null
     occupation: null
     remote_id: '4341'
+    user: null
     picture: null
     departments: []
 -
@@ -975,6 +1015,7 @@
     email: pennaste04@gmail.com
     occupation: null
     remote_id: '6889'
+    user: null
     picture: null
     departments: []
 -
@@ -991,6 +1032,7 @@
     email: null
     occupation: null
     remote_id: '6410'
+    user: null
     picture: null
     departments: []
 -
@@ -1007,6 +1049,7 @@
     email: null
     occupation: null
     remote_id: '4579'
+    user: null
     picture: null
     departments: []
 -
@@ -1023,6 +1066,7 @@
     email: null
     occupation: null
     remote_id: '4059'
+    user: null
     picture: null
     departments: []
 -
@@ -1039,6 +1083,7 @@
     email: null
     occupation: null
     remote_id: '5778'
+    user: null
     picture: null
     departments: []
 -
@@ -1055,6 +1100,7 @@
     email: mihkel.putrinsh@gmail.com
     occupation: asd
     remote_id: '4'
+    user: null
     picture: null
     departments: []
 -
@@ -1071,6 +1117,7 @@
     email: null
     occupation: null
     remote_id: '6485'
+    user: null
     picture: null
     departments: []
 -
@@ -1087,6 +1134,7 @@
     email: null
     occupation: null
     remote_id: '6225'
+    user: null
     picture: null
     departments: []
 -
@@ -1103,6 +1151,7 @@
     email: null
     occupation: null
     remote_id: '4410'
+    user: null
     picture: null
     departments: []
 -
@@ -1119,10 +1168,10 @@
     email: null
     occupation: null
     remote_id: '5803'
+    user: null
     picture: null
     departments: []
 -
-<<<<<<< HEAD
     id: 231
     first_name: Alissa
     last_name: ''
@@ -1136,11 +1185,10 @@
     email: null
     occupation: null
     remote_id: '5762'
+    user: null
     picture: null
     departments: []
 -
-=======
->>>>>>> d456a7918991e87bcbe551efc857daf6675e0288
     id: 294
     first_name: Tencu
     last_name: null
@@ -1154,6 +1202,7 @@
     email: null
     occupation: null
     remote_id: '6357'
+    user: null
     picture: null
     departments: []
 -
@@ -1170,6 +1219,7 @@
     email: null
     occupation: null
     remote_id: '5780'
+    user: null
     picture: null
     departments: []
 -
@@ -1186,6 +1236,7 @@
     email: null
     occupation: null
     remote_id: '5587'
+    user: null
     picture: null
     departments: []
 -
@@ -1202,5 +1253,6 @@
     email: null
     occupation: null
     remote_id: '4512'
+    user: null
     picture: null
     departments: []

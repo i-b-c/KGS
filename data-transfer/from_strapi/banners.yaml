@@ -1,5 +1,4 @@
 -
-<<<<<<< HEAD
     id: 2
     name: Baltoscandal
     url: 'http://www.baltoscandal.ee/'
@@ -129,37 +128,3 @@
     start: null
     end: null
     image: null
-=======
-    id: 17
-    name: Esilehe banner
-    width: 302
-    height: 192
-    created_at: '2020-12-03T12:48:23.632Z'
-    updated_at: '2020-12-03T12:51:00.547Z'
-    name_et: null
-    slug: prefix_esilehe-banner
-    remote_id: '3806'
-    published_at: '2015-11-27T12:15:28.000Z'
--
-    id: 18
-    name: Karussell "about" lehel
-    width: 640
-    height: 480
-    created_at: '2020-12-03T12:48:23.789Z'
-    updated_at: '2020-12-03T12:54:15.682Z'
-    name_et: null
-    slug: 18-karussell-about-lehel
-    remote_id: '2788'
-    published_at: '2020-12-03T12:54:10.477Z'
--
-    id: 19
-    name: Toetajad "about" lehel
-    width: 100
-    height: 50
-    created_at: '2020-12-03T12:48:23.949Z'
-    updated_at: '2020-12-03T12:54:48.874Z'
-    name_et: null
-    slug: null
-    remote_id: '2787'
-    published_at: '2020-12-03T12:54:48.830Z'
->>>>>>> d456a7918991e87bcbe551efc857daf6675e0288
