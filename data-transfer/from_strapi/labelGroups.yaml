@@ -436,88 +436,6 @@
             value_et: month.NaN
             value_en: month.NaN
 -
-    id: 12
-    name: nav
-    published_at: '2020-12-11T10:00:57.193Z'
-    created_at: '2020-12-11T10:00:57.241Z'
-    updated_at: '2020-12-11T10:00:57.241Z'
-    label:
-        -
-            id: 75
-            name: about
-            value_et: Meist
-            value_en: About Us
-        -
-            id: 76
-            name: about-festival
-            value_et: Festivalist
-            value_en: About
-        -
-            id: 77
-            name: contact
-            value_et: Info
-            value_en: Info
-        -
-            id: 78
-            name: coproductions
-            value_et: Kaasproduktsioonid
-            value_en: Co-Productions
-        -
-            id: 79
-            name: festivals
-            value_et: Festivalid
-            value_en: Festivals
-        -
-            id: 80
-            name: magazine
-            value_et: Magasin
-            value_en: Magazine
-        -
-            id: 81
-            name: media
-            value_et: Meedia
-            value_en: Media
-        -
-            id: 82
-            name: press
-            value_et: Press
-            value_en: Press
-        -
-            id: 83
-            name: program
-            value_et: Programm
-            value_en: Program
-        -
-            id: 84
-            name: projects
-            value_et: Projektid
-            value_en: Projects
-        -
-            id: 85
-            name: residency
-            value_et: Residentuurid
-            value_en: Residencies
-        -
-            id: 86
-            name: schedule
-            value_et: Kava
-            value_en: Program
-        -
-            id: 87
-            name: sponsors
-            value_et: Toetajad
-            value_en: Supporters
-        -
-            id: 88
-            name: tickets
-            value_et: Piletid
-            value_en: Tickets
-        -
-            id: 89
-            name: tours
-            value_et: Tuurid
-            value_en: On Tour
--
     id: 13
     name: newsletter
     published_at: '2020-12-11T10:00:57.777Z'
@@ -794,3 +712,142 @@
             name: '6'
             value_et: laupäev
             value_en: Saturday
+-
+    id: 12
+    name: nav
+    published_at: '2020-12-11T10:00:57.193Z'
+    created_at: '2020-12-11T10:00:57.241Z'
+    updated_at: '2020-12-21T13:38:00.690Z'
+    label:
+        -
+            id: 75
+            name: about
+            value_et: Meist
+            value_en: About Us
+        -
+            id: 76
+            name: about-festival
+            value_et: Festivalist
+            value_en: About
+        -
+            id: 77
+            name: contact
+            value_et: Info
+            value_en: Info
+        -
+            id: 78
+            name: coproductions
+            value_et: Kaasproduktsioonid
+            value_en: Co-Productions
+        -
+            id: 79
+            name: festivals
+            value_et: Festivalid
+            value_en: Festivals
+        -
+            id: 80
+            name: magazine
+            value_et: Magasin
+            value_en: Magazine
+        -
+            id: 81
+            name: media
+            value_et: Meedia
+            value_en: Media
+        -
+            id: 82
+            name: press
+            value_et: Press
+            value_en: Press
+        -
+            id: 83
+            name: program
+            value_et: Programm
+            value_en: Program
+        -
+            id: 84
+            name: projects
+            value_et: Projektid
+            value_en: Projects
+        -
+            id: 85
+            name: residency
+            value_et: Residentuurid
+            value_en: Residencies
+        -
+            id: 86
+            name: schedule
+            value_et: Kava
+            value_en: Program
+        -
+            id: 87
+            name: sponsors
+            value_et: Toetajad
+            value_en: Supporters
+        -
+            id: 88
+            name: tickets
+            value_et: Piletid
+            value_en: Tickets
+        -
+            id: 89
+            name: tours
+            value_et: Tuurid
+            value_en: On Tour
+        -
+            id: 161
+            name: user_menu
+            value_et: Mina
+            value_en: Me
+-
+    id: 20
+    name: login
+    published_at: '2020-12-21T13:24:10.674Z'
+    created_at: '2020-12-21T13:19:58.962Z'
+    updated_at: '2020-12-21T13:38:17.174Z'
+    label:
+        -
+            id: 152
+            name: log_out
+            value_et: logi välja
+            value_en: log out
+        -
+            id: 153
+            name: get_me
+            value_et: päri mind
+            value_en: get me
+        -
+            id: 154
+            name: email
+            value_et: e-posti aadress
+            value_en: email address
+        -
+            id: 155
+            name: first_name
+            value_et: eesnimi
+            value_en: first name
+        -
+            id: 156
+            name: family_name
+            value_et: perenimi
+            value_en: family name
+        -
+            id: 157
+            name: dob
+            value_et: sünnikuupäev
+            value_en: date of birth
+        -
+            id: 158
+            name: phone
+            value_et: telefoni number
+            value_en: phone number
+        -
+            id: 159
+            name: save
+            value_et: salvesta oma andmed
+            value_en: save
+        -
+            id: 160
+            name: profile_sent
+            value_et: profiil saadetud
+            value_en: profile sent
