@@ -16,28 +16,28 @@ const APP_ENTU_OPTIONS = {
 }
 
 const mediamap = {
-    // echo: [
-    //     { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
-    //     { name: 'photo-big', suffix: ' 1400x', strapi_name: 'hero_image' },
-    //     { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium '}
-    // ],
-    // performance: [
-    //     { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
-    //     { name: 'photo-gallery', suffix: '', strapi_name: 'gallery_image_large' },
-    //     { name: 'photo-big', suffix: '', strapi_name: 'hero_image' },
-    //     { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium' }
-    // ],
-    event: [
+    echo: [
+        { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
+        { name: 'photo-big', suffix: ' 1400x', strapi_name: 'hero_image' },
+        { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium '}
+    ],
+    performance: [
         { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
         { name: 'photo-gallery', suffix: '', strapi_name: 'gallery_image_large' },
         { name: 'photo-big', suffix: '', strapi_name: 'hero_image' },
         { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium' }
-    ]
+    ],
+    // event: [
+    //     { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
+    //     { name: 'photo-gallery', suffix: '', strapi_name: 'gallery_image_large' },
+    //     { name: 'photo-big', suffix: '', strapi_name: 'hero_image' },
+    //     { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium' }
+    // ]
 }
 const definitionmap = {
-    // echo: 'articles',
-    // performance: 'performances',
-    event: 'event'
+    echo: 'articles',
+    performance: 'performances',
+    // event: 'event'
 }
 
 const entu_file_url_template = 'https://saal.entu.ee/api2/file-${entu_file_id}'
@@ -45,10 +45,12 @@ const entu_file_url_template = 'https://saal.entu.ee/api2/file-${entu_file_id}'
 
 const main = async () => {
     for (const edef in mediamap) {
-        console.log({'I': 'processing', edef})
+        console.log({'I': 'fetching', edef})
 
         const data = await entulib.getEntities(edef, 16000, 1, APP_ENTU_OPTIONS)
+        console.log({'I': 'mapping', edef})
         const entities = map_pictures(edef, data)
+        console.log({'I': 'remapping', edef})
         remap_pictures(edef, entities)
 
         const entities_out = entities.filter(entity => {
