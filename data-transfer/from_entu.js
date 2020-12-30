@@ -2,6 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const util = require('util')
 const entulib = require('entulib')
+const { spin } = require("../helpers/spinner")
+
 const moment = require('moment-timezone')
 console.log(moment('2020-11-21T19:30').tz('Europe/Tallinn').format());
 console.log(moment('2020-10-21T19:30').tz('Europe/Tallinn').format());
@@ -17,26 +19,32 @@ const APP_ENTU_OPTIONS = {
   key: process.env.SAAL_ENTU_API_KEY
 }
 
-const edefs = ['performance', 'event']
+// const edefs = ['folder', 'person']
+const edefs = ['person', 'coverage', 'performance', 'event', 'folder']
 
-for (const edef of edefs) {
-    console.log({APP_ENTU_OPTIONS})
-    entulib.getEntities(edef, 10000, 1, APP_ENTU_OPTIONS)
-    .then(data => {
-        const rawjsonStr = JSON.stringify(data.entities.map(e=>e.get()), null, 5)
-        const rawdataFilePath =  path.join(dataDirPath, edef + '.raw.json')
-        fs.writeFileSync(rawdataFilePath, rawjsonStr, 'utf8')
+const main = async () => {
+    for (const edef of edefs) {
+        console.log({edef, APP_ENTU_OPTIONS})
+        spin.start()
+        await entulib.getEntities(edef, 10000, 1, APP_ENTU_OPTIONS)
+        .then(async data => {
+            process.stdout.write(' childs\n')
 
-        const entities = data.entities.map(d => parseEntuEntity(d.get()))
+            const entities = data.entities.map(d => parseEntuEntity(d.get()))
+            for (const entity of entities) {
+                await getEntuChilds(entity)
+                process.stdout.write('.')
+            }
 
-        const jsonStr = JSON.stringify(entities, null, 5)
-        const dataFilePath =  path.join(dataDirPath, edef + '.json')
-        fs.writeFileSync(dataFilePath, jsonStr, 'utf8')
-    })
+            const jsonStr = JSON.stringify(entities, null, 5)
+            const dataFilePath =  path.join(dataDirPath, edef + '.json')
+            fs.writeFileSync(dataFilePath, jsonStr, 'utf8')
+            spin.stop()
+        })
+    }
 }
 
 const parseEntuEntity = (entity_in => {
-    console.log({'E': entity_in.id})
     parseEntuProperties(entity_in.properties)
     return {
         id: entity_in.id,
@@ -65,3 +73,17 @@ const parseEntuProperties = (properties => {
         properties[property_name] = { datatype, values }
     }
 })
+
+const getEntuChilds = async (entity) => {
+    const entu_childs = await entulib.getChilds(entity.id, false, APP_ENTU_OPTIONS)
+    entity.childs = entu_childs.entities
+        .map(d => d.get())
+        .map(e => {
+            return {
+                id: e.id,
+                definition_keyname: e.definition_keyname
+            }
+        })
+}
+
+main()
