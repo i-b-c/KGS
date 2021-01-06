@@ -20,7 +20,9 @@ const APP_ENTU_OPTIONS = {
 }
 
 // const edefs = ['folder', 'person']
-const edefs = ['person', 'coverage', 'performance', 'event', 'folder']
+// const edefs = ['person', 'coverage', 'performance', 'event', 'folder']
+const edefs = ['echo']
+
 
 const main = async () => {
     for (const edef of edefs) {
