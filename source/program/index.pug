@@ -14,30 +14,7 @@ block content
                                         a(onclick=`toggleCat(${category.remote_id});`)
                                             .active= category[`name_${self.locale}`]
                                                 span(id=category.remote_id).icon-checkmark
-                                        //- a(href="program/2020/12/623,3810,3811,3812,3814,5027")
-                                        //-     .active
-                                        //-         | Tants
-                                        //-         span.icon-checkmark
-                                        //- a(href="program/2020/12/623,3809,3811,3812,3814,5027")
-                                        //-     .active
-                                        //-         | Performance
-                                        //-         span.icon-checkmark
-                                        //- a(href="program/2020/12/623,3809,3810,3812,3814,5027")
-                                        //-     .active
-                                        //-         | Teater
-                                        //-         span.icon-checkmark
-                                        //- a(href="program/2020/12/623,3809,3810,3811,3814,5027")
-                                        //-     .active
-                                        //-         | Muusika
-                                        //-         span.icon-checkmark
-                                        //- a(href="program/2020/12/623,3809,3810,3811,3812,5027")
-                                        //-     .active
-                                        //-         | Video
-                                        //-         span.icon-checkmark
-                                        //- a(href="program/2020/12/623,3809,3810,3811,3812,3814")
-                                        //-     .active
-                                        //-         | Näitus
-                                        //-         span.icon-checkmark
+
                 .row
                     .col-sm-12.col-md-12.col-lg-12
                         ul.pager
@@ -93,7 +70,7 @@ block content
                                 .col-xs-12.col-md-6.col-lg-6
                                     h3
                                         if event.performance_remote_id
-                                            a(href=`/${lang_path}performance/${event.performance_remote_id}`)
+                                            a(href=`/${event.path}`)
                                                 if event[`performance_X_headline_${self.locale}`]
                                                     span.subtitle= event[`performance_X_headline_${self.locale}`]
 
@@ -112,7 +89,7 @@ block content
                                                     span.subtitle= event[`performance_subtitle_${self.locale}`]
                                         else
                                             //- a(href='/' + lang + '/event/' + op.get(p,'id'))= op.get(p, lang + '-name')
-                                            a(href='/' + lang_path + '/event/' + event.remote_id)= event[`name_${self.locale}`]
+                                            a(href=`/${event.path}`)= event[`name_${self.locale}`]
                                                 if event[`X_headline_${self.locale}`]
                                                     span.subtitle= event[`X_headline_${self.locale}`]
 

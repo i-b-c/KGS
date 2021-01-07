@@ -31,6 +31,8 @@ for (const lang of LANGUAGES) {
     let allData = []
 
     const RELATED = STRAPIDATA_ARTICLES.filter(e => e.publish_date).map(rel => {
+
+        let slug = rel[`slug${lang}`] ? rel[`slug${lang}`] : rel.remote_id
         let articleDate = new Date(rel.publish_date)
         let articlePublish = `${('0' + articleDate.getDate()).slice(-2)}.${('0' + (articleDate.getMonth()+1)).slice(-2)}.${articleDate.getFullYear()}`
         let related_articles = {
@@ -41,7 +43,7 @@ for (const lang of LANGUAGES) {
             authors_cs: rel.authors ? rel.authors.map(a => `${a.first_name}${a.last_name ? ` ${a.last_name}` : ''}`).join(', ') : [],
             publish_date: rel.publish_date,
             publish_date_string: articlePublish,
-            path: lang !== 'et' ? `magazine/${rel.remote_id}` : `${lang}/magazine/${rel.remote_id}`,
+            path: lang !== 'et' ? `magazine/${slug}` : `${lang}/magazine/${slug}`,
         }
         return related_articles
     })
@@ -55,11 +57,13 @@ for (const lang of LANGUAGES) {
         //     continue
         // }
 
+        let slug = article[`slug${lang}`] ? article[`slug${lang}`] : article.remote_id
+
         if (article[`title_${lang}`] && article.remote_id) {
             if (lang !== 'et') {
-                article.path = `magazine/${article.remote_id}`
+                article.path = `magazine/${slug}`
             } else {
-                article.path = `${lang}/magazine/${article.remote_id}`
+                article.path = `${lang}/magazine/${slug}`
             }
 
             if (article.authors && article.authors.length) {

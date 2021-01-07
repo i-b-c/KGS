@@ -101,8 +101,8 @@ block content
 
                                 .col-xs-12.col-md-6.col-lg-6
                                     h3
-                                        if event.performance_remote_id
-                                            a(href=`/${lang_path}performance/${event.performance_remote_id}`)
+                                        if event
+                                            a(href=`/${event.path}`)
                                                 if event[`performance_X_headline_${self.locale}`]
                                                     span.subtitle= event[`performance_X_headline_${self.locale}`]
 
@@ -121,7 +121,7 @@ block content
                                                     span.subtitle= event[`performance_subtitle_${self.locale}`]
                                         else
                                             //- a(href='/' + lang + '/event/' + op.get(p,'id'))= op.get(p, lang + '-name')
-                                            a(href='/' + lang_path + '/event/' + event.remote_id)= event[`name_${self.locale}`]
+                                            a(href=`/${event.path}`)
                                                 if event[`X_headline_${self.locale}`]
                                                     span.subtitle= event[`X_headline_${self.locale}`]
 
@@ -209,7 +209,7 @@ block content
                                 .col-xs-12.col-md-6.col-lg-6
                                     h3
                                         if event.performance_remote_id
-                                            a(href=`/${lang_path}performance/${event.performance_remote_id}`)
+                                            a(href=`/${event.path}`)
                                                 if event[`performance_X_headline_${self.locale}`]
                                                     span.subtitle= event[`performance_X_headline_${self.locale}`]
 
@@ -228,7 +228,7 @@ block content
                                                     span.subtitle= event[`performance_subtitle_${self.locale}`]
                                         else
                                             //- a(href='/' + lang + '/event/' + op.get(p,'id'))= op.get(p, lang + '-name')
-                                            a(href='/' + lang_path + '/event/' + event.remote_id)= event[`name_${self.locale}`]
+                                            a(href=`${event.path}`)= event[`name_${self.locale}`]
                                                 if event[`X_headline_${self.locale}`]
                                                     span.subtitle= event[`X_headline_${self.locale}`]
 
@@ -299,7 +299,7 @@ block content
                                 .col-xs-12.col-md-6.col-lg-6
                                     h3
                                         if event.remote_id
-                                            a(href=`/${lang_path}resident/${event.remote_id}`)
+                                            a(href=`/${event.path}`)
 
                                                 if event.resident
                                                     span.artist= event.resident

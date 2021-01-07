@@ -44,7 +44,7 @@ block content
                                         p.today= self.labels.button.artist_talk
 
                                 .col-xs-12.col-md-6.col-lg-6
-                                    a(href=`/${lang_path}performance/${event.performance_remote_id}`)
+                                    a(href=`/${event.path}`)
                                         h3
                                             if event.performance_remote_id
                                                     if event[`performance_X_headline_${self.locale}`]

@@ -30,12 +30,14 @@ for (const lang of LANGUAGES) {
         //     continue
         // }
 
-        if (performance.remote_id) {
+        let slug = performance[`slug_${lang}`] ? performance[`slug_${lang}`] : performance.remote_id
 
-            performance.path = `performance/${performance.remote_id}`
+        if (slug) {
+
+            performance.path = `performance/${slug}`
 
             if (lang === 'et') {
-                performance.aliases = [`et/performance/${performance.remote_id}`]
+                performance.aliases = [`et/performance/${slug}`]
             }
 
             if (performance[`slug_${lang}`]) {
@@ -83,7 +85,7 @@ for (const lang of LANGUAGES) {
             performance.data = { categories: `/_fetchdir/categories.${lang}.yaml`}
 
             const performanceYAML = yaml.safeDump(performance, {'noRefs': true, 'indent': '4' });
-            const performanceDir = path.join(performancesDir, performance.remote_id)
+            const performanceDir = path.join(performancesDir, slug)
             const performanceYAMLPath = path.join(performanceDir, `data.${lang}.yaml`)
 
             fs.mkdirSync(performanceDir, { recursive: true });
@@ -96,7 +98,7 @@ for (const lang of LANGUAGES) {
                 console.log(`ERROR: Performance index template missing`);
             }
             if (performance[`X_headline_${lang}`]){
-                // console.log(`${performance.id}, ${performance.remote_id}`);
+                // console.log(`${performance.id}, ${slug}`);
             }
 
         }
