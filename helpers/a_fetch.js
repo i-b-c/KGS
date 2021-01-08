@@ -12,6 +12,12 @@ const DOMAIN = process.env['DOMAIN'] || false
 const modelFile = path.join(__dirname, '..', 'docs', 'datamodel.yaml')
 const DATAMODEL = yaml.safeLoad(fs.readFileSync(modelFile, 'utf8'))
 
+// const MODELMAP = process.env['MODEL'] || false
+// const model_yaml = fs.loadFileSync()
+
+// const model_keys = ....  || object.keys(DATAMODEL)
+
+// for (const key of model_keys) {
 for (const key in DATAMODEL) {
     if (DATAMODEL.hasOwnProperty(key)) {
         const element = DATAMODEL[key]
