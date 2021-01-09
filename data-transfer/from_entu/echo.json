@@ -141,7 +141,7 @@
                     "datatype": "reference",
                     "values": [
                          {
-                              "value": "",
+                              "value": "Annika Üprus",
                               "db_value": 612
                          }
                     ]
@@ -13875,8 +13875,8 @@
                     "datatype": "datetime",
                     "values": [
                          {
-                              "value": "2018-02-04T11:48:02+02:00",
-                              "db_value": "2018-02-04T11:48:02+02:00"
+                              "value": "2021-01-06T06:36:33+02:00",
+                              "db_value": "2021-01-06T06:36:33+02:00"
                          }
                     ]
                },
@@ -13990,11 +13990,7 @@
                          },
                          {
                               "value": "olga-magasin-photo 350x350.jpg",
-                              "db_value": 3126
-                         },
-                         {
-                              "value": "olga-magasin-photo 350x350.jpg",
-                              "db_value": 3127
+                              "db_value": 21713
                          }
                     ]
                },
