@@ -19,7 +19,7 @@ const mediamap = {
     echo: [
         { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
         { name: 'photo-big', suffix: ' 1400x', strapi_name: 'hero_image' },
-        { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium '}
+        { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium'}
     ],
     performance: [
         { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
