@@ -1,5 +1,8 @@
 const http = require('https')
+const { exit } = require('process')
 const StrapiHost = 'a.saal.ee'
+
+strapiAuth()
 
 async function strapiAuth() {
 
@@ -19,6 +22,9 @@ async function strapiAuth() {
         }
 
         const request = http.request(options, (response) => {
+            if (response.statusCode === 502){
+                console.log('\n\nSTRAPI IS OFFLINE (502)');
+            }
             response.setEncoding('utf8')
             let tokenStr = ''
             response.on('data', function (chunk) {
