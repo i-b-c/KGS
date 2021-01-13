@@ -1,6 +1,58 @@
 [
      {
           "definition": "echo",
+          "entu_id": 6932,
+          "medias": [
+               {
+                    "original_image": {
+                         "value": "_KF22960_epp_kubu.jpg",
+                         "db_value": 21694
+                    },
+                    "hero_image": {
+                         "value": "_KF22960_epp_kubu 1400x.jpg",
+                         "db_value": 21710
+                    },
+                    "gallery_image_medium": {
+                         "value": "_KF22960_epp_kubu 350x350.jpg",
+                         "db_value": 21705
+                    }
+               },
+               {
+                    "hero_image": {
+                         "value": "_KF22960_epp_kubu_1400x700.jpg",
+                         "db_value": 21693
+                    }
+               }
+          ]
+     },
+     {
+          "definition": "echo",
+          "entu_id": 6931,
+          "medias": [
+               {
+                    "original_image": {
+                         "value": "12_26_MAGASIN_aastal6pulisa3_1200x900.jpg",
+                         "db_value": 21687
+                    },
+                    "hero_image": {
+                         "value": "12_26_MAGASIN_aastal6pulisa3_1200x900 1400x.jpg",
+                         "db_value": 21692
+                    },
+                    "gallery_image_medium": {
+                         "value": "12_26_MAGASIN_aastal6pulisa3_1200x900 350x350.jpg",
+                         "db_value": 21690
+                    }
+               },
+               {
+                    "hero_image": {
+                         "value": "12_26_MAGASIN_aastal6pulisa_1400x700.jpg",
+                         "db_value": 21686
+                    }
+               }
+          ]
+     },
+     {
+          "definition": "echo",
           "entu_id": 6922,
           "medias": [
                {
@@ -16,7 +68,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "reskripti reede foto aksel haagensen.jpg",
                          "db_value": 21680
                     }
@@ -40,7 +92,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Magazini_30-11-20A51J5251_Martin_Buschmann.jpg",
                          "db_value": 21676
                     }
@@ -64,7 +116,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "heneliisi pilt.jpg",
                          "db_value": 21673
                     }
@@ -82,7 +134,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Aksel Haagensen foto.jpg",
                          "db_value": 21661
                     }
@@ -106,7 +158,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "liis_vares_kaja_kann_01.12.20.jpg",
                          "db_value": 21656
                     }
@@ -126,7 +178,7 @@
                          "value": "11_26_MAGASIN_esimenelaine_1350x1350_1 1400x.jpg",
                          "db_value": 21642
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "11_26_MAGASIN_esimenelaine_1350x1350_1 350x350.jpg",
                          "db_value": 21641
                     }
@@ -138,7 +190,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "11_26_MAGASIN_esimenelaine_1350x1350_1.jpg",
                          "db_value": 21643
                     }
@@ -158,7 +210,7 @@
                          "value": "Aksel Haagensen foto 1400x.jpg",
                          "db_value": 21549
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Aksel Haagensen foto 350x350.jpg",
                          "db_value": 21550
                     }
@@ -184,7 +236,7 @@
                          "value": "MAGASIN_elektron_labotkin_1400x700_1 1400x.jpg",
                          "db_value": 21267
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "MAGASIN_elektron_labotkin_1400x700_1 350x350.jpg",
                          "db_value": 21266
                     }
@@ -204,7 +256,7 @@
                          "value": "kollektiivne_kunst_1400x700 1400x.jpg",
                          "db_value": 21250
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kollektiivne_kunst_1400x700 350x350.jpg",
                          "db_value": 21249
                     }
@@ -236,7 +288,7 @@
                          "value": "realness_11 1400x.jpg",
                          "db_value": 16516
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "realness_11 350x350.jpg",
                          "db_value": 16515
                     }
@@ -256,7 +308,7 @@
                          "value": "picc magasin 1400x.jpg",
                          "db_value": 16497
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "picc magasin 350x350.jpg",
                          "db_value": 16496
                     }
@@ -276,7 +328,7 @@
                          "value": "riders on the storm 1400x700 1400x.jpg",
                          "db_value": 13933
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "riders on the storm 1400x700 350x350.jpg",
                          "db_value": 13932
                     }
@@ -296,7 +348,7 @@
                          "value": "anonyymne kysija 01 1400x.jpg",
                          "db_value": 13889
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "anonyymne kysija 01 350x350.jpg",
                          "db_value": 13888
                     }
@@ -310,7 +362,7 @@
                          "value": "anonyymne kysija 02 1400x.jpg",
                          "db_value": 13894
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "anonyymne kysija 02 350x350.jpg",
                          "db_value": 13893
                     }
@@ -324,7 +376,7 @@
                          "value": "anonyymne kysija 03 1400x.jpg",
                          "db_value": 13897
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "anonyymne kysija 03 350x350.jpg",
                          "db_value": 13896
                     }
@@ -344,7 +396,7 @@
                          "value": "kunstnikuego cover 1400x700 1400x.jpg",
                          "db_value": 13852
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kunstnikuego cover 1400x700 350x350.jpg",
                          "db_value": 13855
                     }
@@ -368,7 +420,7 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "maailmkuhugieikao1400x700.png",
                          "db_value": 13847
                     }
@@ -388,7 +440,7 @@
                          "value": "pilt uksi olemisest 1400x700 1400x.jpg",
                          "db_value": 13759
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "pilt uksi olemisest 1400x700 350x350.jpg",
                          "db_value": 13758
                     }
@@ -408,7 +460,7 @@
                          "value": "hellbreaksloose 1400x700 1400x.jpg",
                          "db_value": 13755
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "hellbreaksloose 1400x700 350x350.jpg",
                          "db_value": 13753
                     }
@@ -434,7 +486,7 @@
                          "value": "anneli rebane kunstinaitusele 07.03.20 1400x.jpg",
                          "db_value": 13626
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "anneli rebane kunstinaitusele 07.03.20 350x350.jpg",
                          "db_value": 13625
                     }
@@ -460,7 +512,7 @@
                          "value": "PILT3_sandra_z_tencu_1400x700 1400x.jpg",
                          "db_value": 7949
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "PILT3_sandra_z_tencu_1400x700 350x350.jpg",
                          "db_value": 7948
                     }
@@ -480,7 +532,7 @@
                          "value": "ENNEMINEVIK_PAST PERFECT_1_Photo credtis_Renee Altrov 1400x700 1400x.jpg",
                          "db_value": 7939
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "ENNEMINEVIK_PAST PERFECT_1_Photo credtis_Renee Altrov 1400x700 350x350.jpg",
                          "db_value": 7938
                     }
@@ -506,7 +558,7 @@
                          "value": "tom_brennecke_communicatine_1400x700_05.02.20 1400x.jpg",
                          "db_value": 7908
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "tom_brennecke_communicatine_1400x700_05.02.20 350x350.jpg",
                          "db_value": 7929
                     }
@@ -526,7 +578,7 @@
                          "value": "MIKK MAIT 2020 1400x.jpg",
                          "db_value": 7835
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "MIKK MAIT 2020 350x350.jpg",
                          "db_value": 7834
                     }
@@ -546,7 +598,7 @@
                          "value": "RESKRIPT_Vestlusring-08_Selle_raha_eest-1 1400x.jpg",
                          "db_value": 7777
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "RESKRIPT_Vestlusring-08_Selle_raha_eest-1 350x350.jpg",
                          "db_value": 7778
                     }
@@ -578,7 +630,7 @@
                          "value": "perforkasaalis 1400x.jpg",
                          "db_value": 7748
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "perforkasaalis 350x350.jpg",
                          "db_value": 7747
                     }
@@ -598,7 +650,7 @@
                          "value": "erakiri Henrile ja Maarinile copy 1400x.jpg",
                          "db_value": 7743
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "erakiri Henrile ja Maarinile copy 350x350.jpg",
                          "db_value": 7742
                     }
@@ -618,7 +670,7 @@
                          "value": "blank black 1400x700 1400x.jpg",
                          "db_value": 7675
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "blank black 1400x700 350x350.jpg",
                          "db_value": 7674
                     }
@@ -644,7 +696,7 @@
                          "value": "ikaaria mangud 700x825 1400x.jpg",
                          "db_value": 7647
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "ikaaria mangud 700x825 350x350.jpg",
                          "db_value": 7646
                     }
@@ -664,7 +716,7 @@
                          "value": "visuaalne essee 19.09.19-02 1400x.jpg",
                          "db_value": 7624
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "visuaalne essee 19.09.19-02 350x350.jpg",
                          "db_value": 7623
                     }
@@ -690,7 +742,7 @@
                          "value": "IMG_8041 1400x.jpg",
                          "db_value": 7564
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "IMG_8041 350x350.jpg",
                          "db_value": 7563
                     }
@@ -710,7 +762,7 @@
                          "value": "htf10magasini 1400x.jpg",
                          "db_value": 7545
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "htf10magasini 350x350.jpg",
                          "db_value": 7544
                     }
@@ -730,7 +782,7 @@
                          "value": "okasroosikese artikli visuaal 1400x.jpg",
                          "db_value": 7537
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "okasroosikese artikli visuaal 350x350.jpg",
                          "db_value": 7536
                     }
@@ -750,7 +802,7 @@
                          "value": "biofilm_jana_solom 1400x.jpg",
                          "db_value": 7355
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "biofilm_jana_solom 350x350.jpg",
                          "db_value": 7354
                     }
@@ -794,7 +846,7 @@
                          "value": "insta cover 1400x.jpg",
                          "db_value": 7307
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "insta cover 350x350.jpg",
                          "db_value": 7306
                     }
@@ -814,7 +866,7 @@
                          "value": "medusa.magasini 1400x.jpg",
                          "db_value": 7217
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "medusa.magasini 350x350.jpg",
                          "db_value": 7216
                     }
@@ -834,7 +886,7 @@
                          "value": "Screenshot 2019-04-19 at 11.33.42 1400x.jpg",
                          "db_value": 7181
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Screenshot 2019-04-19 at 11.33.42 350x350.jpg",
                          "db_value": 7180
                     }
@@ -854,7 +906,7 @@
                          "value": "kadi magasini 11 1400x.jpg",
                          "db_value": 7155
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kadi magasini 11 350x350.jpg",
                          "db_value": 7154
                     }
@@ -874,7 +926,7 @@
                          "value": "keithy artikkel magasini vol 2 1400x.jpg",
                          "db_value": 7126
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "keithy artikkel magasini vol 2 350x350.jpg",
                          "db_value": 7125
                     }
@@ -894,7 +946,7 @@
                          "value": "richard-giblett-mycelium-rhizome 1400x.jpg",
                          "db_value": 7106
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "richard-giblett-mycelium-rhizome 350x350.jpg",
                          "db_value": 7105
                     }
@@ -914,7 +966,7 @@
                          "value": "piibel 1400x.jpg",
                          "db_value": 7085
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "piibel 350x350.jpg",
                          "db_value": 7084
                     }
@@ -934,7 +986,7 @@
                          "value": "vov-pildirida-2 1400x.jpg",
                          "db_value": 7074
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "vov-pildirida-2 350x350.jpg",
                          "db_value": 7073
                     }
@@ -954,7 +1006,7 @@
                          "value": "kadi_metsoja_lars_schmidt 1400x.jpg",
                          "db_value": 7057
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kadi_metsoja_lars_schmidt 350x350.jpg",
                          "db_value": 7056
                     }
@@ -974,7 +1026,7 @@
                          "value": "love2 1400x.jpg",
                          "db_value": 7023
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "love2 350x350.jpg",
                          "db_value": 7022
                     }
@@ -994,7 +1046,7 @@
                          "value": "kandiline 1400x.jpg",
                          "db_value": 7019
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kandiline 350x350.jpg",
                          "db_value": 7018
                     }
@@ -1014,7 +1066,7 @@
                          "value": "alissa-grete-magasin_144x700 1400x.jpg",
                          "db_value": 7001
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "alissa-grete-magasin_144x700 350x350.jpg",
                          "db_value": 7000
                     }
@@ -1034,7 +1086,7 @@
                          "value": "Artboard 1-100 1400x.jpg",
                          "db_value": 6993
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Artboard 1-100 350x350.jpg",
                          "db_value": 6992
                     }
@@ -1054,7 +1106,7 @@
                          "value": "LAT.EST_magasini_02 1400x.jpg",
                          "db_value": 6972
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "LAT.EST_magasini_02 350x350.jpg",
                          "db_value": 6971
                     }
@@ -1068,7 +1120,7 @@
                          "value": "LAT.EST_magasini_01 1400x.jpg",
                          "db_value": 6969
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "LAT.EST_magasini_01 350x350.jpg",
                          "db_value": 6968
                     }
@@ -1082,7 +1134,7 @@
                          "value": "LAT.EST_magasini_03 1400x.jpg",
                          "db_value": 6975
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "LAT.EST_magasini_03 350x350.jpg",
                          "db_value": 6974
                     }
@@ -1102,7 +1154,7 @@
                          "value": "The party issue 1400x.jpg",
                          "db_value": 6922
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "The party issue 350x350.jpg",
                          "db_value": 6921
                     }
@@ -1122,7 +1174,7 @@
                          "value": "magasin_angela_maasalu_02 1400x.jpg",
                          "db_value": 6895
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "magasin_angela_maasalu_02 350x350.jpg",
                          "db_value": 6894
                     }
@@ -1136,7 +1188,7 @@
                          "value": "magasin_angela_maasalu_01 1400x.jpg",
                          "db_value": 6892
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "magasin_angela_maasalu_01 350x350.jpg",
                          "db_value": 6891
                     }
@@ -1156,7 +1208,7 @@
                          "value": "Kanuti foto 1400x.jpg",
                          "db_value": 6741
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Kanuti foto 350x350.jpg",
                          "db_value": 6740
                     }
@@ -1182,7 +1234,7 @@
                          "value": "IMG_6190 1400x.jpg",
                          "db_value": 6722
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "IMG_6190 350x350.jpg",
                          "db_value": 6721
                     }
@@ -1208,7 +1260,7 @@
                          "value": "kaisa_kattai_magasin 1400x.jpg",
                          "db_value": 6700
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaisa_kattai_magasin 350x350.jpg",
                          "db_value": 6699
                     }
@@ -1274,7 +1326,7 @@
           "entu_id": 5425,
           "medias": [
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja-viimane-henri-1400x700.jpg",
                          "db_value": 6137
                     }
@@ -1294,7 +1346,7 @@
                          "value": "Plaan_T_Helen_Västrik_1400x700 1400x.jpg",
                          "db_value": 6020
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Plaan_T_Helen_Västrik_1400x700 350x350.jpg",
                          "db_value": 6019
                     }
@@ -1314,7 +1366,7 @@
                          "value": "workshop vomatu missioon pilt kaja kann 1400x.jpg",
                          "db_value": 5938
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "workshop vomatu missioon pilt kaja kann 350x350.jpg",
                          "db_value": 5937
                     }
@@ -1334,7 +1386,7 @@
                          "value": "maraton 1400x.jpg",
                          "db_value": 5934
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "maraton 350x350.jpg",
                          "db_value": 5933
                     }
@@ -1352,7 +1404,7 @@
           "entu_id": 5307,
           "medias": [
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "searching_for_presence_III_still 350x350.jpg",
                          "db_value": 5678
                     }
@@ -1364,7 +1416,7 @@
           "entu_id": 5306,
           "medias": [
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "searching_for_presence_II_still 350x350.jpg",
                          "db_value": 5674
                     }
@@ -1376,7 +1428,7 @@
           "entu_id": 5303,
           "medias": [
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "searching_for_perfect_moment_I_still 350x350.jpg",
                          "db_value": 5665
                     }
@@ -1396,7 +1448,7 @@
                          "value": "part2 1400x.jpg",
                          "db_value": 4932
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "part2 350x350.jpg",
                          "db_value": 4931
                     }
@@ -1416,7 +1468,7 @@
                          "value": "Picture_face_chart 1400x.jpg",
                          "db_value": 4924
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Picture_face_chart 350x350.jpg",
                          "db_value": 4923
                     }
@@ -1436,7 +1488,7 @@
                          "value": "kult_pol_uus_1_lehel02 1400x.jpg",
                          "db_value": 4870
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kult_pol_uus_1_lehel02 350x350.jpg",
                          "db_value": 4869
                     }
@@ -1456,7 +1508,7 @@
                          "value": "Maria Metsalu_Mademoiselle x_foto_Alan Proosa-8 1400x.jpg",
                          "db_value": 4866
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Maria Metsalu_Mademoiselle x_foto_Alan Proosa-8 350x350.jpg",
                          "db_value": 4865
                     }
@@ -1476,7 +1528,7 @@
                          "value": "kontakt kontakt 1400x.jpg",
                          "db_value": 3470
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kontakt kontakt 350x350.jpg",
                          "db_value": 3469
                     }
@@ -1496,7 +1548,7 @@
                          "value": "magasin-m.c.escher 1400x.jpg",
                          "db_value": 3360
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "magasin-m.c.escher 350x350.jpg",
                          "db_value": 3359
                     }
@@ -1522,7 +1574,7 @@
                          "value": "NO00 1400x.jpg",
                          "db_value": 3317
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "NO00 350x350.jpg",
                          "db_value": 3316
                     }
@@ -1542,7 +1594,7 @@
                          "value": "NO00 1400x.jpg",
                          "db_value": 3313
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "NO00 350x350.jpg",
                          "db_value": 3312
                     }
@@ -1562,7 +1614,7 @@
                          "value": "NO00 1400x.jpg",
                          "db_value": 3309
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "NO00 350x350.jpg",
                          "db_value": 3308
                     }
@@ -1582,7 +1634,7 @@
                          "value": "IMG_1801 1400x.jpg",
                          "db_value": 3247
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "IMG_1801 350x350.jpg",
                          "db_value": 3246
                     }
@@ -1602,7 +1654,7 @@
                          "value": "as-sb-magasin-01 1400x.jpg",
                          "db_value": 3240
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "as-sb-magasin-01 350x350.jpg",
                          "db_value": 3242
                     }
@@ -1616,7 +1668,7 @@
                          "value": "as-sb-magasin-02 1400x.jpg",
                          "db_value": 3241
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "as-sb-magasin-02 350x350.jpg",
                          "db_value": 3243
                     }
@@ -1636,9 +1688,9 @@
                          "value": "olga-magasin-photo 1400x.jpg",
                          "db_value": 5071
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "olga-magasin-photo 350x350.jpg",
-                         "db_value": 3126
+                         "db_value": 21713
                     }
                },
                {
@@ -1648,15 +1700,9 @@
                     }
                },
                {
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "olga-magasin-photo.jpg",
                          "db_value": 3101
-                    }
-               },
-               {
-                    "gallery_image_medium ": {
-                         "value": "olga-magasin-photo 350x350.jpg",
-                         "db_value": 3127
                     }
                }
           ]
@@ -1674,7 +1720,7 @@
                          "value": "Kunstniku ootused produtsendile ning produtsendi ootused kunstnikule  1400x.jpg",
                          "db_value": 3093
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Kunstniku ootused produtsendile ning produtsendi ootused kunstnikule  350x350.jpg",
                          "db_value": 3092
                     }
@@ -1694,7 +1740,7 @@
                          "value": "4 1400x.jpg",
                          "db_value": 3029
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "4 350x350.jpg",
                          "db_value": 3027
                     }
@@ -1720,7 +1766,7 @@
                          "value": "SULA_PILDIL JOANNA KALM_EPU FOTO 1400x.jpg",
                          "db_value": 3024
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "SULA_PILDIL JOANNA KALM_EPU FOTO 350x350.jpg",
                          "db_value": 3023
                     }
@@ -1740,7 +1786,7 @@
                          "value": "maarja-saks-magasini 1400x.jpg",
                          "db_value": 3015
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "maarja-saks-magasini 350x350.jpg",
                          "db_value": 3014
                     }
@@ -1766,7 +1812,7 @@
                          "value": "IMG_8458 1400x.jpg",
                          "db_value": 2996
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "IMG_8458 350x350.jpg",
                          "db_value": 2995
                     }
@@ -1786,7 +1832,7 @@
                          "value": "hall vastutus 1400x.jpg",
                          "db_value": 2531
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "hall vastutus 350x350.jpg",
                          "db_value": 2530
                     }
@@ -1806,7 +1852,7 @@
                          "value": "Screen Shot 2017-05-21 at 23.24.46 1400x.jpg",
                          "db_value": 2502
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Screen Shot 2017-05-21 at 23.24.46 350x350.jpg",
                          "db_value": 2501
                     }
@@ -1826,7 +1872,7 @@
                          "value": "untitled-1963 1400x.jpg",
                          "db_value": 2477
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "untitled-1963 350x350.jpg",
                          "db_value": 2476
                     }
@@ -1846,7 +1892,7 @@
                          "value": "kaja_zoja_preemia 1400x.jpg",
                          "db_value": 2325
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_zoja_preemia 350x350.jpg",
                          "db_value": 2324
                     }
@@ -1866,7 +1912,7 @@
                          "value": "Iggy (11) 1400x.jpg",
                          "db_value": 2299
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Iggy (11) 350x350.jpg",
                          "db_value": 2298
                     }
@@ -1886,7 +1932,7 @@
                          "value": "kes_pariselt_voitis_28.03.17 1400x.jpg",
                          "db_value": 2213
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kes_pariselt_voitis_28.03.17 350x350.jpg",
                          "db_value": 2212
                     }
@@ -1906,7 +1952,7 @@
                          "value": "kaja_kann_autistsi_paevaraamat_nr_3 1400x.jpg",
                          "db_value": 2166
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kann_autistsi_paevaraamat_nr_3 350x350.jpg",
                          "db_value": 2165
                     }
@@ -1926,7 +1972,7 @@
                          "value": "kaja_kann_tousud_ja_moonad_henri_hutt 1400x.jpg",
                          "db_value": 2151
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kann_tousud_ja_moonad_henri_hutt 350x350.jpg",
                          "db_value": 2150
                     }
@@ -1952,7 +1998,7 @@
                          "value": "Kapriisid 1400x.jpg",
                          "db_value": 2141
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Kapriisid 350x350.jpg",
                          "db_value": 2140
                     }
@@ -1972,7 +2018,7 @@
                          "value": "Legless horse 1400x.jpg",
                          "db_value": 2087
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Legless horse 350x350.jpg",
                          "db_value": 2086
                     }
@@ -1992,7 +2038,7 @@
                          "value": "kaja_kann_tuulepark_ja_prugi 1400x.jpg",
                          "db_value": 1875
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kann_tuulepark_ja_prugi 350x350.jpg",
                          "db_value": 1874
                     }
@@ -2012,7 +2058,7 @@
                          "value": "kaja_kann_kas_naitleja_peaks_raakima 1400x.jpg",
                          "db_value": 1847
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kann_kas_naitleja_peaks_raakima 350x350.jpg",
                          "db_value": 1846
                     }
@@ -2032,7 +2078,7 @@
                          "value": "karljaeikmaikelt 1400x.jpg",
                          "db_value": 1843
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "karljaeikmaikelt 350x350.jpg",
                          "db_value": 1842
                     }
@@ -2052,7 +2098,7 @@
                          "value": "Kas nii Hendrik? 1400x.jpg",
                          "db_value": 1798
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Kas nii Hendrik? 350x350.jpg",
                          "db_value": 1797
                     }
@@ -2072,7 +2118,7 @@
                          "value": "tehno_tantsu_abc-01 1400x.jpg",
                          "db_value": 1741
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "tehno_tantsu_abc-01 350x350.jpg",
                          "db_value": 1738
                     }
@@ -2086,7 +2132,7 @@
                          "value": "tehno_tantsu_abc-02 1400x.jpg",
                          "db_value": 1739
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "tehno_tantsu_abc-02 350x350.jpg",
                          "db_value": 1737
                     }
@@ -2100,7 +2146,7 @@
                          "value": "tehno_tantsu_abc-03 1400x.jpg",
                          "db_value": 1742
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "tehno_tantsu_abc-03 350x350.jpg",
                          "db_value": 1740
                     }
@@ -2120,7 +2166,7 @@
                          "value": "thinking_about_you_channel_orange 1400x.jpg",
                          "db_value": 1719
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "thinking_about_you_channel_orange 350x350.jpg",
                          "db_value": 1718
                     }
@@ -2140,7 +2186,7 @@
                          "value": "magasin-kellavargiga-persik 1400x.jpg",
                          "db_value": 1673
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "magasin-kellavargiga-persik 350x350.jpg",
                          "db_value": 1672
                     }
@@ -2160,7 +2206,7 @@
                          "value": "Lockheed_XFV-1_on_the_ground_c1954 1400x.jpg",
                          "db_value": 1632
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Lockheed_XFV-1_on_the_ground_c1954 350x350.jpg",
                          "db_value": 1631
                     }
@@ -2180,7 +2226,7 @@
                          "value": "kaja_kysimused 1400x.jpg",
                          "db_value": 1524
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kysimused 350x350.jpg",
                          "db_value": 1523
                     }
@@ -2200,7 +2246,7 @@
                          "value": "seitse_aastat_kasvulava_arendamist 1400x.jpg",
                          "db_value": 1519
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "seitse_aastat_kasvulava_arendamist 350x350.jpg",
                          "db_value": 1518
                     }
@@ -2220,7 +2266,7 @@
                          "value": "priit on koik oma unistused taitnud 1400x.jpg",
                          "db_value": 1510
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "priit on koik oma unistused taitnud 350x350.jpg",
                          "db_value": 1509
                     }
@@ -2240,7 +2286,7 @@
                          "value": "postfestivaldepression-alissa_shnaider-01 1400x.jpg",
                          "db_value": 1503
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "postfestivaldepression-alissa_shnaider-01 350x350.jpg",
                          "db_value": 1502
                     }
@@ -2254,7 +2300,7 @@
                          "value": "postfestivaldepression-alissa_shnaider-02 1400x.jpg",
                          "db_value": 1506
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "postfestivaldepression-alissa_shnaider-02 350x350.jpg",
                          "db_value": 1505
                     }
@@ -2274,7 +2320,7 @@
                          "value": "lugejakiri 1400x.jpg",
                          "db_value": 1490
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "lugejakiri 350x350.jpg",
                          "db_value": 1489
                     }
@@ -2294,7 +2340,7 @@
                          "value": "magasin-intervjuu-foto 1400x.jpg",
                          "db_value": 1494
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "magasin-intervjuu-foto 350x350.jpg",
                          "db_value": 1493
                     }
@@ -2314,7 +2360,7 @@
                          "value": "olmeulmadest-01 1400x.jpg",
                          "db_value": 1478
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "olmeulmadest-01 350x350.jpg",
                          "db_value": 1477
                     }
@@ -2328,7 +2374,7 @@
                          "value": "olmeulmadest-02 1400x.jpg",
                          "db_value": 1482
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "olmeulmadest-02 350x350.jpg",
                          "db_value": 1481
                     }
@@ -2348,7 +2394,7 @@
                          "value": "midafakkimeteeme-02 1400x.jpg",
                          "db_value": 1470
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "midafakkimeteeme-02 350x350.jpg",
                          "db_value": 1469
                     }
@@ -2362,7 +2408,7 @@
                          "value": "midafakkimeteeme-01 1400x.jpg",
                          "db_value": 1474
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "midafakkimeteeme-01 350x350.jpg",
                          "db_value": 1473
                     }
@@ -2382,7 +2428,7 @@
                          "value": "dramaturg_dramaturgia_dramaturgiline_kaja_kann 1400x.jpg",
                          "db_value": 1466
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "dramaturg_dramaturgia_dramaturgiline_kaja_kann 350x350.jpg",
                          "db_value": 1465
                     }
@@ -2402,7 +2448,7 @@
                          "value": "kaja_kann_hirm_teema_ammendamise_ees_01 1400x.jpg",
                          "db_value": 1454
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kann_hirm_teema_ammendamise_ees_01 350x350.jpg",
                          "db_value": 1453
                     }
@@ -2416,7 +2462,7 @@
                          "value": "kaja_kann_hirm_teema_ammendamise_ees_02 1400x.jpg",
                          "db_value": 1458
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja_kann_hirm_teema_ammendamise_ees_02 350x350.jpg",
                          "db_value": 1457
                     }
@@ -2436,7 +2482,7 @@
                          "value": "demotivation netti  1400x.jpg",
                          "db_value": 1450
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "demotivation netti  350x350.jpg",
                          "db_value": 1449
                     }
@@ -2456,7 +2502,7 @@
                          "value": "platvorm_noor_kunst_tarkab 1400x.jpg",
                          "db_value": 1446
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "platvorm_noor_kunst_tarkab 350x350.jpg",
                          "db_value": 1445
                     }
@@ -2476,7 +2522,7 @@
                          "value": "maike_meets_riina_meets_skaala_surm-03 1400x.jpg",
                          "db_value": 1435
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "maike_meets_riina_meets_skaala_surm-03 350x350.jpg",
                          "db_value": 1434
                     }
@@ -2490,7 +2536,7 @@
                          "value": "maike_meets_riina_meets_skaala_surm-02 1400x.jpg",
                          "db_value": 1442
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "maike_meets_riina_meets_skaala_surm-02 350x350.jpg",
                          "db_value": 1441
                     }
@@ -2504,7 +2550,7 @@
                          "value": "maike_meets_riina_meets_skaala_surm-01 1400x.jpg",
                          "db_value": 1439
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "maike_meets_riina_meets_skaala_surm-01 350x350.jpg",
                          "db_value": 1438
                     }
@@ -2524,7 +2570,7 @@
                          "value": "skaala_surm_standard 1400x.jpg",
                          "db_value": 1411
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "skaala_surm_standard 350x350.jpg",
                          "db_value": 1410
                     }
@@ -2544,7 +2590,7 @@
                          "value": "paadiis 1400x.jpg",
                          "db_value": 1335
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "paadiis 350x350.jpg",
                          "db_value": 1334
                     }
@@ -2564,7 +2610,7 @@
                          "value": "aga_kui_laseks_sulanduda-Pantelis_Sakkadakis 1400x.jpg",
                          "db_value": 1326
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "aga_kui_laseks_sulanduda-Pantelis_Sakkadakis 350x350.jpg",
                          "db_value": 1325
                     }
@@ -2584,7 +2630,7 @@
                          "value": "veelkord_preemiatest_kaja_kann 1400x.jpg",
                          "db_value": 1300
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "veelkord_preemiatest_kaja_kann 350x350.jpg",
                          "db_value": 1299
                     }
@@ -2604,7 +2650,7 @@
                          "value": "ilukirjanduslik_portree_inimesest_foto 1400x.jpg",
                          "db_value": 1284
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "ilukirjanduslik_portree_inimesest_foto 350x350.jpg",
                          "db_value": 1283
                     }
@@ -2624,7 +2670,7 @@
                          "value": "aken aknas 1400x.jpg",
                          "db_value": 1271
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "aken aknas 350x350.jpg",
                          "db_value": 1270
                     }
@@ -2638,7 +2684,7 @@
                          "value": "full spectre 1400x.jpg",
                          "db_value": 1274
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "full spectre 350x350.jpg",
                          "db_value": 1273
                     }
@@ -2658,7 +2704,7 @@
                          "value": "Screen Shot 2016-03-22 at 15.17.30 1400x.jpg",
                          "db_value": 1256
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Screen Shot 2016-03-22 at 15.17.30 350x350.jpg",
                          "db_value": 1258
                     }
@@ -2678,7 +2724,7 @@
                          "value": "solvumisteni-epp_kubu 1400x.jpg",
                          "db_value": 1381
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "solvumisteni-epp_kubu 350x350.jpg",
                          "db_value": 1243
                     }
@@ -2692,7 +2738,7 @@
                          "value": "solvumisteni-kaja_kann 1400x.jpg",
                          "db_value": 1383
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "solvumisteni-kaja_kann 350x350.jpg",
                          "db_value": 1246
                     }
@@ -2724,7 +2770,7 @@
                          "value": "Teartriauhinnad_2016_Maike_Lond_Malmborg_16.03.2016-b 1400x.jpg",
                          "db_value": 1280
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "Teartriauhinnad_2016_Maike_Lond_Malmborg_16.03.2016-b 350x350.jpg",
                          "db_value": 1279
                     }
@@ -2744,7 +2790,7 @@
                          "value": "etenduskunsti_tukk-festivalitukk 1400x.jpg",
                          "db_value": 1379
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "etenduskunsti_tukk-festivalitukk 350x350.jpg",
                          "db_value": 1202
                     }
@@ -2770,7 +2816,7 @@
                          "value": "festival ja festivalitus 1400x.jpg",
                          "db_value": 1377
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "festival ja festivalitus 350x350.jpg",
                          "db_value": 1142
                     }
@@ -2796,7 +2842,7 @@
                          "value": "_MG_3485 1400x.jpg",
                          "db_value": 1372
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "_MG_3485 350x350.jpg",
                          "db_value": 1145
                     }
@@ -2822,7 +2868,7 @@
                          "value": "chain_of_bad_decisions-01 1400x.jpg",
                          "db_value": 1576
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "chain_of_bad_decisions-01 350x350.jpg",
                          "db_value": 1575
                     }
@@ -2836,7 +2882,7 @@
                          "value": "chain_of_bad_decisions-04 1400x.jpg",
                          "db_value": 1582
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "chain_of_bad_decisions-04 350x350.jpg",
                          "db_value": 1581
                     }
@@ -2850,7 +2896,7 @@
                          "value": "chain_of_bad_decisions-06 1400x.jpg",
                          "db_value": 1586
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "chain_of_bad_decisions-06 350x350.jpg",
                          "db_value": 1585
                     }
@@ -2864,7 +2910,7 @@
                          "value": "chain_of_bad_decisions-02 1400x.jpg",
                          "db_value": 1578
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "chain_of_bad_decisions-02 350x350.jpg",
                          "db_value": 1577
                     }
@@ -2878,7 +2924,7 @@
                          "value": "chain_of_bad_decisions-05 1400x.jpg",
                          "db_value": 1584
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "chain_of_bad_decisions-05 350x350.jpg",
                          "db_value": 1583
                     }
@@ -2892,7 +2938,7 @@
                          "value": "chain_of_bad_decisions-03 1400x.jpg",
                          "db_value": 1580
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "chain_of_bad_decisions-03 350x350.jpg",
                          "db_value": 1579
                     }
@@ -2906,7 +2952,7 @@
                          "value": "alissa teksti sees pilt 1400x.jpg",
                          "db_value": 2170
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "alissa teksti sees pilt 350x350.jpg",
                          "db_value": 2169
                     }
@@ -2926,7 +2972,7 @@
                          "value": "kaja ja hendrik_2 1400x.jpg",
                          "db_value": 1358
                     },
-                    "gallery_image_medium ": {
+                    "gallery_image_medium": {
                          "value": "kaja ja hendrik_2 350x350.jpg",
                          "db_value": 1151
                     }
