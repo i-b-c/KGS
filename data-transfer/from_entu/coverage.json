@@ -23752,5 +23752,93 @@
                }
           },
           "childs": []
+     },
+     {
+          "id": 6940,
+          "displaypicture": "https://secure.gravatar.com/avatar/f75b757d3459c3e93e98ddab7b903938?d=identicon&s=150",
+          "displayname": "2021-01-07 \"Pühanalja poole\" Eika Herman ja Karl Saks, kirja pannud Kaja Kann",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-07T13:42:38+02:00",
+                              "db_value": "2021-01-07T13:42:38+02:00"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-07T13:41:25+02:00",
+                              "db_value": "2021-01-07T13:41:25+02:00"
+                         }
+                    ]
+               },
+               "title": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "\"Pühanalja poole\" Eika Herman ja Karl Saks, kirja pannud Kaja Kann",
+                              "db_value": "\"Pühanalja poole\" Eika Herman ja Karl Saks, kirja pannud Kaja Kann"
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "http://www.temuki.ee/archives/2413?fbclid=IwAR0bvkCRpLE-9t4rGquGnyJXiAJvJu86ufSmjGcgiYcgWmY-qy45ETuR8rs",
+                              "db_value": "http://www.temuki.ee/archives/2413?fbclid=IwAR0bvkCRpLE-9t4rGquGnyJXiAJvJu86ufSmjGcgiYcgWmY-qy45ETuR8rs"
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Kaie Küünal",
+                              "db_value": 5713
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Kaie Küünal",
+                              "db_value": 5713
+                         }
+                    ]
+               },
+               "source": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Teater.Muusika.Kino",
+                              "db_value": "Teater.Muusika.Kino"
+                         }
+                    ]
+               },
+               "text": {
+                    "datatype": "text",
+                    "values": []
+               },
+               "date": {
+                    "datatype": "date",
+                    "values": [
+                         {
+                              "value": "2021-01-07",
+                              "db_value": "2021-01-07 00:00:00"
+                         }
+                    ]
+               }
+          },
+          "childs": []
      }
 ]

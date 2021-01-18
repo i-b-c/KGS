@@ -21,7 +21,8 @@ const APP_ENTU_OPTIONS = {
 
 // const edefs = ['folder', 'person']
 // const edefs = ['person', 'coverage', 'performance', 'event', 'folder']
-const edefs = ['echo']
+// const edefs = ['banner-type', 'banner', 'category', 'coverage', 'echo', 'event', 'news', 'performance', 'person']
+const edefs = ['performance']
 
 
 const main = async () => {
