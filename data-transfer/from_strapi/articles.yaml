@@ -3090,6 +3090,62 @@
     categories: []
     users: []
 -
+    id: 139
+    title_et: 'RESKRIPTI REEDE: TASASELT KÕRGE'
+    title_en: 'RESKRIPTI REEDE: TASASELT KÕRGE (CURRENTLY AVAILABLE ONLY IN ESTONIAN)'
+    slug_et: null
+    slug_en: null
+    subtitle_et: null
+    subtitle_en: null
+    publish_date: '2021-01-08T00:00:00.000Z'
+    first_page_promotion: null
+    hide_gallery: true
+    photo_article: false
+    audio: null
+    video: null
+    content_et: '![reskript_vol_4_tasaselt_korge](https://saal.entu.ee/api2/file-21719)'
+    content_en: |-
+        NB! CURRENTLY AVAILABLE ONLY IN ESTONIAN!
+
+        ![reskript_vol_4_tasaselt_korge](https://saal.entu.ee/api2/file-21719)
+    published_at: '2021-01-08T12:55:21.000Z'
+    created_at: '2021-01-19T10:54:14.720Z'
+    updated_at: '2021-01-19T10:54:14.720Z'
+    front_page_promotion: false
+    remote_id: '6941'
+    X_premiere_time: null
+    X_location_et: null
+    X_location_en: null
+    X_pictures:
+        id: 6007
+        photoGallery: null
+        photo: ''
+        photoOriginal: '21720'
+        photoMedium: '21722'
+        photoBig: '21721'
+    article_media: []
+    audios: []
+    videos: []
+    authors:
+        -
+            id: 287
+            first_name: RESKRIPT
+            last_name: null
+            e_mail: null
+            phone_number: null
+            profession: null
+            order: null
+            published_at: '2020-12-04T13:12:40.844Z'
+            created_at: '2020-12-04T13:12:40.851Z'
+            updated_at: '2020-12-04T13:12:40.851Z'
+            email: null
+            occupation: null
+            remote_id: '6227'
+            user: null
+            picture: null
+    categories: []
+    users: []
+-
     id: 7
     title_et: 'The realness of the Internet, Post-Internet practices and sexuality'
     title_en: 'The realness of the Internet, Post-Internet practices and sexuality'

@@ -1,6 +1,28 @@
 [
      {
           "definition": "performance",
+          "entu_id": 6945,
+          "medias": [
+               {
+                    "original_image": {
+                         "value": "Alex Schweder_Peescapes_2.png",
+                         "db_value": 21725
+                    },
+                    "hero_image": {
+                         "value": "Alex Schweder_Peescapes_2.png",
+                         "db_value": 21726
+                    }
+               },
+               {
+                    "gallery_image_medium": {
+                         "value": "Alex Schweder_Peescapes_2.png",
+                         "db_value": 21727
+                    }
+               }
+          ]
+     },
+     {
+          "definition": "performance",
           "entu_id": 6924,
           "medias": [
                {
@@ -11,6 +33,10 @@
                     "hero_image": {
                          "value": "354FE97D-CDF5-4517-B92B-069D38CB3E57.jpg",
                          "db_value": 21682
+                    },
+                    "gallery_image_medium": {
+                         "value": "354FE97D-CDF5-4517-B92B-069D38CB3E57 350x350.jpg",
+                         "db_value": 21712
                     }
                },
                {
@@ -39,6 +65,22 @@
                     "gallery_image_medium": {
                          "value": "YourSpaceBanner.jpg",
                          "db_value": 21684
+                    }
+               }
+          ]
+     },
+     {
+          "definition": "performance",
+          "entu_id": 6907,
+          "medias": [
+               {
+                    "original_image": {
+                         "value": "Laur_Kaunissaare.jpg",
+                         "db_value": 21717
+                    },
+                    "hero_image": {
+                         "value": "Laur_Kaunissaare.jpg",
+                         "db_value": 21718
                     }
                }
           ]
@@ -3323,12 +3365,6 @@
                },
                {
                     "gallery_image_large": {
-                         "value": "FOTOD.jpg",
-                         "db_value": 7330
-                    }
-               },
-               {
-                    "gallery_image_large": {
                          "value": "Kädi beginning of floor transition better.jpg",
                          "db_value": 7346
                     }
@@ -3337,12 +3373,6 @@
                     "hero_image": {
                          "value": "kodulehele.jpeg",
                          "db_value": 7091
-                    }
-               },
-               {
-                    "gallery_image_medium": {
-                         "value": "FOTOD 350x350.jpg",
-                         "db_value": 7329
                     }
                },
                {
@@ -6769,12 +6799,6 @@
                },
                {
                     "gallery_image_large": {
-                         "value": "FOTOD.jpg",
-                         "db_value": 7330
-                    }
-               },
-               {
-                    "gallery_image_large": {
                          "value": "Kädi beginning of floor transition better.jpg",
                          "db_value": 7346
                     }
@@ -6783,12 +6807,6 @@
                     "hero_image": {
                          "value": "kodulehele.jpeg",
                          "db_value": 7091
-                    }
-               },
-               {
-                    "gallery_image_medium": {
-                         "value": "FOTOD 350x350.jpg",
-                         "db_value": 7329
                     }
                },
                {
@@ -8399,12 +8417,6 @@
                     "gallery_image_medium": {
                          "value": "Jeden gest_Kobas Laksa_40 350x350.jpg",
                          "db_value": 6371
-                    }
-               },
-               {
-                    "gallery_image_large": {
-                         "value": "Jeden gest_Kobas Laksa_21.jpg",
-                         "db_value": 6379
                     }
                },
                {
