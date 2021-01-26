@@ -871,7 +871,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-01-24T13:48:41+02:00",
+                              "db_value": "2016-01-24T13:48:41+02:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -888,7 +893,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
@@ -900,7 +910,12 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
@@ -917,7 +932,12 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-01-24T13:48:32+02:00",
+                              "db_value": "2016-01-24T13:48:32+02:00"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
@@ -1301,7 +1321,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2014-06-08T06:11:16+03:00",
+                              "db_value": "2014-06-08T06:11:16+03:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -1318,7 +1343,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Argo Roots",
+                              "db_value": 3
+                         }
+                    ]
                },
                "photo": {
                     "datatype": "file",
@@ -1348,7 +1378,12 @@
                },
                "entu-user": {
                     "datatype": "string",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "argoroots@gmail.com",
+                              "db_value": "argoroots@gmail.com"
+                         }
+                    ]
                },
                "forename": {
                     "datatype": "string",
@@ -1741,7 +1776,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-03-19T08:44:49+02:00",
+                              "db_value": "2016-03-19T08:44:49+02:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -1758,7 +1798,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
@@ -1770,7 +1815,12 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
@@ -1787,7 +1837,12 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-03-19T08:44:45+02:00",
+                              "db_value": "2016-03-19T08:44:45+02:00"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
@@ -2785,6 +2840,96 @@
           "childs": []
      },
      {
+          "id": 6930,
+          "displaypicture": "https://secure.gravatar.com/avatar/2f254e66097fd653a5ca4cfdb33be358?d=wavatar&s=150",
+          "displayname": "Kadi Estland",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2020-12-30T11:01:14+02:00",
+                              "db_value": "2020-12-30T11:01:14+02:00"
+                         }
+                    ]
+               },
+               "ordinal": {
+                    "datatype": "integer",
+                    "values": []
+               },
+               "surname": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Estland",
+                              "db_value": "Estland"
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "entu-api-key": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "phone": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "entu-user": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "forename": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kadi",
+                              "db_value": "Kadi"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2020-12-30T11:01:07+02:00",
+                              "db_value": "2020-12-30T11:01:07+02:00"
+                         }
+                    ]
+               },
+               "email": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "occupation": {
+                    "datatype": "string",
+                    "values": []
+               }
+          },
+          "childs": []
+     },
+     {
           "id": 5713,
           "displaypicture": "https://secure.gravatar.com/avatar/5e7d00134ba3a8b3e37edf5038bc51fc?d=wavatar&s=150",
           "displayname": "Kaie Küünal",
@@ -3091,7 +3236,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-03-01T14:41:59+02:00",
+                              "db_value": "2016-03-01T14:41:59+02:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -3108,7 +3258,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
@@ -3120,7 +3275,12 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
@@ -3137,7 +3297,12 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-01-24T10:33:57+02:00",
+                              "db_value": "2016-01-24T10:33:57+02:00"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
@@ -3606,7 +3771,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2015-08-10T09:28:23+03:00",
+                              "db_value": "2015-08-10T09:28:23+03:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -3614,15 +3784,30 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2015-08-08T18:55:45+03:00",
+                              "db_value": "2015-08-08T18:55:45+03:00"
+                         }
+                    ]
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "************",
+                              "db_value": "************"
+                         }
+                    ]
                },
                "phone": {
                     "datatype": "string",
@@ -3630,11 +3815,21 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "koduleht",
+                              "db_value": "koduleht"
+                         }
+                    ]
                },
                "forename": {
                     "datatype": "string",
@@ -4311,7 +4506,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-03-01T14:41:39+02:00",
+                              "db_value": "2016-03-01T14:41:39+02:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -4328,7 +4528,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
@@ -4340,7 +4545,12 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
@@ -4357,7 +4567,12 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-01-24T13:45:37+02:00",
+                              "db_value": "2016-01-24T13:45:37+02:00"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
@@ -4936,7 +5151,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-02-01T12:06:05+02:00",
+                              "db_value": "2016-02-01T12:06:05+02:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -4953,7 +5173,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
@@ -4965,7 +5190,12 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
@@ -4982,7 +5212,12 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-02-01T12:06:03+02:00",
+                              "db_value": "2016-02-01T12:06:03+02:00"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
@@ -5096,7 +5331,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2020-09-12T10:03:23+03:00",
+                              "db_value": "2020-09-12T10:03:23+03:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -5113,7 +5353,12 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "photo": {
                     "datatype": "file",
@@ -5126,7 +5371,12 @@
                },
                "entu-api-key": {
                     "datatype": "string",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "************",
+                              "db_value": "************"
+                         }
+                    ]
                },
                "phone": {
                     "datatype": "string",
@@ -5143,7 +5393,16 @@
                },
                "entu-user": {
                     "datatype": "string",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "mihkel.putrinsh@gmail.com",
+                              "db_value": "mihkel.putrinsh@gmail.com"
+                         },
+                         {
+                              "value": "mihkel@ww.ee",
+                              "db_value": "mihkel@ww.ee"
+                         }
+                    ]
                },
                "forename": {
                     "datatype": "string",
@@ -5636,7 +5895,12 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-01-26T11:29:11+02:00",
+                              "db_value": "2016-01-26T11:29:11+02:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
@@ -5653,11 +5917,21 @@
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-api-key": {
                     "datatype": "string",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "************",
+                              "db_value": "************"
+                         }
+                    ]
                },
                "phone": {
                     "datatype": "string",
@@ -5665,7 +5939,12 @@
                },
                "entu-created-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "entu-user": {
                     "datatype": "string",
@@ -5682,7 +5961,12 @@
                },
                "entu-created-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2016-01-16T18:25:35+02:00",
+                              "db_value": "2016-01-16T18:25:35+02:00"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
@@ -5881,24 +6165,34 @@
           "properties": {
                "entu-changed-at": {
                     "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "2015-09-16T18:29:46+03:00",
+                              "db_value": "2015-09-16T18:29:46+03:00"
+                         }
+                    ]
                },
                "ordinal": {
                     "datatype": "integer",
                     "values": []
                },
-               "surname": {
-                    "datatype": "string",
+               "entu-created-at": {
+                    "datatype": "datetime",
                     "values": [
                          {
-                              "value": "Ait",
-                              "db_value": "Ait"
+                              "value": "2015-04-15T07:51:07+03:00",
+                              "db_value": "2015-04-15T07:51:07+03:00"
                          }
                     ]
                },
                "entu-changed-by": {
                     "datatype": "reference",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
                },
                "photo": {
                     "datatype": "file",
@@ -5906,6 +6200,32 @@
                          {
                               "value": "306472_2547518244999_777203921_n.jpg",
                               "db_value": 166
+                         }
+                    ]
+               },
+               "entu-api-key": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "phone": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Mihkel-Mikelis Putrinš",
+                              "db_value": 4
+                         }
+                    ]
+               },
+               "entu-user": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "rannoait@gmail.com",
+                              "db_value": "rannoait@gmail.com"
                          }
                     ]
                },
@@ -5918,25 +6238,14 @@
                          }
                     ]
                },
-               "phone": {
+               "surname": {
                     "datatype": "string",
-                    "values": []
-               },
-               "entu-created-by": {
-                    "datatype": "reference",
-                    "values": []
-               },
-               "entu-user": {
-                    "datatype": "string",
-                    "values": []
-               },
-               "entu-api-key": {
-                    "datatype": "string",
-                    "values": []
-               },
-               "entu-created-at": {
-                    "datatype": "datetime",
-                    "values": []
+                    "values": [
+                         {
+                              "value": "Ait",
+                              "db_value": "Ait"
+                         }
+                    ]
                },
                "email": {
                     "datatype": "string",
