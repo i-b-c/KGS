@@ -1,6 +1,22 @@
 [
      {
           "definition": "performance",
+          "entu_id": 6956,
+          "medias": [
+               {
+                    "original_image": {
+                         "value": "Weekend Guitar Trio. photo by Toomas Kalve.jpg",
+                         "db_value": 21728
+                    },
+                    "hero_image": {
+                         "value": "Weekend Guitar Trio. photo by Toomas Kalve.jpg",
+                         "db_value": 21729
+                    }
+               }
+          ]
+     },
+     {
+          "definition": "performance",
           "entu_id": 6945,
           "medias": [
                {
