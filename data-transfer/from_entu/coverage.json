@@ -22262,8 +22262,8 @@
                     "datatype": "datetime",
                     "values": [
                          {
-                              "value": "2020-10-19T17:13:20+03:00",
-                              "db_value": "2020-10-19T17:13:20+03:00"
+                              "value": "2021-01-18T09:50:20+02:00",
+                              "db_value": "2021-01-18T09:50:20+02:00"
                          }
                     ]
                },
@@ -22298,12 +22298,12 @@
                     "datatype": "file",
                     "values": []
                },
-               "source": {
+               "url": {
                     "datatype": "string",
                     "values": [
                          {
-                              "value": "Eesti Päevalehr",
-                              "db_value": "Eesti Päevalehr"
+                              "value": "https://epl.delfi.ee/kultuur/kultuuribiit-etenduskunstnike-uuve-lydia-toompere-ja-siim-toniste-playlist?id=90868773",
+                              "db_value": "https://epl.delfi.ee/kultuur/kultuuribiit-etenduskunstnike-uuve-lydia-toompere-ja-siim-toniste-playlist?id=90868773"
                          }
                     ]
                },
@@ -22316,12 +22316,12 @@
                          }
                     ]
                },
-               "url": {
+               "source": {
                     "datatype": "string",
                     "values": [
                          {
-                              "value": "https://epl.delfi.ee/kultuur/kultuuribiit-etenduskunstnike-uuve-lydia-toompere-ja-siim-toniste-playlist?id=90868773",
-                              "db_value": "https://epl.delfi.ee/kultuur/kultuuribiit-etenduskunstnike-uuve-lydia-toompere-ja-siim-toniste-playlist?id=90868773"
+                              "value": "Eesti Päevaleht",
+                              "db_value": "Eesti Päevaleht"
                          }
                     ]
                },
@@ -23747,6 +23747,94 @@
                          {
                               "value": "2020-10-29",
                               "db_value": "2020-10-29 00:00:00"
+                         }
+                    ]
+               }
+          },
+          "childs": []
+     },
+     {
+          "id": 6951,
+          "displaypicture": "https://secure.gravatar.com/avatar/f5cfbc876972bd0d031c8abc37344c28?d=identicon&s=150",
+          "displayname": "2020-12-28 \"Loperguse teatriaasta sosinad ja karjed\" Valle-Sten Maiste",
+          "properties": {
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-18T09:51:25+02:00",
+                              "db_value": "2021-01-18T09:51:25+02:00"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-18T09:50:51+02:00",
+                              "db_value": "2021-01-18T09:50:51+02:00"
+                         }
+                    ]
+               },
+               "title": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "\"Loperguse teatriaasta sosinad ja karjed\" Valle-Sten Maiste",
+                              "db_value": "\"Loperguse teatriaasta sosinad ja karjed\" Valle-Sten Maiste"
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Kaie Küünal",
+                              "db_value": 5713
+                         }
+                    ]
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "source": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Sirp",
+                              "db_value": "Sirp"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Kaie Küünal",
+                              "db_value": 5713
+                         }
+                    ]
+               },
+               "url": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "https://www.sirp.ee/s1-artiklid/teater/loperguse-teatriaasta-sosinad-ja-karjed/",
+                              "db_value": "https://www.sirp.ee/s1-artiklid/teater/loperguse-teatriaasta-sosinad-ja-karjed/"
+                         }
+                    ]
+               },
+               "text": {
+                    "datatype": "text",
+                    "values": []
+               },
+               "date": {
+                    "datatype": "date",
+                    "values": [
+                         {
+                              "value": "2020-12-28",
+                              "db_value": "2020-12-28 00:00:00"
                          }
                     ]
                }

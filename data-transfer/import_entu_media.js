@@ -27,12 +27,12 @@ const mediamap = {
         { name: 'photo-big', suffix: '', strapi_name: 'hero_image' },
         { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium' }
     ],
-    // event: [
-    //     { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
-    //     { name: 'photo-gallery', suffix: '', strapi_name: 'gallery_image_large' },
-    //     { name: 'photo-big', suffix: '', strapi_name: 'hero_image' },
-    //     { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium' }
-    // ]
+    event: [
+        { name: 'photo-original', suffix: '', strapi_name: 'original_image' },
+        { name: 'photo-gallery', suffix: '', strapi_name: 'gallery_image_large' },
+        { name: 'photo-big', suffix: '', strapi_name: 'hero_image' },
+        { name: 'photo-medium', suffix: ' 350x350', strapi_name: 'gallery_image_medium' }
+    ]
 }
 const definitionmap = {
     echo: 'articles',
