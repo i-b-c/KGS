@@ -1,6 +1,28 @@
 [
      {
           "definition": "event",
+          "entu_id": 6935,
+          "medias": [
+               {
+                    "original_image": {
+                         "value": "Kati Ots_Foto.jpg",
+                         "db_value": 21714
+                    },
+                    "hero_image": {
+                         "value": "Kati Ots_Foto.jpg",
+                         "db_value": 21715
+                    }
+               },
+               {
+                    "gallery_image_medium": {
+                         "value": "Kati Ots_Foto.jpg",
+                         "db_value": 21716
+                    }
+               }
+          ]
+     },
+     {
+          "definition": "event",
           "entu_id": 6909,
           "medias": [
                {
