@@ -1,5 +1,361 @@
 [
      {
+          "id": 6974,
+          "displaypicture": "https://secure.gravatar.com/avatar/b11c3e3aaf3cfe496174ecc31a3c04d0?d=identicon&s=150",
+          "displayname": "Kolm küsimust Urmas Lüüsile",
+          "properties": {
+               "en-subtitle": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "pics-only": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "video": {
+                    "datatype": "text",
+                    "values": []
+               },
+               "en-contents": {
+                    "datatype": "text",
+                    "values": [
+                         {
+                              "value": "NB! CURRENTLY AVAILABLE ONLY IN ESTONIAN!  \n\n**Küsib: Lilli-Krõõt Repnau (LKR) Vastab: Urmas Lüüs (UL)**  \n\n**LKR:** Sinu märkmeid lugedes triivivad mõtted paratamatult kaasaegsetele disainiteooriatele. Tundub, et see on lähtepunkt ja tugistruktuur sinu koreograafiale – nii palju kui inimesed kujundavad esemeid ja keskkonda, kujundavad nad omakorda inimest ennast. Kas sa jätkad hetkel seda disain-koreograafilist suunda ning kui oluline on sinu jaoks see enesemääratlus?  \n\n**UL:** Võiks öelda, et üks olulisemaid märksõnu on siinkohal minu jaoks meisterlikkus. Olen saanud oma hariduse tarbekunsti ja disaini vallas, mis treenib lahendama probleeme ja valmistama oma kätega objekte. Hakates üha rohkem flirtima teatriga oli selge, et mul puudub nii ettevalmistav haridus kui ka praktikas lihvitud vilumus, et asuda tantsija või näitlejana lavale. Et vältida harrastusteatri efekti, kus laval olija mitte ei näitle rolli vaid näitleb rolli näitlevat näitlejat, tuli mul ankruna kasutada miskit, milles mul on vilumus. Tehniline teostus ei saa jääda kontseptsioonile alla. Võiksin ka 30 sekundit laval keerutada nagu Mart Kangro \"Enneminevikus\" või pröögates riideid seljast kiskudes ukerdada mööda publikutribüüni nagu Juhan Ulfsak lavastuses \"Kas te olete oma kohaga rahul\", kuid see oleks vaid küündimatu ja mannetu idee presenteerimine, mitte lavastuslikult pingestatud olukord. Oli selge, et ainus viis minna lavale osutub võimalikuks kunstniku ja disainerina. Ja mitte näitleva ja tantsiva kunstnikuna, vaid kunstnik Urmas Lüüsina. Ka residentuuri showingus laval olijatele kordasin kogu aeg üle, et ärge kõndige punktist A punkti B aeglasel lõputusse kinnistatud pilgul, vaid üritage kuidagi lihtsalt see distants ära kõndida Loora, Sarahi ja Atsina. Kõige muu eest hoolitsevad showingu jooksul kehale lisanduvad atribuudid. Seda sama performatiivse objekti liini kavatsen ka edaspidi ajada.  \n\n**LKR:** Sa küll ütlesid, et oma loomingus kollektiivsusega ei tegele aga ometi oli sul showingul paras kamp kunstnikke. Kuidas performerid haakusid Sinu residentuuri protsessiga ning kas see oli teadlik valik?  \n\n**UL:** Paraku pean sellele taaskord vastama kui disainer. Absoluutselt kõik on kollektiivne. Peeter Laurits on ühes oma Tartu Ülikooli loengus hästi välja toonud, et ega me ise mõelnud välja numbrit 0, ega vaielnud selgeks, kas 0 tühjusena võib olla ka kvantitatiivne väärtus. Mina pole välja mõtelnud seda keelt ja neid tähti, mille abil ma siin neid mõtteid konstrueerin. Mina sain selle kõik juba nö valmis kasutajapaketina, mis tuli vaid lapsena ajju installeerida. Oma egoismis võin küll väita, et see kirjutuslaud, mille taga hetkel tähti tipin on sae, puuri, tappide, peitsi ja vahaga individuaalselt minu loodud, aga samas ma ei võtnud metsas neid puid maha ega laasinud oma kätega, vaid ostsin saekaatris valmis lastud prussid ja latid. Samuti tuleb minu teadmine, mis asi on laud ja millistele parameetritele peab üks laud vastama, et seda oleks hea kirjutuslauana kasutada, juba eelnevate inimeste tarkusest. Mina vaid rakendan seda tarkust ja ehitusmaterjali oma võimetele vastavalt. Niisamuti on teatritraditsioon, millega Kanutis suhestuma hakkasin, juba sadade tuhandete teatritegijate poolt eriti sügavalt adraga kultuurimaastikku sisse küntud. Kõik mida me üksi või mitmekesi teeme on kantud paratamatust kollektiivsusest.  \n\n**LKR:** Viimasel ajal on palju kõneainet andnud voog-teatri temaatika. (Äkki võiks lihtsalt panna zoomi tööle ja koogata mööda põrandaid… ) Mis on need märksõnad, mis sind hetkel kõnetavad etenduskunstide puhul?  \n\n**UL:** Kindlasti on toonud piirangud meid lähemale kodusele ekraaniteatrile, aga enamasti ei ületa need minu jaoks klassikalist teleteatrit. Ka need paljukiidetud virtuaalnäitused ei ületa minu jaoks kellegi instakonto või koduka skrollimist. Üks põhjuseid, mis ma olen kunstnikuna teatrist valgele galeriikuubile alternatiivi otsima hakanud on kohalolu ja ajalis-ruumiline terviklikkus. Galeriist on võimalik vabalt valitud ajal läbi joosta ja paari minutiga kõigele tiir peale teha. Hinnang \"meeldib-ei meeldi\" ja \"on oma aja panustamist väärt-pohhui ei viitsi seda vaadata\" tuleb väga kergekäeliselt. Samas paljud teosed, eriti ruumikogemusele üles ehitatud installatsioonid, hakkavad toimima alles pärast mõningase aja panustamist. Enese teatris istekohale sulgemises on omajagu sado-masohhistlikku naudingut. Sund võtta aeg, sund süveneda, sund kogeda ruumi. Mida virtuaalsemaks muutub maailm, seda rohkem janunen inimliku kohalolu järele. Sedavõrd enam ei taha lihtsalt näha, mida keegi vaatamiseks kusagile galeriisse on jätnud, vaid soovin viibida eksklusiivses tervikliku kogemuse momendis. See on janu terviku järele. Mitte suvaliste arvutikõllide plärin vaid endasse mattev helimaastik. Peensuseni häälestatud ruumikogemus. Valguse dünaamika. Minu tähelepanuga mängimine. Teiste inimestega koos jagatud kogemus ja rituaalid (teatripuhvet). Ajaline piirang, mis lukustab mind oma raamidesse ja ei kordu sellises vormis enam kunagi. Vb olen ma paadunud romantik, aga no fakk off, seda ekraani ei suuda küll enam sedasi kaua jõllitada raisk.  \n\n**Fotod:** Hans-Otto Ojaste  \n**Sääremodell:** Jasper Roost",
+                              "db_value": "NB! CURRENTLY AVAILABLE ONLY IN ESTONIAN!  \n\n**Küsib: Lilli-Krõõt Repnau (LKR) Vastab: Urmas Lüüs (UL)**  \n\n**LKR:** Sinu märkmeid lugedes triivivad mõtted paratamatult kaasaegsetele disainiteooriatele. Tundub, et see on lähtepunkt ja tugistruktuur sinu koreograafiale – nii palju kui inimesed kujundavad esemeid ja keskkonda, kujundavad nad omakorda inimest ennast. Kas sa jätkad hetkel seda disain-koreograafilist suunda ning kui oluline on sinu jaoks see enesemääratlus?  \n\n**UL:** Võiks öelda, et üks olulisemaid märksõnu on siinkohal minu jaoks meisterlikkus. Olen saanud oma hariduse tarbekunsti ja disaini vallas, mis treenib lahendama probleeme ja valmistama oma kätega objekte. Hakates üha rohkem flirtima teatriga oli selge, et mul puudub nii ettevalmistav haridus kui ka praktikas lihvitud vilumus, et asuda tantsija või näitlejana lavale. Et vältida harrastusteatri efekti, kus laval olija mitte ei näitle rolli vaid näitleb rolli näitlevat näitlejat, tuli mul ankruna kasutada miskit, milles mul on vilumus. Tehniline teostus ei saa jääda kontseptsioonile alla. Võiksin ka 30 sekundit laval keerutada nagu Mart Kangro \"Enneminevikus\" või pröögates riideid seljast kiskudes ukerdada mööda publikutribüüni nagu Juhan Ulfsak lavastuses \"Kas te olete oma kohaga rahul\", kuid see oleks vaid küündimatu ja mannetu idee presenteerimine, mitte lavastuslikult pingestatud olukord. Oli selge, et ainus viis minna lavale osutub võimalikuks kunstniku ja disainerina. Ja mitte näitleva ja tantsiva kunstnikuna, vaid kunstnik Urmas Lüüsina. Ka residentuuri showingus laval olijatele kordasin kogu aeg üle, et ärge kõndige punktist A punkti B aeglasel lõputusse kinnistatud pilgul, vaid üritage kuidagi lihtsalt see distants ära kõndida Loora, Sarahi ja Atsina. Kõige muu eest hoolitsevad showingu jooksul kehale lisanduvad atribuudid. Seda sama performatiivse objekti liini kavatsen ka edaspidi ajada.  \n\n**LKR:** Sa küll ütlesid, et oma loomingus kollektiivsusega ei tegele aga ometi oli sul showingul paras kamp kunstnikke. Kuidas performerid haakusid Sinu residentuuri protsessiga ning kas see oli teadlik valik?  \n\n**UL:** Paraku pean sellele taaskord vastama kui disainer. Absoluutselt kõik on kollektiivne. Peeter Laurits on ühes oma Tartu Ülikooli loengus hästi välja toonud, et ega me ise mõelnud välja numbrit 0, ega vaielnud selgeks, kas 0 tühjusena võib olla ka kvantitatiivne väärtus. Mina pole välja mõtelnud seda keelt ja neid tähti, mille abil ma siin neid mõtteid konstrueerin. Mina sain selle kõik juba nö valmis kasutajapaketina, mis tuli vaid lapsena ajju installeerida. Oma egoismis võin küll väita, et see kirjutuslaud, mille taga hetkel tähti tipin on sae, puuri, tappide, peitsi ja vahaga individuaalselt minu loodud, aga samas ma ei võtnud metsas neid puid maha ega laasinud oma kätega, vaid ostsin saekaatris valmis lastud prussid ja latid. Samuti tuleb minu teadmine, mis asi on laud ja millistele parameetritele peab üks laud vastama, et seda oleks hea kirjutuslauana kasutada, juba eelnevate inimeste tarkusest. Mina vaid rakendan seda tarkust ja ehitusmaterjali oma võimetele vastavalt. Niisamuti on teatritraditsioon, millega Kanutis suhestuma hakkasin, juba sadade tuhandete teatritegijate poolt eriti sügavalt adraga kultuurimaastikku sisse küntud. Kõik mida me üksi või mitmekesi teeme on kantud paratamatust kollektiivsusest.  \n\n**LKR:** Viimasel ajal on palju kõneainet andnud voog-teatri temaatika. (Äkki võiks lihtsalt panna zoomi tööle ja koogata mööda põrandaid… ) Mis on need märksõnad, mis sind hetkel kõnetavad etenduskunstide puhul?  \n\n**UL:** Kindlasti on toonud piirangud meid lähemale kodusele ekraaniteatrile, aga enamasti ei ületa need minu jaoks klassikalist teleteatrit. Ka need paljukiidetud virtuaalnäitused ei ületa minu jaoks kellegi instakonto või koduka skrollimist. Üks põhjuseid, mis ma olen kunstnikuna teatrist valgele galeriikuubile alternatiivi otsima hakanud on kohalolu ja ajalis-ruumiline terviklikkus. Galeriist on võimalik vabalt valitud ajal läbi joosta ja paari minutiga kõigele tiir peale teha. Hinnang \"meeldib-ei meeldi\" ja \"on oma aja panustamist väärt-pohhui ei viitsi seda vaadata\" tuleb väga kergekäeliselt. Samas paljud teosed, eriti ruumikogemusele üles ehitatud installatsioonid, hakkavad toimima alles pärast mõningase aja panustamist. Enese teatris istekohale sulgemises on omajagu sado-masohhistlikku naudingut. Sund võtta aeg, sund süveneda, sund kogeda ruumi. Mida virtuaalsemaks muutub maailm, seda rohkem janunen inimliku kohalolu järele. Sedavõrd enam ei taha lihtsalt näha, mida keegi vaatamiseks kusagile galeriisse on jätnud, vaid soovin viibida eksklusiivses tervikliku kogemuse momendis. See on janu terviku järele. Mitte suvaliste arvutikõllide plärin vaid endasse mattev helimaastik. Peensuseni häälestatud ruumikogemus. Valguse dünaamika. Minu tähelepanuga mängimine. Teiste inimestega koos jagatud kogemus ja rituaalid (teatripuhvet). Ajaline piirang, mis lukustab mind oma raamidesse ja ei kordu sellises vormis enam kunagi. Vb olen ma paadunud romantik, aga no fakk off, seda ekraani ei suuda küll enam sedasi kaua jõllitada raisk.  \n\n**Fotod:** Hans-Otto Ojaste  \n**Sääremodell:** Jasper Roost"
+                         }
+                    ]
+               },
+               "photo-original": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "Photo09_10A.jpg",
+                              "db_value": 21737
+                         }
+                    ]
+               },
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-25T12:31:48+02:00",
+                              "db_value": "2021-01-25T12:31:48+02:00"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-25T12:14:18+02:00",
+                              "db_value": "2021-01-25T12:14:18+02:00"
+                         }
+                    ]
+               },
+               "author": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Lilli-Krõõt Repnau",
+                              "db_value": 6770
+                         }
+                    ]
+               },
+               "hide-gallery": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "category": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "et-subtitle": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "en-title": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kolm küsimust Urmas Lüüsile (CURRENTLY AVAILABLE ONLY IN ESTONIAN!)",
+                              "db_value": "Kolm küsimust Urmas Lüüsile (CURRENTLY AVAILABLE ONLY IN ESTONIAN!)"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "date": {
+                    "datatype": "date",
+                    "values": [
+                         {
+                              "value": "2021-01-25",
+                              "db_value": "2021-01-25 00:00:00"
+                         }
+                    ]
+               },
+               "et-contents": {
+                    "datatype": "text",
+                    "values": [
+                         {
+                              "value": "**Küsib: Lilli-Krõõt Repnau (LKR) Vastab: Urmas Lüüs (UL)**  \n\n**LKR:** Sinu märkmeid lugedes triivivad mõtted paratamatult kaasaegsetele disainiteooriatele. Tundub, et see on lähtepunkt ja tugistruktuur sinu koreograafiale – nii palju kui inimesed kujundavad esemeid ja keskkonda, kujundavad nad omakorda inimest ennast. Kas sa jätkad hetkel seda disain-koreograafilist suunda ning kui oluline on sinu jaoks see enesemääratlus?  \n\n**UL:** Võiks öelda, et üks olulisemaid märksõnu on siinkohal minu jaoks meisterlikkus. Olen saanud oma hariduse tarbekunsti ja disaini vallas, mis treenib lahendama probleeme ja valmistama oma kätega objekte. Hakates üha rohkem flirtima teatriga oli selge, et mul puudub nii ettevalmistav haridus kui ka praktikas lihvitud vilumus, et asuda tantsija või näitlejana lavale. Et vältida harrastusteatri efekti, kus laval olija mitte ei näitle rolli vaid näitleb rolli näitlevat näitlejat, tuli mul ankruna kasutada miskit, milles mul on vilumus. Tehniline teostus ei saa jääda kontseptsioonile alla. Võiksin ka 30 sekundit laval keerutada nagu Mart Kangro \"Enneminevikus\" või pröögates riideid seljast kiskudes ukerdada mööda publikutribüüni nagu Juhan Ulfsak lavastuses \"Kas te olete oma kohaga rahul\", kuid see oleks vaid küündimatu ja mannetu idee presenteerimine, mitte lavastuslikult pingestatud olukord. Oli selge, et ainus viis minna lavale osutub võimalikuks kunstniku ja disainerina. Ja mitte näitleva ja tantsiva kunstnikuna, vaid kunstnik Urmas Lüüsina. Ka residentuuri showingus laval olijatele kordasin kogu aeg üle, et ärge kõndige punktist A punkti B aeglasel lõputusse kinnistatud pilgul, vaid üritage kuidagi lihtsalt see distants ära kõndida Loora, Sarahi ja Atsina. Kõige muu eest hoolitsevad showingu jooksul kehale lisanduvad atribuudid. Seda sama performatiivse objekti liini kavatsen ka edaspidi ajada.  \n\n**LKR:** Sa küll ütlesid, et oma loomingus kollektiivsusega ei tegele aga ometi oli sul showingul paras kamp kunstnikke. Kuidas performerid haakusid Sinu residentuuri protsessiga ning kas see oli teadlik valik?  \n\n**UL:** Paraku pean sellele taaskord vastama kui disainer. Absoluutselt kõik on kollektiivne. Peeter Laurits on ühes oma Tartu Ülikooli loengus hästi välja toonud, et ega me ise mõelnud välja numbrit 0, ega vaielnud selgeks, kas 0 tühjusena võib olla ka kvantitatiivne väärtus. Mina pole välja mõtelnud seda keelt ja neid tähti, mille abil ma siin neid mõtteid konstrueerin. Mina sain selle kõik juba nö valmis kasutajapaketina, mis tuli vaid lapsena ajju installeerida. Oma egoismis võin küll väita, et see kirjutuslaud, mille taga hetkel tähti tipin on sae, puuri, tappide, peitsi ja vahaga individuaalselt minu loodud, aga samas ma ei võtnud metsas neid puid maha ega laasinud oma kätega, vaid ostsin saekaatris valmis lastud prussid ja latid. Samuti tuleb minu teadmine, mis asi on laud ja millistele parameetritele peab üks laud vastama, et seda oleks hea kirjutuslauana kasutada, juba eelnevate inimeste tarkusest. Mina vaid rakendan seda tarkust ja ehitusmaterjali oma võimetele vastavalt. Niisamuti on teatritraditsioon, millega Kanutis suhestuma hakkasin, juba sadade tuhandete teatritegijate poolt eriti sügavalt adraga kultuurimaastikku sisse küntud. Kõik mida me üksi või mitmekesi teeme on kantud paratamatust kollektiivsusest.  \n\n**LKR:** Viimasel ajal on palju kõneainet andnud voog-teatri temaatika. (Äkki võiks lihtsalt panna zoomi tööle ja koogata mööda põrandaid… ) Mis on need märksõnad, mis sind hetkel kõnetavad etenduskunstide puhul?  \n\n**UL:** Kindlasti on toonud piirangud meid lähemale kodusele ekraaniteatrile, aga enamasti ei ületa need minu jaoks klassikalist teleteatrit. Ka need paljukiidetud virtuaalnäitused ei ületa minu jaoks kellegi instakonto või koduka skrollimist. Üks põhjuseid, mis ma olen kunstnikuna teatrist valgele galeriikuubile alternatiivi otsima hakanud on kohalolu ja ajalis-ruumiline terviklikkus. Galeriist on võimalik vabalt valitud ajal läbi joosta ja paari minutiga kõigele tiir peale teha. Hinnang \"meeldib-ei meeldi\" ja \"on oma aja panustamist väärt-pohhui ei viitsi seda vaadata\" tuleb väga kergekäeliselt. Samas paljud teosed, eriti ruumikogemusele üles ehitatud installatsioonid, hakkavad toimima alles pärast mõningase aja panustamist. Enese teatris istekohale sulgemises on omajagu sado-masohhistlikku naudingut. Sund võtta aeg, sund süveneda, sund kogeda ruumi. Mida virtuaalsemaks muutub maailm, seda rohkem janunen inimliku kohalolu järele. Sedavõrd enam ei taha lihtsalt näha, mida keegi vaatamiseks kusagile galeriisse on jätnud, vaid soovin viibida eksklusiivses tervikliku kogemuse momendis. See on janu terviku järele. Mitte suvaliste arvutikõllide plärin vaid endasse mattev helimaastik. Peensuseni häälestatud ruumikogemus. Valguse dünaamika. Minu tähelepanuga mängimine. Teiste inimestega koos jagatud kogemus ja rituaalid (teatripuhvet). Ajaline piirang, mis lukustab mind oma raamidesse ja ei kordu sellises vormis enam kunagi. Vb olen ma paadunud romantik, aga no fakk off, seda ekraani ei suuda küll enam sedasi kaua jõllitada raisk.  \n\n**Fotod:** Hans-Otto Ojaste  \n**Sääremodell:** Jasper Roost",
+                              "db_value": "**Küsib: Lilli-Krõõt Repnau (LKR) Vastab: Urmas Lüüs (UL)**  \n\n**LKR:** Sinu märkmeid lugedes triivivad mõtted paratamatult kaasaegsetele disainiteooriatele. Tundub, et see on lähtepunkt ja tugistruktuur sinu koreograafiale – nii palju kui inimesed kujundavad esemeid ja keskkonda, kujundavad nad omakorda inimest ennast. Kas sa jätkad hetkel seda disain-koreograafilist suunda ning kui oluline on sinu jaoks see enesemääratlus?  \n\n**UL:** Võiks öelda, et üks olulisemaid märksõnu on siinkohal minu jaoks meisterlikkus. Olen saanud oma hariduse tarbekunsti ja disaini vallas, mis treenib lahendama probleeme ja valmistama oma kätega objekte. Hakates üha rohkem flirtima teatriga oli selge, et mul puudub nii ettevalmistav haridus kui ka praktikas lihvitud vilumus, et asuda tantsija või näitlejana lavale. Et vältida harrastusteatri efekti, kus laval olija mitte ei näitle rolli vaid näitleb rolli näitlevat näitlejat, tuli mul ankruna kasutada miskit, milles mul on vilumus. Tehniline teostus ei saa jääda kontseptsioonile alla. Võiksin ka 30 sekundit laval keerutada nagu Mart Kangro \"Enneminevikus\" või pröögates riideid seljast kiskudes ukerdada mööda publikutribüüni nagu Juhan Ulfsak lavastuses \"Kas te olete oma kohaga rahul\", kuid see oleks vaid küündimatu ja mannetu idee presenteerimine, mitte lavastuslikult pingestatud olukord. Oli selge, et ainus viis minna lavale osutub võimalikuks kunstniku ja disainerina. Ja mitte näitleva ja tantsiva kunstnikuna, vaid kunstnik Urmas Lüüsina. Ka residentuuri showingus laval olijatele kordasin kogu aeg üle, et ärge kõndige punktist A punkti B aeglasel lõputusse kinnistatud pilgul, vaid üritage kuidagi lihtsalt see distants ära kõndida Loora, Sarahi ja Atsina. Kõige muu eest hoolitsevad showingu jooksul kehale lisanduvad atribuudid. Seda sama performatiivse objekti liini kavatsen ka edaspidi ajada.  \n\n**LKR:** Sa küll ütlesid, et oma loomingus kollektiivsusega ei tegele aga ometi oli sul showingul paras kamp kunstnikke. Kuidas performerid haakusid Sinu residentuuri protsessiga ning kas see oli teadlik valik?  \n\n**UL:** Paraku pean sellele taaskord vastama kui disainer. Absoluutselt kõik on kollektiivne. Peeter Laurits on ühes oma Tartu Ülikooli loengus hästi välja toonud, et ega me ise mõelnud välja numbrit 0, ega vaielnud selgeks, kas 0 tühjusena võib olla ka kvantitatiivne väärtus. Mina pole välja mõtelnud seda keelt ja neid tähti, mille abil ma siin neid mõtteid konstrueerin. Mina sain selle kõik juba nö valmis kasutajapaketina, mis tuli vaid lapsena ajju installeerida. Oma egoismis võin küll väita, et see kirjutuslaud, mille taga hetkel tähti tipin on sae, puuri, tappide, peitsi ja vahaga individuaalselt minu loodud, aga samas ma ei võtnud metsas neid puid maha ega laasinud oma kätega, vaid ostsin saekaatris valmis lastud prussid ja latid. Samuti tuleb minu teadmine, mis asi on laud ja millistele parameetritele peab üks laud vastama, et seda oleks hea kirjutuslauana kasutada, juba eelnevate inimeste tarkusest. Mina vaid rakendan seda tarkust ja ehitusmaterjali oma võimetele vastavalt. Niisamuti on teatritraditsioon, millega Kanutis suhestuma hakkasin, juba sadade tuhandete teatritegijate poolt eriti sügavalt adraga kultuurimaastikku sisse küntud. Kõik mida me üksi või mitmekesi teeme on kantud paratamatust kollektiivsusest.  \n\n**LKR:** Viimasel ajal on palju kõneainet andnud voog-teatri temaatika. (Äkki võiks lihtsalt panna zoomi tööle ja koogata mööda põrandaid… ) Mis on need märksõnad, mis sind hetkel kõnetavad etenduskunstide puhul?  \n\n**UL:** Kindlasti on toonud piirangud meid lähemale kodusele ekraaniteatrile, aga enamasti ei ületa need minu jaoks klassikalist teleteatrit. Ka need paljukiidetud virtuaalnäitused ei ületa minu jaoks kellegi instakonto või koduka skrollimist. Üks põhjuseid, mis ma olen kunstnikuna teatrist valgele galeriikuubile alternatiivi otsima hakanud on kohalolu ja ajalis-ruumiline terviklikkus. Galeriist on võimalik vabalt valitud ajal läbi joosta ja paari minutiga kõigele tiir peale teha. Hinnang \"meeldib-ei meeldi\" ja \"on oma aja panustamist väärt-pohhui ei viitsi seda vaadata\" tuleb väga kergekäeliselt. Samas paljud teosed, eriti ruumikogemusele üles ehitatud installatsioonid, hakkavad toimima alles pärast mõningase aja panustamist. Enese teatris istekohale sulgemises on omajagu sado-masohhistlikku naudingut. Sund võtta aeg, sund süveneda, sund kogeda ruumi. Mida virtuaalsemaks muutub maailm, seda rohkem janunen inimliku kohalolu järele. Sedavõrd enam ei taha lihtsalt näha, mida keegi vaatamiseks kusagile galeriisse on jätnud, vaid soovin viibida eksklusiivses tervikliku kogemuse momendis. See on janu terviku järele. Mitte suvaliste arvutikõllide plärin vaid endasse mattev helimaastik. Peensuseni häälestatud ruumikogemus. Valguse dünaamika. Minu tähelepanuga mängimine. Teiste inimestega koos jagatud kogemus ja rituaalid (teatripuhvet). Ajaline piirang, mis lukustab mind oma raamidesse ja ei kordu sellises vormis enam kunagi. Vb olen ma paadunud romantik, aga no fakk off, seda ekraani ei suuda küll enam sedasi kaua jõllitada raisk.  \n\n**Fotod:** Hans-Otto Ojaste  \n**Sääremodell:** Jasper Roost"
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "et-title": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "Kolm küsimust Urmas Lüüsile",
+                              "db_value": "Kolm küsimust Urmas Lüüsile"
+                         }
+                    ]
+               },
+               "photo-medium": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "kolmkusimusturmasluusile_700x1400_02.jpeg",
+                              "db_value": 21735
+                         },
+                         {
+                              "value": "kolmkusimusturmasluusile_700x1400_03.jpeg",
+                              "db_value": 21736
+                         }
+                    ]
+               },
+               "photo-big": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "kolmkusimusturmasluusile_1400x700_01.jpeg",
+                              "db_value": 21734
+                         }
+                    ]
+               },
+               "audio": {
+                    "datatype": "text",
+                    "values": []
+               }
+          },
+          "childs": []
+     },
+     {
+          "id": 6972,
+          "displaypicture": "https://secure.gravatar.com/avatar/566f0ea4f6c2e947f36795c8f58ba901?d=identicon&s=150",
+          "displayname": "RESKRIPTI REEDE: LAHUTATUD",
+          "properties": {
+               "en-subtitle": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "photo": {
+                    "datatype": "file",
+                    "values": []
+               },
+               "featured": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "pics-only": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "False",
+                              "db_value": 0
+                         }
+                    ]
+               },
+               "video": {
+                    "datatype": "text",
+                    "values": []
+               },
+               "en-contents": {
+                    "datatype": "text",
+                    "values": [
+                         {
+                              "value": "NB! CURRENTLY AVAILABLE ONLY IN ESTONIAN!  \n\n![reskript_vol_5_lahutatud](https://saal.entu.ee/api2/file-21733)",
+                              "db_value": "NB! CURRENTLY AVAILABLE ONLY IN ESTONIAN!  \n\n![reskript_vol_5_lahutatud](https://saal.entu.ee/api2/file-21733)"
+                         }
+                    ]
+               },
+               "photo-original": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "reskripti reede foto aksel haagensen.jpg",
+                              "db_value": 21730
+                         }
+                    ]
+               },
+               "entu-changed-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-22T19:21:23+02:00",
+                              "db_value": "2021-01-22T19:21:23+02:00"
+                         }
+                    ]
+               },
+               "entu-created-at": {
+                    "datatype": "datetime",
+                    "values": [
+                         {
+                              "value": "2021-01-22T19:04:04+02:00",
+                              "db_value": "2021-01-22T19:04:04+02:00"
+                         }
+                    ]
+               },
+               "author": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "RESKRIPT ",
+                              "db_value": 6227
+                         }
+                    ]
+               },
+               "hide-gallery": {
+                    "datatype": "boolean",
+                    "values": [
+                         {
+                              "value": "True",
+                              "db_value": 1
+                         }
+                    ]
+               },
+               "category": {
+                    "datatype": "reference",
+                    "values": []
+               },
+               "et-subtitle": {
+                    "datatype": "string",
+                    "values": []
+               },
+               "en-title": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "RESKRIPTI REEDE: LAHUTATUD  (CURRENTLY AVAILABLE ONLY IN ESTONIAN!)",
+                              "db_value": "RESKRIPTI REEDE: LAHUTATUD  (CURRENTLY AVAILABLE ONLY IN ESTONIAN!)"
+                         }
+                    ]
+               },
+               "entu-created-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "date": {
+                    "datatype": "date",
+                    "values": [
+                         {
+                              "value": "2021-01-22",
+                              "db_value": "2021-01-22 00:00:00"
+                         }
+                    ]
+               },
+               "et-contents": {
+                    "datatype": "text",
+                    "values": [
+                         {
+                              "value": "![reskript_vol_5_lahutatud](https://saal.entu.ee/api2/file-21733)",
+                              "db_value": "![reskript_vol_5_lahutatud](https://saal.entu.ee/api2/file-21733)"
+                         }
+                    ]
+               },
+               "entu-changed-by": {
+                    "datatype": "reference",
+                    "values": [
+                         {
+                              "value": "Annika Üprus",
+                              "db_value": 612
+                         }
+                    ]
+               },
+               "et-title": {
+                    "datatype": "string",
+                    "values": [
+                         {
+                              "value": "RESKRIPTI REEDE: LAHUTATUD",
+                              "db_value": "RESKRIPTI REEDE: LAHUTATUD"
+                         }
+                    ]
+               },
+               "photo-medium": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "reskripti reede foto aksel haagensen.jpg",
+                              "db_value": 21732
+                         }
+                    ]
+               },
+               "photo-big": {
+                    "datatype": "file",
+                    "values": [
+                         {
+                              "value": "RESKRIPT vol 1 foto Aksel Haagensen 1400x700.jpg",
+                              "db_value": 21731
+                         }
+                    ]
+               },
+               "audio": {
+                    "datatype": "text",
+                    "values": []
+               }
+          },
+          "childs": []
+     },
+     {
           "id": 6941,
           "displaypicture": "https://secure.gravatar.com/avatar/aad64398a969ec3186800d412fa7ab31?d=identicon&s=150",
           "displayname": "RESKRIPTI REEDE: TASASELT KÕRGE",
